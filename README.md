@@ -6,6 +6,8 @@
 
 ## GitHub 安装与更新
 
+完整模块文件及源码随每个 Release 的 `plutonium-cn.zip` 发布；仓库根目录保存安装清单与说明，请使用清单或发行附件安装。
+
 安装清单：<https://github.com/DraculaCradle/plutonium-cn/releases/latest/download/module.json>
 
 在 Foundry 设置界面的“附加模块 → 安装模块”中粘贴以上清单地址安装。已有手动安装版本时，先备份原模块目录；若 Foundry 没有记录该清单地址，需要使用清单重新安装一次。世界里的角色和场景不在模块目录中。
