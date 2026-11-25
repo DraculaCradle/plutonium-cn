@@ -1,0 +1,43 @@
+name: Import existing module sources
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/import-sources.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Import verified release sources
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -f js/Bundle.js ]; then
+            python tools/import-sources.py
+          fi
+      - name: Validate source and package
+        run: |
+          node --check js/Bundle.js
+          python tools/build-release.py
+          python -c 'import json; from pathlib import Path; Path("tools/source-import-result.json").write_text(json.dumps({"sourceImport": "passed", "syntax": "passed", "package": "passed", "version": json.load(open("module.json"))["version"]}, indent=2) + "\n")'
+      - name: Commit imported sources
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import verified cn.9 module sources and validate release build'
+            git push origin HEAD:main
+          fi
