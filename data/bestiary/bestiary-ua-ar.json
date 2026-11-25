@@ -1,0 +1,221 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Alchemical Homunculus",
+			"name": "炼金人工生命体",
+			"source": "UAArtificerRevisited",
+			"page": 6,
+			"size": [
+				"T"
+			],
+			"type": "construct",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"天生护甲"
+					]
+				}
+			],
+			"hp": {
+				"special": "等于你在本职业等级的五倍加上你的智力调整值"
+			},
+			"speed": {
+				"walk": 20,
+				"fly": 30
+			},
+			"str": 4,
+			"dex": 15,
+			"con": 11,
+			"int": 10,
+			"wis": 10,
+			"cha": 7,
+			"skill": {
+				"perception": "+4",
+				"stealth": "+4"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"immune": [
+				"强酸",
+				"毒素"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"力竭",
+				"中毒"
+			],
+			"languages": [
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Might of the Master",
+					"name": "大师之力",
+					"entries": [
+						"当你的熟练加值增加1时，以下数值也会相应增加1：人工生命体的技能加值以及它的酸性唾沫的命中和伤害加值。"
+					]
+				}
+			],
+			"actionNote": "需要你的附赠动作",
+			"action": [
+				{
+					"ENG_name": "Acidic Spittle",
+					"name": "酸性唾沫",
+					"entries": [
+						"{@atk rw} 命中{@hit 4}，射程30英尺，一个你能看到的目标。{@h}{@damage 1d6 + 2} 酸液伤害。"
+					]
+				},
+				{
+					"ENG_name": "Alchemical Salve (3/Day)",
+					"name": "炼金药膏（3/日）",
+					"entries": [
+						"这个人工生命体制造出一种药膏并触摸你指定的一个生物。目标将获得你选择的以下魔法效果之一：",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"ENG_name": "Buoyancy",
+									"name": "漂浮",
+									"type": "item",
+									"entry": "目标获得10英尺的飞行速度，持续10分钟。"
+								},
+								{
+									"ENG_name": "Inspiration",
+									"name": "激励",
+									"type": "item",
+									"entry": "目标感到头晕目眩但效果显著，在接下来的一小时内，在某些属性检定上获得优势。目标在掷骰前或掷骰后选择检定。当目标使用了等于你的智力调整值（最少为1）的次数后，魔法效果就会消失。"
+								},
+								{
+									"ENG_name": "Resilience",
+									"name": "韧性",
+									"type": "item",
+									"entry": "目标获得等于{@dice 2d6}加上你的智力调整值的临时生命值。"
+								}
+							]
+						}
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"A"
+			],
+			"miscTags": [
+				"RW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Iron Defender",
+			"name": "白铁守卫",
+			"source": "UAArtificerRevisited",
+			"page": 11,
+			"size": [
+				"M"
+			],
+			"type": "construct",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"天生护甲"
+					]
+				}
+			],
+			"hp": {
+				"special": "等于你在这个职业等级的五倍加上你的智力调整值加上铁卫的体质调整值"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 14,
+			"dex": 12,
+			"con": 14,
+			"int": 4,
+			"wis": 10,
+			"cha": 6,
+			"skill": {
+				"perception": "+4"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"immune": [
+				"毒素"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"力竭",
+				"中毒"
+			],
+			"languages": [
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Might of the Master",
+					"name": "大师之力",
+					"entries": [
+						"当你的熟练加值增加1时，以下数值也会增加1：铁卫的技能加值，其咬击的命中和伤害加值，以及其修复动作恢复的生命值数量。"
+					]
+				},
+				{
+					"ENG_name": "Vigilant",
+					"name": "警觉",
+					"entries": [
+						"铁卫无法被{@quickref 突袭|PHB|3|0|突袭}。"
+					]
+				}
+			],
+			"actionNote": "需要你的附赠动作",
+			"action": [
+				{
+					"ENG_name": "Bite",
+					"name": "啃咬",
+					"entries": [
+						"{@atk mw} 命中{@hit 4}，触及范围5英尺，一个你能看到的目标。{@h}{@damage 1d8 + 2} 穿刺伤害。"
+					]
+				},
+				{
+					"ENG_name": "Repair (3/Day)",
+					"name": "修理（ 3 次/天）",
+					"entries": [
+						"铁卫内部的魔法机制恢复自身或5英尺内一个构造体或物体的{@dice 2d8 + 2}生命值。"
+					]
+				}
+			],
+			"reaction": [
+				{
+					"ENG_name": "Defensive Pounce",
+					"name": "防御猛扑",
+					"entries": [
+						"铁卫使一个它能看到的、距离它5英尺内的生物在攻击骰上处于劣势，前提是该攻击骰不是针对铁卫本身。"
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		}
+	]
+}

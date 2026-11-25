@@ -1,0 +1,223 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Reaper Spirit",
+			"name": "收割者灵魄",
+			"source": "UA2022WondersOfTheMultiverse",
+			"page": 11,
+			"size": [
+				"M"
+			],
+			"type": "undead",
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "40 +10×每比3环高的法术等级"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "(悬浮)"
+				},
+				"canHover": true
+			},
+			"str": 16,
+			"dex": 16,
+			"con": 16,
+			"int": 16,
+			"wis": 16,
+			"cha": 16,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 13,
+			"immune": [
+				"暗蚀",
+				"毒素"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"恐慌",
+				"麻痹",
+				"中毒"
+			],
+			"languages": [
+				"理解你所说的语言"
+			],
+			"pbNote": "等于你的加值",
+			"trait": [
+				{
+					"ENG_name": "Incorporeal Movement",
+					"name": "虚体移动",
+					"entries": [
+						"收割者可以如同穿越困难地形一般穿越其他生物和物件。如果它在物件内结束其回合，它会被推挤到最近的未占据空间，并且每移动5尺受到{@damage 1d10}力场伤害。"
+					]
+				},
+				{
+					"ENG_name": "Haunting Tracker",
+					"name": "《萦绕追踪者》",
+					"entries": [
+						"如果你和收割者在同一存在平面上，你可以感知到被诅咒生物的方向和距离。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"收割者进行的攻击次数等于这个法术等级的一半（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Reaping Scythe",
+					"name": "收割之镰",
+					"entries": [
+						"{@atk mw} 你的法术攻击调整值用于命中（具有优势），触及范围5英尺，单一目标。{@h}{@damage 1d10 + 3} + 法术等级的亡灵伤害。"
+					]
+				},
+				{
+					"ENG_name": "Paralyzing Fear (1/Day)",
+					"name": "瘫痪恐惧（每日1次）",
+					"entries": [
+						"收割者试图在60英尺范围内对自己可以看到的受萦绕生物灌输恐惧。该生物必须通过一次对抗你的法术豁免DC的感知豁免，否则会因恐惧收割者而受到{@condition 恐慌}状态影响，持续1分钟。处于{@condition 恐慌}状态的生物速度变为0，且无法从任何速度加成中受益。受到{@condition 恐慌}状态影响的生物可以在自己的回合结束时重复进行豁免检定，或者在受到伤害后立即重复投掷，成功则结束该效果。"
+					]
+				}
+			],
+			"traitTags": [
+				"虚体移动"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"damageTags": [
+				"N",
+				"O"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"恐慌"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Warrior Spirit",
+			"name": "战士之魂",
+			"source": "UA2022WondersOfTheMultiverse",
+			"page": 11,
+			"size": [
+				"M"
+			],
+			"type": "undead",
+			"ac": [
+				{
+					"special": "13 + 法术等级 +2（仅战士）"
+				}
+			],
+			"hp": {
+				"special": "30（仅限野蛮人和战士）或20（仅限武僧） +10×每比3环高的法术等级"
+			},
+			"speed": {
+				"walk": 30,
+				"alternate": {
+					"walk": [
+						{
+							"number": 40,
+							"condition": "（仅武僧）"
+						}
+					]
+				}
+			},
+			"str": 16,
+			"dex": 16,
+			"con": 14,
+			"int": 10,
+			"wis": 16,
+			"cha": 9,
+			"save": {
+				"str": "+3",
+				"dex": "+3"
+			},
+			"passive": 13,
+			"resist": [
+				"毒素"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"中毒"
+			],
+			"languages": [
+				"通用语",
+				"理解你所说的语言"
+			],
+			"pbNote": "等于你的加值",
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"战士进行的攻击次数等于这个法术等级的一半（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Reckless Strike (Barbarian Only)",
+					"name": "鲁莽攻击（仅野蛮人）",
+					"entries": [
+						"{@atk mw} 你的法术攻击调整值用于命中（具有优势），触及范围5英尺，单一目标。{@h}{@damage 1d12 + 3} + 法术等级的挥砍伤害，且在战士的下一回合开始之前，对战士进行的攻击都具有优势。"
+					]
+				},
+				{
+					"ENG_name": "Rallying Strike (Fighter Only)",
+					"name": "振奋打击（仅战士）",
+					"entries": [
+						"{@atk mw,rw} 你的法术攻击调整值来命中，触及范围5英尺，或射程20/60英尺，单一目标。{@h}{@damage 1d6 + 3} + 法术等级的穿刺伤害，战士可以选择另一个它可以看到的，距离自己20英尺内的生物。选定的生物获得{@dice 1d6}临时生命值。"
+					]
+				},
+				{
+					"ENG_name": "Unarmed Strike (Monk Only)",
+					"name": "徒手攻击（仅僧侣）",
+					"entries": [
+						"{@atk mw} 你的法术攻击调整值来命中，触及范围5英尺，单一目标。{@h}{@damage 1d4 + 3} + 法术等级的钝击伤害，目标必须成功通过一次对抗你的法术豁免DC的力量豁免，否则会被击倒{@condition 倒地}。"
+					]
+				}
+			],
+			"bonus": [
+				{
+					"ENG_name": "Flurry of Blows (Monk Only)",
+					"name": "连击（仅僧侣）",
+					"entries": [
+						"和尚进行一次空手攻击。"
+					]
+				}
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"B",
+				"P",
+				"S"
+			],
+			"miscTags": [
+				"MW",
+				"RW"
+			],
+			"conditionInflict": [
+				"倒地"
+			],
+			"hasToken": true
+		}
+	]
+}

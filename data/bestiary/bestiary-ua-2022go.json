@@ -1,0 +1,71 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Primeval Companion",
+			"name": "原始伙伴",
+			"source": "UA2022GiantOptions",
+			"page": 2,
+			"size": [
+				"M"
+			],
+			"type": "beast",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"special": "13+PB（天生护甲）"
+				}
+			],
+			"hp": {
+				"special": "10 加上你的德鲁伊等级的五倍（伙伴拥有等于你的德鲁伊等级的命中骰数量[d10]）"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 15,
+			"dex": 15,
+			"con": 17,
+			"int": 6,
+			"wis": 12,
+			"cha": 8,
+			"save": {
+				"dex": "+2 + PB",
+				"con": "+3 + PB（个人加成）"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 11,
+			"languages": [
+				"理解你所说的语言"
+			],
+			"pbNote": "等于你的加值",
+			"action": [
+				{
+					"ENG_name": "Strike",
+					"name": "打击",
+					"entries": [
+						"{@atk mw} 攻击加值 +2 加上PB，触及范围5英尺，单一目标。{@h}{@dice 1d8} 加上PB的钝击、穿刺或挥砍伤害（由你选择）。"
+					]
+				}
+			],
+			"reaction": [
+				{
+					"ENG_name": "Intercept Attack",
+					"name": "攻击拦截",
+					"entries": [
+						"当伙伴可以看到的生物用攻击击中一个目标，并且该目标在伙伴5英尺范围内时，目标只受到一半的伤害。伙伴承担剩余的伤害。"
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		}
+	]
+}

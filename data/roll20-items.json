@@ -1,0 +1,1120 @@
+{
+	"item": [
+		{
+			"ENG_name": "Amulet of Health",
+			"name": "健康护符",
+			"source": "DMG",
+			"Modifiers": "体质：19"
+		},
+		{
+			"ENG_name": "Arrow +1",
+			"name": "箭 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Arrow +2",
+			"name": "箭 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Arrow +3",
+			"name": "箭 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Battleaxe +1",
+			"name": "+1 战斧",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Battleaxe +2",
+			"name": "双手斧+2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Battleaxe +3",
+			"name": "战斧 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Belt of Dwarvenkind",
+			"name": "矮人腰带",
+			"source": "DMG",
+			"Modifiers": "体质 +2"
+		},
+		{
+			"ENG_name": "Belt of Giant Strength",
+			"name": "巨人之力腰带",
+			"source": "DMG",
+			"Modifiers": "力量：21"
+		},
+		{
+			"ENG_name": "Blowgun +1",
+			"name": "吹箭筒 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Blowgun +2",
+			"name": "吹箭筒 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Blowgun +3",
+			"name": "吹箭筒 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Bracers of Defense",
+			"name": "防御护腕",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Breastplate +1",
+			"name": "胸甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Breastplate +2",
+			"name": "胸甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Breastplate +3",
+			"name": "胸甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Chain Mail +1",
+			"name": "链甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Chain Mail +2",
+			"name": "锁子甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Chain Mail +3",
+			"name": "链甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Chain Shirt +1",
+			"name": "链甲衫 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Chain Shirt +2",
+			"name": "链衫 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Chain Shirt +3",
+			"name": "链甲衫 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Cloak of Protection",
+			"name": "防护斗篷",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +1, 豁免检定 +1"
+		},
+		{
+			"ENG_name": "Club +1",
+			"name": "棍棒 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Club +2",
+			"name": "棍棒 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Club +3",
+			"name": "棍棒 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Dagger +1",
+			"name": "+1 匕首",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Dagger +2",
+			"name": "匕首 +2",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +2, 武器伤害 +2"
+		},
+		{
+			"ENG_name": "Dagger +3",
+			"name": "匕首 +3",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +3, 武器伤害 +3"
+		},
+		{
+			"ENG_name": "Dagger of Venom",
+			"name": "淬毒匕首",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Dart +1",
+			"name": "飞镖 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Dart +2",
+			"name": "飞镖 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Dart +3",
+			"name": "飞镖 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Demon Armor",
+			"name": "恶魔护甲",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Dwarven Plate",
+			"name": "矮人板甲",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Dwarven Thrower",
+			"name": "矮人飞锤",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +3, 武器伤害 +3"
+		},
+		{
+			"ENG_name": "Elven Chain",
+			"name": "精灵链甲",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Flail +1",
+			"name": "链枷 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Flail +2",
+			"name": "链枷 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Flail +3",
+			"name": "链枷 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Gauntlets of Ogre Power",
+			"name": "食人魔力量护手",
+			"source": "DMG",
+			"Modifiers": "力量：19"
+		},
+		{
+			"ENG_name": "Glaive +1",
+			"name": "长柄刀 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Glaive +2",
+			"name": "长柄刀 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Glaive +3",
+			"name": "长柄刀 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Glamoured Studded Leather",
+			"name": "幻惑镶钉皮甲",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Greataxe +1",
+			"name": "+1 巨斧",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Greataxe +2",
+			"name": "+2 巨斧",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Greataxe +3",
+			"name": "巨斧 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Greatclub +1",
+			"name": "巨棒 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Greatclub +2",
+			"name": "巨棒 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Greatclub +3",
+			"name": "巨棒 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Greater Silver Sword",
+			"name": "高等银剑",
+			"source": "MTF",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Greatsword +1",
+			"name": "大剑 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Greatsword +2",
+			"name": "+2 巨剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Greatsword +3",
+			"name": "大剑 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Halberd +1",
+			"name": "长戟 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Halberd +2",
+			"name": "长戟 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Halberd +3",
+			"name": "长戟 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Half Plate Armor +1",
+			"name": "半身板甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Half Plate Armor +2",
+			"name": "半身板甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Half Plate Armor +3",
+			"name": "半身板甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Hammer of Thunderbolts",
+			"name": "雷神之锤",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Hand Crossbow +1",
+			"name": "+1 手弩",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Hand Crossbow +2",
+			"name": "手弩 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Hand Crossbow +3",
+			"name": "手弩 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Handaxe +1",
+			"name": "+1 手斧",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Handaxe +2",
+			"name": "手斧 +2",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +2, 武器伤害 +2"
+		},
+		{
+			"ENG_name": "Handaxe +3",
+			"name": "手斧 +3",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +3, 武器伤害 +3"
+		},
+		{
+			"ENG_name": "Headband of Intellect",
+			"name": "智力头带",
+			"source": "DMG",
+			"Modifiers": "智力：19"
+		},
+		{
+			"ENG_name": "Heavy Crossbow +1",
+			"name": "重型十字弓 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Heavy Crossbow +2",
+			"name": "重型十字弓 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Heavy Crossbow +3",
+			"name": "重十字弓 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Hide Armor +1",
+			"name": "皮甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Hide Armor +2",
+			"name": "皮甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Hide Armor +3",
+			"name": "皮甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Javelin +1",
+			"name": "标枪 +1",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Javelin +2",
+			"name": "标枪 +2",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +2, 武器伤害 +2"
+		},
+		{
+			"ENG_name": "Javelin +3",
+			"name": "标枪 +3",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +3, 武器伤害 +3"
+		},
+		{
+			"ENG_name": "Lance +1",
+			"name": "骑枪 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Lance +2",
+			"name": "骑枪 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Lance +3",
+			"name": "长枪 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Leather Armor +1",
+			"name": "皮甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Leather Armor +2",
+			"name": "皮甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Leather Armor +3",
+			"name": "皮甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Light Crossbow +1",
+			"name": "轻型十字弓 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Light Crossbow +2",
+			"name": "轻型十字弓 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Light Crossbow +3",
+			"name": "轻型十字弓 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Longbow +1",
+			"name": "长弓 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Longbow +2",
+			"name": "长弓 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Longbow +3",
+			"name": "长弓 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Longsword +1",
+			"name": "长剑 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Longsword +2",
+			"name": "+2 长剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Longsword +3",
+			"name": "长剑 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Mace +1",
+			"name": "钉头锤 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Mace +2",
+			"name": "钉头槌 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Mace +3",
+			"name": "钉头锤 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Mace of Smiting",
+			"name": "打击之锤",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Maul +1",
+			"name": "钉头锤 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Maul +2",
+			"name": "钉头锤 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Maul +3",
+			"name": "重锤 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Morningstar +1",
+			"name": "钉头锤 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Morningstar +2",
+			"name": "钉头锤 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Morningstar +3",
+			"name": "钉头锤 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Net +1",
+			"name": "网 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Net +2",
+			"name": "网 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Net +3",
+			"name": "网 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Padded Armor +1",
+			"name": "软垫甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Padded Armor +2",
+			"name": "软甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Padded Armor +3",
+			"name": "软甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Pike +1",
+			"name": "长矛 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Pike +2",
+			"name": "长矛 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Pike +3",
+			"name": "长矛 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Plate Armor +1",
+			"name": "板甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Plate Armor +2",
+			"name": "板甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Plate Armor +3",
+			"name": "板甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Quarterstaff +1",
+			"name": "棍棒 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Quarterstaff +2",
+			"name": "长棍 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Quarterstaff +3",
+			"name": "长棍 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Rakdos Riteknife",
+			"name": "拉铎司祭刃",
+			"source": "GGR",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Rapier +1",
+			"name": "+1 刺剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Rapier +2",
+			"name": "细剑 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Rapier +3",
+			"name": "细剑 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Ring Mail +1",
+			"name": "环甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Ring Mail +2",
+			"name": "环甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Ring Mail +3",
+			"name": "环甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Ring of Protection",
+			"name": "防护戒指",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +1, 豁免检定 +1"
+		},
+		{
+			"ENG_name": "Robe of Stars",
+			"name": "星辰法袍",
+			"source": "DMG",
+			"Modifiers": "豁免检定 +1"
+		},
+		{
+			"ENG_name": "Robe of the Archmagi",
+			"name": "大法师法袍",
+			"source": "DMG",
+			"Modifiers": "法术攻击 +2, 法术DC +2"
+		},
+		{
+			"ENG_name": "Scale Mail +1",
+			"name": "鳞甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Scale Mail +2",
+			"name": "鳞甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Scale Mail +3",
+			"name": "鳞甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Scimitar +1",
+			"name": "弯刀 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Scimitar +2",
+			"name": "弯刀 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Scimitar +3",
+			"name": "弯刀 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Scimitar of Speed",
+			"name": "急速弯刀",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Shield +1",
+			"name": "盾牌 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Shield +2",
+			"name": "盾牌 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Shield +3",
+			"name": "+3 盾牌",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Shortbow +1",
+			"name": "短弓 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Shortbow +2",
+			"name": "短弓 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Shortbow +3",
+			"name": "短弓 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Shortsword +1",
+			"name": "短剑 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Shortsword +2",
+			"name": "+2 短剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Shortsword +3",
+			"name": "短剑 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Sickle +1",
+			"name": "镰刀 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Sickle +2",
+			"name": "镰刀 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Sickle +3",
+			"name": "镰刀 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Sling +1",
+			"name": "投石索 +1",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +1, 远程伤害 +1"
+		},
+		{
+			"ENG_name": "Sling +2",
+			"name": "投石索 +2",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +2, 远程伤害 +2"
+		},
+		{
+			"ENG_name": "Sling +3",
+			"name": "弹弓 +3",
+			"source": "DMG",
+			"Modifiers": "远程攻击 +3, 远程伤害 +3"
+		},
+		{
+			"ENG_name": "Spear +1",
+			"name": "长矛 +1",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Spear +2",
+			"name": "长矛 +2",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +2, 武器伤害 +2"
+		},
+		{
+			"ENG_name": "Spear +3",
+			"name": "长矛 +3",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +3, 武器伤害 +3"
+		},
+		{
+			"ENG_name": "Spies' Murmur",
+			"name": "间谍低语",
+			"source": "GGR",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Splint Armor +1",
+			"name": "板条甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Splint Armor +2",
+			"name": "板条甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Splint Armor +3",
+			"name": "板条甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Staff of Power",
+			"name": "威力法杖",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2, 豁免检定 +2, 法术攻击 +2"
+		},
+		{
+			"ENG_name": "Staff of the Magi",
+			"name": "贤者法杖",
+			"source": "DMG",
+			"Modifiers": "法术攻击 +2"
+		},
+		{
+			"ENG_name": "Staff of the Woodlands",
+			"name": "丛林法杖",
+			"source": "DMG",
+			"Modifiers": "法术攻击 +2"
+		},
+		{
+			"ENG_name": "Stone of Good Luck",
+			"name": "吉运之石",
+			"source": "DMG",
+			"Modifiers": "豁免检定 +1"
+		},
+		{
+			"ENG_name": "Studded Leather Armor +1",
+			"name": "镶嵌皮甲 +1",
+			"source": "DMG",
+			"Modifiers": "AC +1"
+		},
+		{
+			"ENG_name": "Studded Leather Armor +2",
+			"name": "带钉皮甲 +2",
+			"source": "DMG",
+			"Modifiers": "护甲等级 +2"
+		},
+		{
+			"ENG_name": "Studded Leather Armor +3",
+			"name": "带钉皮甲 +3",
+			"source": "DMG",
+			"Modifiers": "AC +3"
+		},
+		{
+			"ENG_name": "Sun Blade",
+			"name": "阳炎剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Sunforger",
+			"name": "铸阳锤",
+			"source": "GGR",
+			"Modifiers": "武器攻击 +2, 武器伤害 +2"
+		},
+		{
+			"ENG_name": "Sword of the Paruns",
+			"name": "远祖之剑",
+			"source": "GGR",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Trident +1",
+			"name": "三叉戟 +1",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +1, 武器伤害 +1"
+		},
+		{
+			"ENG_name": "Trident +2",
+			"name": "三叉戟 +2",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +2, 武器伤害 +2"
+		},
+		{
+			"ENG_name": "Trident +3",
+			"name": "三叉戟 +3",
+			"source": "DMG",
+			"Modifiers": "武器攻击 +3, 武器伤害 +3"
+		},
+		{
+			"ENG_name": "Vorpal Greatsword",
+			"name": "斩首巨剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Vorpal Longsword",
+			"name": "斩首长剑",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Vorpal Scimitar",
+			"name": "斩首弯刀",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Voyager Staff",
+			"name": "旅人杖",
+			"source": "GGR",
+			"Modifiers": "武器攻击 +1，武器伤害 +1，法术攻击 +1"
+		},
+		{
+			"ENG_name": "Wand of the War Mage, +1",
+			"name": "战法师魔杖，+1",
+			"source": "DMG",
+			"Modifiers": "法术攻击 +1"
+		},
+		{
+			"ENG_name": "Wand of the War Mage, +2",
+			"name": "战法师魔杖，+2",
+			"source": "DMG",
+			"Modifiers": "法术攻击 +2"
+		},
+		{
+			"ENG_name": "Wand of the War Mage, +3",
+			"name": "战法师魔杖，+3",
+			"source": "DMG",
+			"Modifiers": "法术攻击 +3"
+		},
+		{
+			"ENG_name": "War Pick +1",
+			"name": "战戟 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "War Pick +2",
+			"name": "战镐 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "War Pick +3",
+			"name": "战镐 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Warhammer +1",
+			"name": "战锤 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Warhammer +2",
+			"name": "战锤 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Warhammer +3",
+			"name": "战锤 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		},
+		{
+			"ENG_name": "Whip +1",
+			"name": "鞭子 +1",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +1, 近战伤害 +1"
+		},
+		{
+			"ENG_name": "Whip +2",
+			"name": "鞭子 +2",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +2, 近战伤害 +2"
+		},
+		{
+			"ENG_name": "Whip +3",
+			"name": "鞭子 +3",
+			"source": "DMG",
+			"Modifiers": "近战攻击 +3，近战伤害 +3"
+		}
+	]
+}

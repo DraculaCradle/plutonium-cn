@@ -1,0 +1,2002 @@
+[
+	{
+		"ENG_name": "acid resistance",
+		"name": "强酸抗性",
+		"racial_trait": "强酸抗性",
+		"race": "元素裔",
+		"subrace": "水元素裔",
+		"path": "icons/commodities/materials/liquid-green.webp"
+	},
+	{
+		"ENG_name": "aereni elf",
+		"name": "艾伦诺精灵",
+		"racial_trait": "艾伦诺精灵",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/commodities/gems/gem-faceted-diamond-green.webp"
+	},
+	{
+		"ENG_name": "aggressive",
+		"name": "好斗",
+		"racial_trait": "好斗",
+		"race": "兽人",
+		"subrace": "",
+		"path": "icons/equipment/finger/ring-bone-teeth.webp"
+	},
+	{
+		"ENG_name": "amphibious",
+		"name": "水陆两栖",
+		"racial_trait": "水陆两栖",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/acid/dissolve-arm-flesh.webp"
+	},
+	{
+		"ENG_name": "amphibious",
+		"name": "水陆两栖",
+		"racial_trait": "水陆两栖",
+		"race": "元素裔",
+		"subrace": "水元素裔",
+		"path": "icons/magic/acid/dissolve-arm-flesh.webp"
+	},
+	{
+		"ENG_name": "ancestral legacy",
+		"name": "先祖遗赠",
+		"racial_trait": "先祖遗赠",
+		"race": "",
+		"subrace": "",
+		"path": "icons/skills/social/intimidation-impressing.webp"
+	},
+	{
+		"ENG_name": "animal enhancement",
+		"name": "动物强化",
+		"racial_trait": "动物强化",
+		"race": "析米克混生体",
+		"subrace": "析米克混生体",
+		"path": "icons/commodities/biological/tail-scaled-green.webp"
+	},
+	{
+		"ENG_name": "arboreal alertness",
+		"name": "树栖警觉",
+		"racial_trait": "树栖警觉",
+		"race": "格龙蛙人",
+		"subrace": "格龙蛙人",
+		"path": "icons/commodities/biological/eye-tentacle-green-orange.webp"
+	},
+	{
+		"ENG_name": "artificer's lore",
+		"name": "巧匠学识",
+		"racial_trait": "巧匠学识",
+		"race": "侏儒",
+		"subrace": "岩石侏儒",
+		"path": "icons/sundries/books/book-embossed-clasp-gold-brown.webp"
+	},
+	{
+		"ENG_name": "artisan's intuition",
+		"name": "工匠直觉",
+		"racial_trait": "工匠直觉",
+		"race": "人类",
+		"subrace": "创造龙纹人类",
+		"path": "icons/tools/hand/hammer-and-nail.webp"
+	},
+	{
+		"ENG_name": "beak and claws",
+		"name": "喙啄和爪击",
+		"racial_trait": "喙啄和爪击",
+		"race": "huutgr",
+		"subrace": "huutgr",
+		"path": "icons/commodities/bones/beak-hooked-red.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"racial_trait": "啃咬",
+		"race": "蜥蜴人",
+		"subrace": "蜥蜴人",
+		"path": "icons/commodities/biological/mouth-toothed-purple.webp"
+	},
+	{
+		"ENG_name": "black blood healing",
+		"name": "黑血疗愈",
+		"racial_trait": "黑血疗愈",
+		"race": "佛丹人",
+		"subrace": "佛丹人",
+		"path": "icons/magic/water/orb-water-bubbles.webp"
+	},
+	{
+		"ENG_name": "blessing of the moon weaver",
+		"name": "织月者的祝福",
+		"racial_trait": "织月者的祝福",
+		"race": "精灵",
+		"subrace": "苍白精灵",
+		"path": "icons/equipment/neck/necklace-astrology-moon-blue.webp"
+	},
+	{
+		"ENG_name": "blessing of the raven queen",
+		"name": "鸦后祝福",
+		"racial_trait": "鸦后祝福",
+		"race": "影灵",
+		"subrace": "影灵",
+		"path": "icons/creatures/birds/corvid-flying-wings-purple.webp"
+	},
+	{
+		"ENG_name": "brave",
+		"name": "勇气",
+		"racial_trait": "勇气",
+		"race": "半身人",
+		"subrace": "",
+		"path": "icons/commodities/treasure/brooch-shield-grey.webp"
+	},
+	{
+		"ENG_name": "breath weapon",
+		"name": "吐息武器",
+		"racial_trait": "吐息武器",
+		"race": "龙裔",
+		"subrace": "龙裔",
+		"path": "icons/creatures/abilities/dragon-fire-breath-orange.webp"
+	},
+	{
+		"ENG_name": "breath weapon",
+		"name": "吐息武器",
+		"racial_trait": "吐息武器",
+		"race": "龙裔",
+		"subrace": "龙血裔龙裔",
+		"path": "icons/magic/acid/projectile-smoke-glowing.webp"
+	},
+	{
+		"ENG_name": "breath weapon",
+		"name": "吐息武器",
+		"racial_trait": "吐息武器",
+		"race": "龙裔",
+		"subrace": "峡谷裔龙裔",
+		"path": "icons/creatures/abilities/dragon-ice-breath-blue.webp"
+	},
+	{
+		"ENG_name": "breath weapon (acid)",
+		"name": "吐息武器（强酸）",
+		"racial_trait": "金属吐息武器",
+		"race": "龙裔",
+		"subrace": "金属龙裔",
+		"path": "icons/magic/acid/projectile-smoke-glowing.webp"
+	},
+	{
+		"ENG_name": "call to the wave",
+		"name": "呼唤波浪",
+		"racial_trait": "呼唤波浪",
+		"race": "元素裔",
+		"subrace": "水元素裔",
+		"path": "icons/magic/water/wave-water-blue.webp"
+	},
+	{
+		"ENG_name": "cantrip",
+		"name": "戏法",
+		"racial_trait": "戏法",
+		"race": "",
+		"subrace": "",
+		"path": "icons/sundries/documents/document-symbol-eye.webp"
+	},
+	{
+		"ENG_name": "cantrip",
+		"name": "戏法",
+		"racial_trait": "戏法",
+		"race": "精灵",
+		"subrace": "艾瑞尼高等精灵",
+		"path": "icons/sundries/documents/document-symbol-eye.webp"
+	},
+	{
+		"ENG_name": "cat's claws",
+		"name": "猫之利爪",
+		"racial_trait": "猫之利爪",
+		"race": "斑猫人",
+		"subrace": "斑猫人",
+		"path": "icons/weapons/fist/claw-hooked-grey.webp"
+	},
+	{
+		"ENG_name": "cat's talent",
+		"name": "猫之天性",
+		"racial_trait": "猫之天性",
+		"race": "斑猫人",
+		"subrace": "斑猫人",
+		"path": "icons/commodities/treasure/brooch-gold-eye-green.webp"
+	},
+	{
+		"ENG_name": "celestial legacy",
+		"name": "天界遗赠",
+		"racial_trait": "天界遗赠",
+		"race": "阿斯莫",
+		"subrace": "变体阿斯莫",
+		"path": "icons/commodities/bones/hurn-curved-yellow.webp"
+	},
+	{
+		"ENG_name": "celestial resistance",
+		"name": "天界抗性",
+		"racial_trait": "天界抗性",
+		"race": "阿斯莫",
+		"subrace": "",
+		"path": "icons/magic/water/projectile-ice-chunk-blue.webp"
+	},
+	{
+		"ENG_name": "changeling instincts",
+		"name": "幻身灵本能",
+		"racial_trait": "幻身灵本能",
+		"race": "幻身灵",
+		"subrace": "幻身灵",
+		"path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+	},
+	{
+		"ENG_name": "charge",
+		"name": "冲锋",
+		"racial_trait": "冲锋",
+		"race": "人马",
+		"subrace": "人马",
+		"path": "icons/magic/light/beam-red-orange.webp"
+	},
+	{
+		"ENG_name": "child of the sea",
+		"name": "海洋之子",
+		"racial_trait": "海洋之子",
+		"race": "精灵",
+		"subrace": "海精灵",
+		"path": "icons/commodities/materials/liquid-blue.webp"
+	},
+	{
+		"ENG_name": "child of the wood",
+		"name": "树林之子",
+		"racial_trait": "树林之子",
+		"race": "半身人",
+		"subrace": "莲源半身人",
+		"path": "icons/creatures/tentacles/tentacles-thing-green.webp"
+	},
+	{
+		"ENG_name": "chromatic ancestry",
+		"name": "色彩血统",
+		"racial_trait": "色彩血统",
+		"race": "龙裔",
+		"subrace": "色彩龙裔",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"racial_trait": "爪击",
+		"race": "",
+		"subrace": "",
+		"path": "icons/commodities/claws/claws-white.webp"
+	},
+	{
+		"ENG_name": "constructed resilience",
+		"name": "构装生物耐力",
+		"racial_trait": "构装生物耐力",
+		"race": "战俑",
+		"subrace": "战俑",
+		"path": "icons/environment/creatures/golem-stone-purple.webp"
+	},
+	{
+		"ENG_name": "control air and water",
+		"name": "控风操水",
+		"racial_trait": "控风操水",
+		"race": "梭螺鱼人",
+		"subrace": "梭螺鱼人",
+		"path": "icons/commodities/materials/slime-thick-blue.webp"
+	},
+	{
+		"ENG_name": "courier's speed",
+		"name": "信使极速",
+		"racial_trait": "信使极速",
+		"race": "人类",
+		"subrace": "通行龙纹人类",
+		"path": "icons/skills/movement/feet-winged-boots-brown.webp"
+	},
+	{
+		"ENG_name": "creature type",
+		"name": "生物类型",
+		"racial_trait": "生物类型",
+		"race": "",
+		"subrace": "",
+		"path": "icons/environment/creatures/gargoyle-grey-blue.webp"
+	},
+	{
+		"ENG_name": "cunning artisan",
+		"name": "能工巧匠",
+		"racial_trait": "能工巧匠",
+		"race": "蜥蜴人",
+		"subrace": "蜥蜴人",
+		"path": "icons/weapons/clubs/club-barbed-square-black.webp"
+	},
+	{
+		"ENG_name": "cunning intuition",
+		"name": "狡诈直觉",
+		"racial_trait": "狡诈直觉",
+		"race": "精灵",
+		"subrace": "阴影龙纹精灵",
+		"path": "icons/equipment/back/cloak-plain-green.webp"
+	},
+	{
+		"ENG_name": "damage resistance",
+		"name": "伤害抗性",
+		"racial_trait": "伤害抗性",
+		"race": "龙裔",
+		"subrace": "龙裔",
+		"path": "icons/commodities/biological/shell-ridged-blue.webp"
+	},
+	{
+		"ENG_name": "darkvision",
+		"name": "黑暗视觉",
+		"racial_trait": "黑暗视觉",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-small-red.webp"
+	},
+	{
+		"ENG_name": "daunting roar",
+		"name": "畏惧咆哮",
+		"racial_trait": "畏惧咆哮",
+		"race": "狮族",
+		"subrace": "狮族",
+		"path": "icons/creatures/abilities/mouth-teeth-fire-orange.webp"
+	},
+	{
+		"ENG_name": "deathless nature",
+		"name": "不死本质",
+		"racial_trait": "不死本质",
+		"race": "重生者",
+		"subrace": "重生者",
+		"path": "icons/skills/wounds/illness-disease-glowing-green.webp"
+	},
+	{
+		"ENG_name": "decadent mastery",
+		"name": "业余爱好",
+		"racial_trait": "业余爱好",
+		"race": "吉斯人",
+		"subrace": "吉斯洋基人",
+		"path": "icons/equipment/neck/amulet-carved-stone-purple.webp"
+	},
+	{
+		"ENG_name": "deductive intuition",
+		"name": "推理直觉",
+		"racial_trait": "推理直觉",
+		"race": "半精灵",
+		"subrace": "侦测龙纹半精灵",
+		"path": "icons/magic/symbols/runes-triangle-blue.webp"
+	},
+	{
+		"ENG_name": "draconic ancestry",
+		"name": "龙族血统",
+		"racial_trait": "龙族血统",
+		"race": "龙裔",
+		"subrace": "",
+		"path": "icons/commodities/biological/wing-lizard-purple.webp"
+	},
+	{
+		"ENG_name": "draconic resistance",
+		"name": "龙族抗性",
+		"racial_trait": "龙族抗性",
+		"race": "龙裔",
+		"subrace": "",
+		"path": "icons/environment/wilderness/statue-hound-horned.webp"
+	},
+	{
+		"ENG_name": "drow magic",
+		"name": "卓尔魔法",
+		"racial_trait": "卓尔魔法",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/sundries/books/book-embossed-jewel-silver-green.webp"
+	},
+	{
+		"ENG_name": "drow weapon training",
+		"name": "卓尔武器训练",
+		"racial_trait": "卓尔武器训练",
+		"race": "精灵",
+		"subrace": "黑暗精灵（卓尔）",
+		"path": "icons/weapons/swords/shortsword-guard-green.webp"
+	},
+	{
+		"ENG_name": "dual mind",
+		"name": "双重思想",
+		"racial_trait": "双重思想",
+		"race": "离梦人",
+		"subrace": "离梦人",
+		"path": "icons/magic/symbols/runes-star-blue.webp"
+	},
+	{
+		"ENG_name": "duergar magic",
+		"name": "灰矮人魔法",
+		"racial_trait": "灰矮人魔法",
+		"race": "矮人",
+		"subrace": "灰矮人（duergar）",
+		"path": "icons/sundries/scrolls/scroll-bound-skull-blue.webp"
+	},
+	{
+		"ENG_name": "duergar resilience",
+		"name": "灰矮人体魄",
+		"racial_trait": "灰矮人体魄",
+		"race": "矮人",
+		"subrace": "灰矮人（duergar）",
+		"path": "icons/commodities/treasure/statue-bust-stone-grey.webp"
+	},
+	{
+		"ENG_name": "dwarven armor training",
+		"name": "矮人护甲训练",
+		"racial_trait": "矮人护甲训练",
+		"race": "矮人",
+		"subrace": "山地矮人",
+		"path": "icons/equipment/shoulder/pauldron-segmented-steel-white.webp"
+	},
+	{
+		"ENG_name": "dwarven combat training",
+		"name": "矮人战斗训练",
+		"racial_trait": "矮人战斗训练",
+		"race": "矮人",
+		"subrace": "丘陵矮人",
+		"path": "icons/sundries/documents/blueprint-axe.webp"
+	},
+	{
+		"ENG_name": "dwarven resilience",
+		"name": "矮人体魄",
+		"racial_trait": "矮人体魄",
+		"race": "矮人",
+		"subrace": "",
+		"path": "icons/commodities/treasure/statue-carved-figurehead.webp"
+	},
+	{
+		"ENG_name": "dwarven toughness",
+		"name": "矮人刚毅",
+		"racial_trait": "矮人刚毅",
+		"race": "矮人",
+		"subrace": "丘陵矮人",
+		"path": "icons/commodities/treasure/statue-carved-figurehead.webp"
+	},
+	{
+		"ENG_name": "earth walk",
+		"name": "地面行走",
+		"racial_trait": "地面行走",
+		"race": "元素裔",
+		"subrace": "土元素裔",
+		"path": "icons/environment/wilderness/cave-entrance.webp"
+	},
+	{
+		"ENG_name": "eerie token",
+		"name": "神秘信物",
+		"racial_trait": "神秘信物",
+		"race": "巫咒之子",
+		"subrace": "",
+		"path": "icons/creatures/eyes/slime-single-red.webp"
+	},
+	{
+		"ENG_name": "elf weapon training",
+		"name": "精灵武器训练",
+		"racial_trait": "精灵武器训练",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/weapons/bows/bow-ornamental-gold-blue.webp"
+	},
+	{
+		"ENG_name": "emissary of the sea",
+		"name": "海之使者",
+		"racial_trait": "海之使者",
+		"race": "梭螺鱼人",
+		"subrace": "梭螺鱼人",
+		"path": "icons/equipment/neck/pendant-silver-anchor.webp"
+	},
+	{
+		"ENG_name": "equine build",
+		"name": "马体构造",
+		"racial_trait": "马体构造",
+		"race": "人马",
+		"subrace": "人马",
+		"path": "icons/tools/smithing/horseshoe-steel-blue.webp"
+	},
+	{
+		"ENG_name": "ever hospitable",
+		"name": "永恒款待",
+		"racial_trait": "永恒款待",
+		"race": "半身人",
+		"subrace": "招待龙纹半身人",
+		"path": "icons/tools/cooking/fork-steel-brown.webp"
+	},
+	{
+		"ENG_name": "expert forgery",
+		"name": "专家伪造",
+		"racial_trait": "专家伪造",
+		"race": "天狗",
+		"subrace": "天狗",
+		"path": "icons/tools/scribal/pen-steel-grey-brown.webp"
+	},
+	{
+		"ENG_name": "extra language",
+		"name": "额外语言",
+		"racial_trait": "额外语言",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/sundries/books/book-open-brown.webp"
+	},
+	{
+		"ENG_name": "fairy magic",
+		"name": "仙灵魔法",
+		"racial_trait": "仙灵魔法",
+		"race": "仙灵",
+		"subrace": "",
+		"path": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp"
+	},
+	{
+		"ENG_name": "feline agility",
+		"name": "猫之迅捷",
+		"racial_trait": "猫之迅捷",
+		"race": "斑猫人",
+		"subrace": "斑猫人",
+		"path": "icons/commodities/claws/claw-blue-grey.webp"
+	},
+	{
+		"ENG_name": "fey",
+		"name": "妖精",
+		"racial_trait": "妖精",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/nature/vines-thorned-entwined-glow-teal-purple.webp"
+	},
+	{
+		"ENG_name": "fey ancestry",
+		"name": "妖精血统",
+		"racial_trait": "妖精血统",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/nature/vines-thorned-curled-glow-teal.webp"
+	},
+	{
+		"ENG_name": "fey resilience",
+		"name": "精类恢复力",
+		"racial_trait": "精类恢复力",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/control/debuff-chains-ropes-green.webp"
+	},
+	{
+		"ENG_name": "fey step",
+		"name": "妖精步伐",
+		"racial_trait": "妖精步伐",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/control/debuff-energy-snare-green.webp"
+	},
+	{
+		"ENG_name": "finder's magic",
+		"name": "寻者魔法",
+		"racial_trait": "寻者魔法",
+		"race": "",
+		"subrace": "探索龙纹",
+		"path": "icons/weapons/bows/shortbow-recurve-yellow.webp"
+	},
+	{
+		"ENG_name": "firbolg magic",
+		"name": "费尔伯格人魔法",
+		"racial_trait": "费尔伯格人魔法",
+		"race": "费尔伯格人",
+		"subrace": "费尔伯格人",
+		"path": "icons/magic/nature/leaf-glow-triple-teal.webp"
+	},
+	{
+		"ENG_name": "fire resistance",
+		"name": "火焰抗性",
+		"racial_trait": "火焰抗性",
+		"race": "元素裔",
+		"subrace": "火焰元素裔",
+		"path": "icons/magic/control/buff-flight-wings-runes-red.webp"
+	},
+	{
+		"ENG_name": "fleet of foot",
+		"name": "轻捷步伐",
+		"racial_trait": "轻捷步伐",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/equipment/feet/shoes-simple-leaf-green.webp"
+	},
+	{
+		"ENG_name": "flight",
+		"name": "飞行",
+		"racial_trait": "飞行",
+		"race": "",
+		"subrace": "",
+		"path": "icons/commodities/biological/wing-bird-white.webp"
+	},
+	{
+		"ENG_name": "forceful presence",
+		"name": "盛气凌人",
+		"racial_trait": "盛气凌人",
+		"race": "龙裔",
+		"subrace": "龙血裔龙裔",
+		"path": "icons/magic/control/debuff-chains-shackles-movement-blue.webp"
+	},
+	{
+		"ENG_name": "friend of the sea",
+		"name": "海洋之友",
+		"racial_trait": "海洋之友",
+		"race": "精灵",
+		"subrace": "海精灵",
+		"path": "icons/equipment/neck/pendant-gold-anchor.webp"
+	},
+	{
+		"ENG_name": "fury of the small",
+		"name": "小个子的怒火",
+		"racial_trait": "小个子的怒火",
+		"race": "地精语",
+		"subrace": "地精语",
+		"path": "icons/commodities/bones/skull-bat-grey.webp"
+	},
+	{
+		"ENG_name": "gifted scribe",
+		"name": "天才文员",
+		"racial_trait": "天才文员",
+		"race": "侏儒",
+		"subrace": "抄录龙纹侏儒",
+		"path": "icons/tools/scribal/ink-quill-pink.webp"
+	},
+	{
+		"ENG_name": "githyanki psionics",
+		"name": "吉斯洋基灵能",
+		"racial_trait": "吉斯洋基灵能",
+		"race": "吉斯人",
+		"subrace": "吉斯洋基人",
+		"path": "icons/magic/fire/projectile-meteor-salvo-light-red.webp"
+	},
+	{
+		"ENG_name": "githzerai psionics",
+		"name": "吉斯泽莱灵能",
+		"racial_trait": "吉斯泽莱灵能",
+		"race": "吉斯人",
+		"subrace": "吉斯泽莱人",
+		"path": "icons/magic/fire/projectile-meteor-salvo-light-teal.webp"
+	},
+	{
+		"ENG_name": "gnome cunning",
+		"name": "侏儒狡黠",
+		"racial_trait": "侏儒狡黠",
+		"race": "侏儒",
+		"subrace": "",
+		"path": "icons/commodities/gems/gem-rough-spiral-teal.webp"
+	},
+	{
+		"ENG_name": "goring rush",
+		"name": "猛抵冲撞",
+		"racial_trait": "猛抵冲撞",
+		"race": "牛头人",
+		"subrace": "牛头人",
+		"path": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp"
+	},
+	{
+		"ENG_name": "grovel, cower, and beg",
+		"name": "摇尾乞怜",
+		"racial_trait": "摇尾乞怜",
+		"race": "狗头人",
+		"subrace": "狗头人",
+		"path": "icons/creatures/eyes/slime-stalk-green.webp"
+	},
+	{
+		"ENG_name": "guardian's shield",
+		"name": "卫护之盾",
+		"racial_trait": "卫护之盾",
+		"race": "人类",
+		"subrace": "守护龙纹人类",
+		"path": "icons/equipment/shield/kite-wooden-oak-glow.webp"
+	},
+	{
+		"ENG_name": "guardians of the depths",
+		"name": "深渊守护者",
+		"racial_trait": "深渊守护者",
+		"race": "梭螺鱼人",
+		"subrace": "梭螺鱼人",
+		"path": "icons/magic/water/water-iceberg-bubbles.webp"
+	},
+	{
+		"ENG_name": "half-elf variant",
+		"name": "半精灵变体",
+		"racial_trait": "半精灵变体",
+		"race": "半精灵",
+		"subrace": "",
+		"path": "icons/weapons/bows/shortbow-leaves-green.webp"
+	},
+	{
+		"ENG_name": "halfling nimbleness",
+		"name": "半身人灵巧",
+		"racial_trait": "半身人灵巧",
+		"race": "半身人",
+		"subrace": "",
+		"path": "icons/equipment/feet/shoes-collared-leather-blue.webp"
+	},
+	{
+		"ENG_name": "hammering horns",
+		"name": "角锤",
+		"racial_trait": "角锤",
+		"race": "牛头人",
+		"subrace": "牛头人",
+		"path": "icons/magic/fire/projectile-embers-orange.webp"
+	},
+	{
+		"ENG_name": "hare-trigger",
+		"name": "野兔敏锐",
+		"racial_trait": "野兔敏锐",
+		"race": "兔人",
+		"subrace": "",
+		"path": "icons/skills/movement/arrow-upward-yellow.webp"
+	},
+	{
+		"ENG_name": "headwinds",
+		"name": "逆风行事",
+		"racial_trait": "逆风行事",
+		"race": "半精灵",
+		"subrace": "暴风龙纹半精灵",
+		"path": "icons/magic/air/wind-swirl-purple-blue.webp"
+	},
+	{
+		"ENG_name": "healing hands",
+		"name": "治愈之手",
+		"racial_trait": "治愈之手",
+		"race": "阿斯莫",
+		"subrace": "",
+		"path": "icons/magic/water/water-hand.webp"
+	},
+	{
+		"ENG_name": "healing touch",
+		"name": "治愈之触",
+		"racial_trait": "治愈之触",
+		"race": "半身人",
+		"subrace": "医疗龙纹半身人",
+		"path": "icons/magic/water/water-hand.webp"
+	},
+	{
+		"ENG_name": "hellish resistance",
+		"name": "炼狱抗性",
+		"racial_trait": "炼狱抗性",
+		"race": "提夫林",
+		"subrace": "",
+		"path": "icons/magic/control/debuff-chains-shackle-movement-red.webp"
+	},
+	{
+		"ENG_name": "hex magic",
+		"name": "巫咒魔法",
+		"racial_trait": "巫咒魔法",
+		"race": "巫咒之子",
+		"subrace": "巫咒之子",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "hidden step",
+		"name": "神隐步",
+		"racial_trait": "神隐步",
+		"race": "费尔伯格人",
+		"subrace": "费尔伯格人",
+		"path": "icons/magic/air/wind-stream-blue-gray.webp"
+	},
+	{
+		"ENG_name": "hold breath",
+		"name": "屏息",
+		"racial_trait": "屏息",
+		"race": "蜥蜴人",
+		"subrace": "蜥蜴人",
+		"path": "icons/commodities/biological/organ-stomach.webp"
+	},
+	{
+		"ENG_name": "hold breath",
+		"name": "屏息",
+		"racial_trait": "屏息",
+		"race": "龟人",
+		"subrace": "龟人",
+		"path": "icons/commodities/biological/organ-stomach.webp"
+	},
+	{
+		"ENG_name": "hooves",
+		"name": "蹄击",
+		"racial_trait": "蹄击",
+		"race": "人马",
+		"subrace": "人马",
+		"path": "icons/commodities/bones/hooves-cloven-brown.webp"
+	},
+	{
+		"ENG_name": "horns",
+		"name": "角击",
+		"racial_trait": "角击",
+		"race": "牛头人",
+		"subrace": "牛头人",
+		"path": "icons/commodities/bones/horn-curved-worn-brown.webp"
+	},
+	{
+		"ENG_name": "hungry jaws",
+		"name": "饥渴之喉",
+		"racial_trait": "饥渴之喉",
+		"race": "蜥蜴人",
+		"subrace": "蜥蜴人",
+		"path": "icons/creatures/abilities/mouth-teeth-long-red.webp"
+	},
+	{
+		"ENG_name": "hunter's instincts",
+		"name": "猎手本能",
+		"racial_trait": "猎手本能",
+		"race": "狮族",
+		"subrace": "狮族",
+		"path": "icons/equipment/neck/necklace-eye-orange.webp"
+	},
+	{
+		"ENG_name": "hunter's intuition",
+		"name": "猎人直觉",
+		"racial_trait": "猎人直觉",
+		"race": "人类",
+		"subrace": "探索龙纹人类",
+		"path": "icons/environment/traps/trap-jaw-steel.webp"
+	},
+	{
+		"ENG_name": "hunter's intuition",
+		"name": "猎人直觉",
+		"racial_trait": "猎人直觉",
+		"race": "半兽人",
+		"subrace": "探索龙纹半兽人",
+		"path": "icons/environment/traps/trap-jaw-steel.webp"
+	},
+	{
+		"ENG_name": "hunter's lore",
+		"name": "猎人学识",
+		"racial_trait": "猎人学识",
+		"race": "蜥蜴人",
+		"subrace": "蜥蜴人",
+		"path": "icons/equipment/neck/necklace-simple-leaves.webp"
+	},
+	{
+		"ENG_name": "imposing presence",
+		"name": "庄严存形",
+		"racial_trait": "庄严存形",
+		"race": "牛头人",
+		"subrace": "牛头人",
+		"path": "icons/magic/control/fear-fright-monster-grin-red-orange.webp"
+	},
+	{
+		"ENG_name": "incisive sense",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "苍白精灵",
+		"path": "icons/equipment/back/cloak-hooded-green-gold.webp"
+	},
+	{
+		"ENG_name": "infernal legacy",
+		"name": "地狱遗赠",
+		"racial_trait": "地狱遗赠",
+		"race": "野性提夫林",
+		"subrace": "野性提夫林",
+		"path": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp"
+	},
+	{
+		"ENG_name": "infernal legacy",
+		"name": "地狱遗赠",
+		"racial_trait": "地狱遗赠",
+		"race": "提夫林",
+		"subrace": "提夫林",
+		"path": "icons/sundries/scrolls/scroll-symbol-triangle-brown.webp"
+	},
+	{
+		"ENG_name": "innate spellcasting",
+		"name": "天生施法",
+		"racial_trait": "天生施法",
+		"race": "纯血原体蛇人",
+		"subrace": "纯血原体蛇人",
+		"path": "icons/magic/unholy/orb-smoking-green.webp"
+	},
+	{
+		"ENG_name": "innkeeper's magic",
+		"name": "掌柜魔法",
+		"racial_trait": "掌柜魔法",
+		"race": "半身人",
+		"subrace": "招待龙纹半身人",
+		"path": "icons/tools/cooking/pot-camping-iron-black.webp"
+	},
+	{
+		"ENG_name": "integrated protection",
+		"name": "集成防护",
+		"racial_trait": "集成防护",
+		"race": "战俑",
+		"subrace": "战俑",
+		"path": "icons/equipment/hand/gauntlet-armored-black.webp"
+	},
+	{
+		"ENG_name": "intuitive motion",
+		"name": "直觉行动",
+		"racial_trait": "直觉行动",
+		"race": "人类",
+		"subrace": "通行龙纹人类",
+		"path": "icons/commodities/tech/wheel.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "高等精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "木精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "黑暗精灵（卓尔）",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "海精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "雅灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "艾雷尼木精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "维伦那木精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "苍白精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "维伦那高等精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "阴影龙纹精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "雅灵（变体）",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "影灵",
+		"subrace": "影灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen senses",
+		"name": "敏锐感官",
+		"racial_trait": "敏锐感官",
+		"race": "精灵",
+		"subrace": "艾瑞尼高等精灵",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen sight and smell",
+		"name": "敏锐视嗅觉",
+		"racial_trait": "敏锐视嗅觉",
+		"race": "huutgr",
+		"subrace": "huutgr",
+		"path": "icons/commodities/biological/eye-blue.webp"
+	},
+	{
+		"ENG_name": "keen smell",
+		"name": "敏锐嗅觉",
+		"racial_trait": "敏锐嗅觉",
+		"race": "象族",
+		"subrace": "象族",
+		"path": "icons/commodities/flowers/lily-pink.webp"
+	},
+	{
+		"ENG_name": "kenku training",
+		"name": "天狗训练",
+		"racial_trait": "天狗训练",
+		"race": "天狗",
+		"subrace": "天狗",
+		"path": "icons/weapons/staves/staff-ornate-bird.webp"
+	},
+	{
+		"ENG_name": "knowledge from a past life",
+		"name": "往昔学识",
+		"racial_trait": "往昔学识",
+		"race": "重生者",
+		"subrace": "重生者",
+		"path": "icons/environment/settlement/graveyard-tombstone-night.webp"
+	},
+	{
+		"ENG_name": "legacy of avernus",
+		"name": "阿弗纳斯之遗赠",
+		"racial_trait": "阿弗纳斯之遗赠",
+		"race": "提夫林",
+		"subrace": "扎瑞尔提夫林",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp"
+	},
+	{
+		"ENG_name": "legacy of cania",
+		"name": "卡尼亚之遗赠",
+		"racial_trait": "卡尼亚之遗赠",
+		"race": "提夫林",
+		"subrace": "墨菲斯托费利斯提夫林",
+		"path": "icons/magic/earth/volcano-explosion-lava-yellow.webp"
+	},
+	{
+		"ENG_name": "legacy of dis",
+		"name": "迪斯之遗赠",
+		"racial_trait": "迪斯之遗赠",
+		"race": "提夫林",
+		"subrace": "迪斯帕特提夫林",
+		"path": "icons/creatures/magical/spirit-undead-masked-blue.webp"
+	},
+	{
+		"ENG_name": "legacy of maladomini",
+		"name": "马拉多米尼之遗赠",
+		"racial_trait": "马拉多米尼之遗赠",
+		"race": "提夫林",
+		"subrace": "巴尔泽布提夫林",
+		"path": "icons/magic/light/beam-rays-green-small.webp"
+	},
+	{
+		"ENG_name": "legacy of malbolge",
+		"name": "马尔伯吉之遗赠",
+		"racial_trait": "马尔伯吉之遗赠",
+		"race": "提夫林",
+		"subrace": "格莱西亚提夫林",
+		"path": "icons/creatures/magical/spirit-undead-masked-blue.webp"
+	},
+	{
+		"ENG_name": "legacy of minauros",
+		"name": "弥瑙洛斯之遗赠",
+		"racial_trait": "弥瑙洛斯之遗赠",
+		"race": "提夫林",
+		"subrace": "玛门提夫林",
+		"path": "icons/commodities/materials/glass-orb-blue.webp"
+	},
+	{
+		"ENG_name": "legacy of phlegethos",
+		"name": "弗莱格索斯之遗赠",
+		"racial_trait": "弗莱格索斯之遗赠",
+		"race": "提夫林",
+		"subrace": "菲尔娜提夫林",
+		"path": "icons/magic/control/debuff-energy-hold-levitate-pink.webp"
+	},
+	{
+		"ENG_name": "legacy of stygia",
+		"name": "斯泰吉亚之遗赠",
+		"racial_trait": "斯泰吉亚之遗赠",
+		"race": "提夫林",
+		"subrace": "莱维斯图斯提夫林",
+		"path": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp"
+	},
+	{
+		"ENG_name": "leporine senses",
+		"name": "野兔感官",
+		"racial_trait": "野兔感官",
+		"race": "兔人",
+		"subrace": "",
+		"path": "icons/commodities/biological/eye-red-pink.webp"
+	},
+	{
+		"ENG_name": "leviathan will",
+		"name": "利维坦意志",
+		"racial_trait": "利维坦意志",
+		"race": "洛卡鱼人",
+		"subrace": "洛卡鱼人",
+		"path": "icons/commodities/biological/tentacle-purple-white.webp"
+	},
+	{
+		"ENG_name": "light bearer",
+		"name": "光辉掌者",
+		"racial_trait": "光辉掌者",
+		"race": "阿斯莫",
+		"subrace": "",
+		"path": "icons/magic/light/explosion-star-small-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "limited amphibiousness",
+		"name": "有限两栖",
+		"racial_trait": "有限两栖",
+		"race": "洛卡鱼人",
+		"subrace": "洛卡鱼人",
+		"path": "icons/magic/acid/dissolve-arm-flesh.webp"
+	},
+	{
+		"ENG_name": "limited telepathy",
+		"name": "有限感应",
+		"racial_trait": "有限感应",
+		"race": "佛丹人",
+		"subrace": "佛丹人",
+		"path": "icons/magic/air/wind-tornado-spiral-teal-green.webp"
+	},
+	{
+		"ENG_name": "living construct",
+		"name": "活体构装体",
+		"racial_trait": "活体构装体",
+		"race": "游荡者魔冢",
+		"subrace": "游荡者魔冢",
+		"path": "icons/environment/creatures/golem-stone-purple.webp"
+	},
+	{
+		"ENG_name": "long-limbed",
+		"name": "长肢",
+		"racial_trait": "长肢",
+		"race": "熊地精",
+		"subrace": "熊地精",
+		"path": "icons/skills/melee/strike-slashes-red.webp"
+	},
+	{
+		"ENG_name": "loxodon serenity",
+		"name": "象之宁静",
+		"racial_trait": "象之宁静",
+		"race": "象族",
+		"subrace": "象族",
+		"path": "icons/commodities/gems/pearl-purple-smooth.webp"
+	},
+	{
+		"ENG_name": "lucky",
+		"name": "幸运",
+		"racial_trait": "幸运",
+		"race": "半身人",
+		"subrace": "",
+		"path": "icons/commodities/flowers/clover.webp"
+	},
+	{
+		"ENG_name": "magic resistance",
+		"name": "魔法抗性",
+		"racial_trait": "魔法抗性",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/defensive/shield-barrier-glowing-blue.webp"
+	},
+	{
+		"ENG_name": "magic token",
+		"name": "魔法符",
+		"racial_trait": "魔法符",
+		"race": "巫咒之子",
+		"subrace": "巫咒之子",
+		"path": "icons/commodities/treasure/doll-mummy.webp"
+	},
+	{
+		"ENG_name": "magical detection",
+		"name": "魔法侦测",
+		"racial_trait": "魔法侦测",
+		"race": "半精灵",
+		"subrace": "侦测龙纹半精灵",
+		"path": "icons/magic/light/explosion-star-pink.webp"
+	},
+	{
+		"ENG_name": "magical passage",
+		"name": "魔法通行",
+		"racial_trait": "魔法通行",
+		"race": "人类",
+		"subrace": "通行龙纹人类",
+		"path": "icons/magic/control/debuff-energy-snare-brown.webp"
+	},
+	{
+		"ENG_name": "maker's gift",
+		"name": "匠师天赋",
+		"racial_trait": "匠师天赋",
+		"race": "人类",
+		"subrace": "创造龙纹人类",
+		"path": "icons/tools/smithing/tongs-steel-grey.webp"
+	},
+	{
+		"ENG_name": "martial prodigy",
+		"name": "军事人才",
+		"racial_trait": "军事人才",
+		"race": "吉斯人",
+		"subrace": "吉斯洋基人",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp"
+	},
+	{
+		"ENG_name": "martial training",
+		"name": "战争训练",
+		"racial_trait": "战争训练",
+		"race": "大地精",
+		"subrace": "大地精",
+		"path": "icons/weapons/hammers/hammer-war-spiked.webp"
+	},
+	{
+		"ENG_name": "mask of the wild",
+		"name": "荒野隐蔽",
+		"racial_trait": "荒野隐蔽",
+		"race": "精灵",
+		"subrace": "木精灵",
+		"path": "icons/equipment/back/cloak-hooded-jewels-green.webp"
+	},
+	{
+		"ENG_name": "medical intuition",
+		"name": "医疗直觉",
+		"racial_trait": "医疗直觉",
+		"race": "半身人",
+		"subrace": "医疗龙纹半身人",
+		"path": "icons/containers/bags/pouch-gold-green.webp"
+	},
+	{
+		"ENG_name": "menacing",
+		"name": "凶恶",
+		"racial_trait": "凶恶",
+		"race": "半兽人",
+		"subrace": "半兽人",
+		"path": "icons/creatures/magical/construct-iron-stomping-yellow.webp"
+	},
+	{
+		"ENG_name": "mental discipline",
+		"name": "磨练心智",
+		"racial_trait": "磨练心智",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/defensive/shield-barrier-glowing-triangle-teal.webp"
+	},
+	{
+		"ENG_name": "merge with stone",
+		"name": "混入大地",
+		"racial_trait": "混入大地",
+		"race": "元素裔",
+		"subrace": "土元素裔",
+		"path": "icons/commodities/stone/ore-chunk-black.webp"
+	},
+	{
+		"ENG_name": "metallic ancestry",
+		"name": "金属血统",
+		"racial_trait": "金属血统",
+		"race": "龙裔",
+		"subrace": "金属龙裔",
+		"path": "icons/creatures/reptiles/dragon-winged-blue.webp"
+	},
+	{
+		"ENG_name": "metallic breath weapon",
+		"name": "金属吐息武器",
+		"racial_trait": "金属吐息武器",
+		"race": "龙裔",
+		"subrace": "金属龙裔",
+		"path": "icons/creatures/abilities/dragon-fire-breath-orange.webp"
+	},
+	{
+		"ENG_name": "mimicry",
+		"name": "拟声",
+		"racial_trait": "拟声",
+		"race": "天狗",
+		"subrace": "天狗",
+		"path": "icons/equipment/head/mask-carved-bird-grey-pink.webp"
+	},
+	{
+		"ENG_name": "mind link",
+		"name": "心灵链接",
+		"racial_trait": "心灵链接",
+		"race": "离梦人",
+		"subrace": "离梦人",
+		"path": "icons/magic/control/energy-stream-link-teal.webp"
+	},
+	{
+		"ENG_name": "mingle with the wind",
+		"name": "融入清风",
+		"racial_trait": "融入清风",
+		"race": "元素裔",
+		"subrace": "风元素裔",
+		"path": "icons/magic/control/debuff-energy-hold-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "mirthful leaps",
+		"name": "欢喜之跃",
+		"racial_trait": "欢喜之跃",
+		"race": "半羊人",
+		"subrace": "半羊人",
+		"path": "icons/magic/fire/projectile-fireball-smoke-large-teal.webp"
+	},
+	{
+		"ENG_name": "mountain born",
+		"name": "生于高山",
+		"racial_trait": "生于高山",
+		"race": "歌利亚",
+		"subrace": "歌利亚",
+		"path": "icons/environment/wilderness/cave-entrance-mountain-blue.webp"
+	},
+	{
+		"ENG_name": "natural armor",
+		"name": "天生护甲",
+		"racial_trait": "天生护甲",
+		"race": "",
+		"subrace": "",
+		"path": "icons/commodities/biological/shell-ridged-green.webp"
+	},
+	{
+		"ENG_name": "natural athlete",
+		"name": "运动健将",
+		"racial_trait": "运动健将",
+		"race": "",
+		"subrace": "",
+		"path": "icons/skills/melee/hand-grip-staff-yellow-brown.webp"
+	},
+	{
+		"ENG_name": "natural illusionist",
+		"name": "天生幻术师",
+		"racial_trait": "天生幻术师",
+		"race": "侏儒",
+		"subrace": "森林侏儒",
+		"path": "icons/magic/air/wind-vortex-swirl-blue-purple.webp"
+	},
+	{
+		"ENG_name": "natural linguistics",
+		"name": "自然语言学",
+		"racial_trait": "自然语言学",
+		"race": "huutgr",
+		"subrace": "huutgr",
+		"path": "icons/sundries/scrolls/scroll-runed-brown-purple.webp"
+	},
+	{
+		"ENG_name": "natural tracker",
+		"name": "自然追踪者",
+		"racial_trait": "自然追踪者",
+		"race": "化兽者",
+		"subrace": "狩猎",
+		"path": "icons/magic/nature/trap-spikes-thorns-green.webp"
+	},
+	{
+		"ENG_name": "naturally stealthy",
+		"name": "天生善匿",
+		"racial_trait": "天生善匿",
+		"race": "半身人",
+		"subrace": "轻足半身人",
+		"path": "icons/equipment/back/cloak-collared-blue-iron.webp"
+	},
+	{
+		"ENG_name": "necrotic resistance",
+		"name": "暗蚀抗性",
+		"racial_trait": "暗蚀抗性",
+		"race": "影灵",
+		"subrace": "影灵",
+		"path": "icons/magic/unholy/orb-glowing-purple.webp"
+	},
+	{
+		"ENG_name": "necrotic shroud",
+		"name": "死灵环绕",
+		"racial_trait": "死灵环绕",
+		"race": "阿斯莫",
+		"subrace": "堕落阿斯莫",
+		"path": "icons/magic/control/fear-fright-monster-purple-blue.webp"
+	},
+	{
+		"ENG_name": "nimble escape",
+		"name": "迅捷逃逸",
+		"racial_trait": "迅捷逃逸",
+		"race": "地精语",
+		"subrace": "地精语",
+		"path": "icons/equipment/feet/boots-armored-green.webp"
+	},
+	{
+		"ENG_name": "observant and athletic",
+		"name": "观察与运动",
+		"racial_trait": "观察与运动",
+		"race": "洛卡鱼人",
+		"subrace": "洛卡鱼人",
+		"path": "icons/commodities/biological/eye-tentacle-grey-orange.webp"
+	},
+	{
+		"ENG_name": "pack tactics",
+		"name": "集群战术",
+		"racial_trait": "集群战术",
+		"race": "狗头人",
+		"subrace": "狗头人",
+		"path": "icons/weapons/polearms/javelin.webp"
+	},
+	{
+		"ENG_name": "partially amphibious",
+		"name": "临时两栖",
+		"racial_trait": "临时两栖",
+		"race": "维多肯",
+		"subrace": "维多肯",
+		"path": "icons/commodities/biological/tail-scaled-green.webp"
+	},
+	{
+		"ENG_name": "persuasive",
+		"name": "说服力",
+		"racial_trait": "说服力",
+		"race": "佛丹人",
+		"subrace": "佛丹人",
+		"path": "icons/magic/nature/lotus-glow-pink.webp"
+	},
+	{
+		"ENG_name": "poison immunity",
+		"name": "中毒免疫",
+		"racial_trait": "中毒免疫",
+		"race": "",
+		"subrace": "",
+		"path": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp"
+	},
+	{
+		"ENG_name": "poisonous skin",
+		"name": "毒性皮肤",
+		"racial_trait": "毒性皮肤",
+		"race": "格龙蛙人",
+		"subrace": "格龙蛙人",
+		"path": "icons/commodities/biological/hand-clawed-green.webp"
+	},
+	{
+		"ENG_name": "powerful build",
+		"name": "强力构筑",
+		"racial_trait": "强力构筑",
+		"race": "",
+		"subrace": "",
+		"path": "icons/equipment/wrist/bracer-simple-leather-steel.webp"
+	},
+	{
+		"ENG_name": "primal connection",
+		"name": "原初联结",
+		"racial_trait": "原初联结",
+		"race": "人类",
+		"subrace": "畜牧龙纹人类",
+		"path": "icons/magic/nature/wolf-paw-glow-teal-blue.webp"
+	},
+	{
+		"ENG_name": "primal intuition",
+		"name": "原初直觉",
+		"racial_trait": "原初直觉",
+		"race": "兽人",
+		"subrace": "兽人",
+		"path": "icons/magic/control/fear-fright-monster-red.webp"
+	},
+	{
+		"ENG_name": "rabbit hop",
+		"name": "兔子跳跃",
+		"racial_trait": "兔子跳跃",
+		"race": "兔人",
+		"subrace": "",
+		"path": "icons/creatures/mammals/rabbit-movement-glowing-green.webp"
+	},
+	{
+		"ENG_name": "radiant consumption",
+		"name": "光辉焚化",
+		"racial_trait": "光辉焚化",
+		"race": "阿斯莫",
+		"subrace": "天罚阿斯莫",
+		"path": "icons/magic/light/explosion-star-glow-blue-purple.webp"
+	},
+	{
+		"ENG_name": "radiant soul",
+		"name": "光耀之魂",
+		"racial_trait": "光耀之魂",
+		"race": "阿斯莫",
+		"subrace": "守护阿斯莫",
+		"path": "icons/commodities/treasure/trinket-wing-white.webp"
+	},
+	{
+		"ENG_name": "ram",
+		"name": "攻城槌",
+		"racial_trait": "攻城槌",
+		"race": "半羊人",
+		"subrace": "半羊人",
+		"path": "icons/weapons/maces/mace-skull-ram.webp"
+	},
+	{
+		"ENG_name": "raven blood",
+		"name": "渡鸦鲜血",
+		"racial_trait": "渡鸦鲜血",
+		"race": "被渡鸦神经兮兮",
+		"subrace": "被渡鸦神经兮兮",
+		"path": "icons/skills/wounds/blood-spurt-spray-red.webp"
+	},
+	{
+		"ENG_name": "reach to the blaze",
+		"name": "烈焰之触",
+		"racial_trait": "烈焰之触",
+		"race": "元素裔",
+		"subrace": "火焰元素裔",
+		"path": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp"
+	},
+	{
+		"ENG_name": "relentless endurance",
+		"name": "坚韧不屈",
+		"racial_trait": "坚韧不屈",
+		"race": "半兽人",
+		"subrace": "半兽人",
+		"path": "icons/magic/death/undead-zombie-grave-green.webp"
+	},
+	{
+		"ENG_name": "reveler",
+		"name": "贪欢者",
+		"racial_trait": "贪欢者",
+		"race": "半羊人",
+		"subrace": "半羊人",
+		"path": "icons/containers/kitchenware/goblet-jeweled-red.webp"
+	},
+	{
+		"ENG_name": "savage attacks",
+		"name": "凶蛮攻击",
+		"racial_trait": "凶蛮攻击",
+		"race": "半兽人",
+		"subrace": "半兽人",
+		"path": "icons/skills/melee/strike-axe-blood-red.webp"
+	},
+	{
+		"ENG_name": "saving face",
+		"name": "挽回颜面",
+		"racial_trait": "挽回颜面",
+		"race": "大地精",
+		"subrace": "大地精",
+		"path": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp"
+	},
+	{
+		"ENG_name": "scribe's insight",
+		"name": "文员领悟",
+		"racial_trait": "文员领悟",
+		"race": "侏儒",
+		"subrace": "抄录龙纹侏儒",
+		"path": "icons/tools/scribal/spectacles-glasses.webp"
+	},
+	{
+		"ENG_name": "sea elf training",
+		"name": "海精灵训练",
+		"racial_trait": "海精灵训练",
+		"race": "精灵",
+		"subrace": "海精灵",
+		"path": "icons/weapons/polearms/trident-silver-blue.webp"
+	},
+	{
+		"ENG_name": "sentinel's intuition",
+		"name": "守卫直觉",
+		"racial_trait": "守卫直觉",
+		"race": "人类",
+		"subrace": "守护龙纹人类",
+		"path": "icons/creatures/eyes/humanoid-single-blue.webp"
+	},
+	{
+		"ENG_name": "sentry's rest",
+		"name": "哨兵式休息",
+		"racial_trait": "哨兵式休息",
+		"race": "战俑",
+		"subrace": "战俑",
+		"path": "icons/sundries/lights/lantern-iron-yellow.webp"
+	},
+	{
+		"ENG_name": "severed from dreams",
+		"name": "梦境隔绝",
+		"racial_trait": "梦境隔绝",
+		"race": "离梦人",
+		"subrace": "离梦人",
+		"path": "icons/skills/melee/strike-blade-knife-blue-red.webp"
+	},
+	{
+		"ENG_name": "shape shadows",
+		"name": "阴影塑形",
+		"racial_trait": "阴影塑形",
+		"race": "精灵",
+		"subrace": "阴影龙纹精灵",
+		"path": "icons/equipment/back/cloak-collared-blue-iron.webp"
+	},
+	{
+		"ENG_name": "shapechanger",
+		"name": "变形生物",
+		"racial_trait": "变形生物",
+		"race": "幻身灵",
+		"subrace": "幻身灵",
+		"path": "icons/creatures/unholy/demon-fanged-horned-yellow.webp"
+	},
+	{
+		"ENG_name": "shell defense",
+		"name": "龟壳防御",
+		"racial_trait": "龟壳防御",
+		"race": "龟人",
+		"subrace": "龟人",
+		"path": "icons/commodities/biological/shell-turtle-grey.webp"
+	},
+	{
+		"ENG_name": "shifting",
+		"name": "化形",
+		"racial_trait": "化形",
+		"race": "化兽者",
+		"subrace": "",
+		"path": "icons/creatures/abilities/cougar-pounce-stalk-black.webp"
+	},
+	{
+		"ENG_name": "shifting feature",
+		"name": "化形特性",
+		"racial_trait": "化形特性",
+		"race": "化兽者",
+		"subrace": "",
+		"path": "icons/commodities/leather/fur-brown-gold.webp"
+	},
+	{
+		"ENG_name": "silent speech",
+		"name": "无声传话",
+		"racial_trait": "无声传话",
+		"race": "半身人",
+		"subrace": "鬼智半身人",
+		"path": "icons/magic/control/energy-stream-link-blue.webp"
+	},
+	{
+		"ENG_name": "skill versatility",
+		"name": "多才多艺",
+		"racial_trait": "多才多艺",
+		"race": "半精灵",
+		"subrace": "半精灵",
+		"path": "icons/commodities/tech/metal-blue.webp"
+	},
+	{
+		"ENG_name": "skills",
+		"name": "技能",
+		"racial_trait": "技能",
+		"race": "人类",
+		"subrace": "人类变体",
+		"path": "icons/tools/hand/brush-paint-brown-white.webp"
+	},
+	{
+		"ENG_name": "sneaky",
+		"name": "隐秘",
+		"racial_trait": "隐秘",
+		"race": "熊地精",
+		"subrace": "熊地精",
+		"path": "icons/creatures/unholy/demon-hairy-winged-pink.webp"
+	},
+	{
+		"ENG_name": "speak with small beasts",
+		"name": "小型野兽交谈",
+		"racial_trait": "小型野兽交谈",
+		"race": "侏儒",
+		"subrace": "森林侏儒",
+		"path": "icons/commodities/treasure/figurine-rabbit.webp"
+	},
+	{
+		"ENG_name": "speech of beast and leaf",
+		"name": "兽与叶之语",
+		"racial_trait": "兽与叶之语",
+		"race": "费尔伯格人",
+		"subrace": "费尔伯格人",
+		"path": "icons/magic/nature/tree-animated-strike.webp"
+	},
+	{
+		"ENG_name": "spells of the mark",
+		"name": "龙纹法术",
+		"racial_trait": "龙纹法术",
+		"race": "",
+		"subrace": "",
+		"path": "icons/sundries/scrolls/scroll-runed-tan.webp"
+	},
+	{
+		"ENG_name": "spellsmith",
+		"name": "魔力制造",
+		"racial_trait": "魔力制造",
+		"race": "人类",
+		"subrace": "创造龙纹人类",
+		"path": "icons/skills/melee/strike-hammer-destructive-orange.webp"
+	},
+	{
+		"ENG_name": "spider climb",
+		"name": "蛛行术",
+		"racial_trait": "蛛行术",
+		"race": "半血裔",
+		"subrace": "半血裔",
+		"path": "icons/commodities/biological/legs-insect-brown.webp"
+	},
+	{
+		"ENG_name": "standing leap",
+		"name": "立定跳远",
+		"racial_trait": "立定跳远",
+		"race": "格龙蛙人",
+		"subrace": "格龙蛙人",
+		"path": "icons/commodities/biological/foot-amphibian-green.webp"
+	},
+	{
+		"ENG_name": "stone camouflage",
+		"name": "岩地伪装",
+		"racial_trait": "岩地伪装",
+		"race": "侏儒",
+		"subrace": "地底侏儒",
+		"path": "icons/commodities/treasure/statue-bust-stone-grey.webp"
+	},
+	{
+		"ENG_name": "stone's endurance",
+		"name": "石之坚韧",
+		"racial_trait": "石之坚韧",
+		"race": "歌利亚",
+		"subrace": "歌利亚",
+		"path": "icons/equipment/shield/heater-stone-orange.webp"
+	},
+	{
+		"ENG_name": "stonecunning",
+		"name": "石中精妙",
+		"racial_trait": "石中精妙",
+		"race": "矮人",
+		"subrace": "",
+		"path": "icons/commodities/stone/masonry-block-cube-pink-white.webp"
+	},
+	{
+		"ENG_name": "storm's boon",
+		"name": "暴风恩惠",
+		"racial_trait": "暴风恩惠",
+		"race": "半精灵",
+		"subrace": "暴风龙纹半精灵",
+		"path": "icons/magic/lightning/bolt-forked-blue.webp"
+	},
+	{
+		"ENG_name": "stout resilience",
+		"name": "敦实体魄",
+		"racial_trait": "敦实体魄",
+		"race": "半身人",
+		"subrace": "敦实半身人",
+		"path": "icons/sundries/survival/waterskin-leather-brown.webp"
+	},
+	{
+		"ENG_name": "sunlight sensitivity",
+		"name": "日照敏感",
+		"racial_trait": "日照敏感",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/nature/root-vine-thorned-fire-purple.webp"
+	},
+	{
+		"ENG_name": "superior darkvision",
+		"name": "增强黑暗视觉",
+		"racial_trait": "增强黑暗视觉",
+		"race": "",
+		"subrace": "",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-teal.webp"
+	},
+	{
+		"ENG_name": "surprise attack",
+		"name": "突袭攻击",
+		"racial_trait": "突袭攻击",
+		"race": "熊地精",
+		"subrace": "熊地精",
+		"path": "icons/skills/melee/blade-tip-chipped-blood-red.webp"
+	},
+	{
+		"ENG_name": "survival instinct",
+		"name": "生存本能",
+		"racial_trait": "生存本能",
+		"race": "龟人",
+		"subrace": "龟人",
+		"path": "icons/weapons/staves/staff-vines-green.webp"
+	},
+	{
+		"ENG_name": "swiftstride reaction",
+		"name": "疾驰反应",
+		"racial_trait": "疾驰反应",
+		"race": "化兽者",
+		"subrace": "疾驰",
+		"path": "icons/creatures/mammals/deer-movement-leap-green.webp"
+	},
+	{
+		"ENG_name": "swim",
+		"name": "游泳",
+		"racial_trait": "游泳",
+		"race": "元素裔",
+		"subrace": "水元素裔",
+		"path": "icons/magic/water/pseudopod-teal.webp"
+	},
+	{
+		"ENG_name": "swimming speed",
+		"name": "游泳速度",
+		"racial_trait": "游泳速度",
+		"race": "半精灵",
+		"subrace": "水生半精灵",
+		"path": "icons/magic/water/pseudopod-teal.webp"
+	},
+	{
+		"ENG_name": "talons",
+		"name": "禽爪",
+		"racial_trait": "禽爪",
+		"race": "鸟羽人",
+		"subrace": "鸟羽人",
+		"path": "icons/creatures/claws/claw-scaled-red.webp"
+	},
+	{
+		"ENG_name": "telepathic insight",
+		"name": "心灵感应洞悉",
+		"racial_trait": "心灵感应洞悉",
+		"race": "佛丹人",
+		"subrace": "佛丹人",
+		"path": "icons/magic/air/air-burst-spiral-teal-green.webp"
+	},
+	{
+		"ENG_name": "the bigger they are",
+		"name": "大点而已",
+		"racial_trait": "大点而已",
+		"race": "人类",
+		"subrace": "畜牧龙纹人类",
+		"path": "icons/magic/death/skeleton-dinosaur-skull-tan.webp"
+	},
+	{
+		"ENG_name": "timberwalk",
+		"name": "林行者",
+		"racial_trait": "林行者",
+		"race": "半身人",
+		"subrace": "莲源半身人",
+		"path": "icons/commodities/treasure/plaque-wood-tree.webp"
+	},
+	{
+		"ENG_name": "tinker",
+		"name": "修补匠",
+		"racial_trait": "修补匠",
+		"race": "侏儒",
+		"subrace": "岩石侏儒",
+		"path": "icons/equipment/head/goggles-leather-grey.webp"
+	},
+	{
+		"ENG_name": "tireless precision",
+		"name": "不倦精准",
+		"racial_trait": "不倦精准",
+		"race": "维多肯",
+		"subrace": "维多肯",
+		"path": "icons/commodities/tech/cog-large-steel-white.webp"
+	},
+	{
+		"ENG_name": "tool proficiency",
+		"name": "工具熟练项",
+		"racial_trait": "工具熟练项",
+		"race": "",
+		"subrace": "",
+		"path": "icons/equipment/neck/amulet-carved-stone-hammer.webp"
+	},
+	{
+		"ENG_name": "trance",
+		"name": "出神",
+		"racial_trait": "出神",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/magic/water/orb-ice-web.webp"
+	},
+	{
+		"ENG_name": "trunk",
+		"name": "象鼻",
+		"racial_trait": "象鼻",
+		"race": "象族",
+		"subrace": "象族",
+		"path": "icons/commodities/biological/shell-ribbed-purple.webp"
+	},
+	{
+		"ENG_name": "unending breath",
+		"name": "无尽气息",
+		"racial_trait": "无尽气息",
+		"race": "元素裔",
+		"subrace": "风元素裔",
+		"path": "icons/magic/air/wind-swirl-gray-blue.webp"
+	},
+	{
+		"ENG_name": "valenar elf",
+		"name": "维伦那精灵",
+		"racial_trait": "维伦那精灵",
+		"race": "精灵",
+		"subrace": "",
+		"path": "icons/weapons/swords/scimitar-guard-wood.webp"
+	},
+	{
+		"ENG_name": "vampiric bite",
+		"name": "吸血啃咬",
+		"racial_trait": "吸血啃咬",
+		"race": "半血裔",
+		"subrace": "半血裔",
+		"path": "icons/skills/wounds/bone-broken-tooth-fang-red.webp"
+	},
+	{
+		"ENG_name": "variable trait",
+		"name": "可选特征",
+		"racial_trait": "可选特征",
+		"race": "定制血统",
+		"subrace": "定制血统",
+		"path": "icons/sundries/scrolls/scroll-runed-worn-tan.webp"
+	},
+	{
+		"ENG_name": "variant tiefling",
+		"name": "变体提夫林",
+		"racial_trait": "变体提夫林",
+		"race": "提夫林",
+		"subrace": "",
+		"path": "icons/sundries/scrolls/scroll-plain-red.webp"
+	},
+	{
+		"ENG_name": "vedalken dispassion",
+		"name": "维多肯式冷静",
+		"racial_trait": "维多肯式冷静",
+		"race": "维多肯",
+		"subrace": "维多肯",
+		"path": "icons/magic/symbols/runes-triangle-orange-purple.webp"
+	},
+	{
+		"ENG_name": "vengeful assault",
+		"name": "复仇突击",
+		"racial_trait": "复仇突击",
+		"race": "龙裔",
+		"subrace": "峡谷裔龙裔",
+		"path": "icons/skills/melee/strike-slashes-orange.webp"
+	},
+	{
+		"ENG_name": "vigilant guardian",
+		"name": "警醒护卫",
+		"racial_trait": "警醒护卫",
+		"race": "人类",
+		"subrace": "守护龙纹人类",
+		"path": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp"
+	},
+	{
+		"ENG_name": "warder's intuition",
+		"name": "守卫直觉",
+		"racial_trait": "守卫直觉",
+		"race": "矮人",
+		"subrace": "警戒龙纹矮人",
+		"path": "icons/commodities/treasure/token-engraved-pickaxe-pink.webp"
+	},
+	{
+		"ENG_name": "wards and seals",
+		"name": "警卫封印",
+		"racial_trait": "警卫封印",
+		"race": "矮人",
+		"subrace": "警戒龙纹矮人",
+		"path": "icons/sundries/documents/document-worn-symbol-brown.webp"
+	},
+	{
+		"ENG_name": "water dependency",
+		"name": "依赖水源",
+		"racial_trait": "依赖水源",
+		"race": "格龙蛙人",
+		"subrace": "格龙蛙人",
+		"path": "icons/commodities/materials/liquid-droplet-blue.webp"
+	},
+	{
+		"ENG_name": "wild intuition",
+		"name": "野性直觉",
+		"racial_trait": "野性直觉",
+		"race": "人类",
+		"subrace": "畜牧龙纹人类",
+		"path": "icons/magic/nature/wolf-paw-glow-orange.webp"
+	},
+	{
+		"ENG_name": "windwright's intuition",
+		"name": "驭风者直觉",
+		"racial_trait": "驭风者直觉",
+		"race": "半精灵",
+		"subrace": "暴风龙纹半精灵",
+		"path": "icons/tools/navigation/compass-brass-blue-red.webp"
+	},
+	{
+		"ENG_name": "celestial revelation (radiant soul)",
+		"name": "天界启示（光辉灵魂）",
+		"racial_trait": "天界启示（光辉灵魂）",
+		"race": "阿斯莫",
+		"subrace": "",
+		"path": "icons/magic/control/buff-flight-wings-runes-purple-orange.webp"
+	},
+	{
+		"ENG_name": "celestial revelation",
+		"name": "天界启示",
+		"racial_trait": "天界启示",
+		"race": "阿斯莫",
+		"subrace": "",
+		"path": "icons/magic/control/buff-flight-wings-runes-purple-orange.webp"
+	}
+]

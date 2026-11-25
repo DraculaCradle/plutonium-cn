@@ -1,0 +1,108 @@
+{
+	"_meta": {
+		"otherSources": {
+			"monster": {
+				"MM": "SjA",
+				"MPMM": "SjA"
+			}
+		}
+	},
+	"monster": [
+		{
+			"ENG_name": "Giff Shipmate",
+			"name": "诘弗河马人船员",
+			"source": "SjA",
+			"size": [
+				"M"
+			],
+			"type": "humanoid",
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 75,
+				"formula": "10d8 + 30"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 30
+			},
+			"str": 18,
+			"dex": 14,
+			"con": 17,
+			"int": 11,
+			"wis": 12,
+			"cha": 12,
+			"passive": 11,
+			"languages": [
+				"通用语"
+			],
+			"cr": "3",
+			"trait": [
+				{
+					"ENG_name": "Firearms Knowledge",
+					"name": "熟习枪械",
+					"entries": [
+						"诘弗人对枪械的精通可以让它忽略所有枪械的装填属性。"
+					]
+				},
+				{
+					"ENG_name": "Steady as She Goes",
+					"name": "稳如老狗",
+					"entries": [
+						"身处舰船甲板时，诘弗人在对抗可能使其{@condition 倒地}或被推撞出船外的效应而进行的属性检定和豁免检定上具有优势。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"诘弗河马人船员发动两次长剑或鸟铳攻击。"
+					]
+				},
+				{
+					"ENG_name": "Longsword",
+					"name": "长剑",
+					"entries": [
+						"{@atk mw} 命中{@hit 6}，触及5尺，单一目标。{@h}8 ({@damage 1d8 + 4}) 点挥砍伤害，或者如果用双手使用则为9 ({@damage 1d10 + 4}) 点挥砍伤害。"
+					]
+				},
+				{
+					"ENG_name": "Musket",
+					"name": "滑膛枪",
+					"entries": [
+						"{@atk rw} 命中{@hit 4}，范围40/120尺，单一目标。{@h}8（{@damage 1d12 + 2}）穿刺伤害。"
+					]
+				},
+				{
+					"ENG_name": "Force Grenade",
+					"name": "力场手榴弹",
+					"entries": [
+						"诘弗人将手榴弹投掷到60尺远处，手榴弹会造成半径20尺的球状爆炸。任何身处该区域的生物皆需进行一次{@dc 15}的敏捷豁免，豁免失败将受到17（{@damage 5d6}）点力场伤害，豁免成功则伤害减半。在诘弗人投掷手榴弹后，掷一枚{@dice d6}；若结果为4或者更低，则该名诘弗人不再有更多可供投掷的手榴弹。"
+					]
+				}
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"O",
+				"P",
+				"S"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RW"
+			]
+		}
+	]
+}

@@ -1,0 +1,637 @@
+[
+	{
+		"ENG_name": "aberrant mind",
+		"name": "畸变心智",
+		"path": "icons/creatures/magical/humanoid-silhouette-aliens-green.webp"
+	},
+	{
+		"ENG_name": "alchemist",
+		"name": "炼金师",
+		"path": "icons/tools/laboratory/vials-blue-pink.webp"
+	},
+	{
+		"ENG_name": "arcana domain",
+		"name": "奥秘领域",
+		"path": "icons/magic/light/orbs-firefly-hand-yellow.webp"
+	},
+	{
+		"ENG_name": "arcane archer",
+		"name": "魔射手",
+		"path": "icons/environment/people/archer.webp"
+	},
+	{
+		"ENG_name": "arcane trickster",
+		"name": "诡术师",
+		"path": "icons/magic/light/hand-sparks-smoke-green.webp"
+	},
+	{
+		"ENG_name": "armorer",
+		"name": "装甲师",
+		"path": "icons/equipment/chest/breastplate-layered-gilded-orange.webp"
+	},
+	{
+		"ENG_name": "artificer",
+		"name": "奇械师",
+		"path": "icons/commodities/tech/cog-bronze.webp"
+	},
+	{
+		"ENG_name": "artillerist",
+		"name": "魔炮师",
+		"path": "icons/weapons/artillery/cannon-engraved-gold.webp"
+	},
+	{
+		"ENG_name": "assassin",
+		"name": "刺客",
+		"path": "icons/skills/melee/strike-dagger-skull-white.webp"
+	},
+	{
+		"ENG_name": "banneret purple dragon knight",
+		"name": "旗将紫色龙骑士",
+		"path": "icons/sundries/flags/banner-symbol-sun-gold-red.webp"
+	},
+	{
+		"ENG_name": "barbarian",
+		"name": "野蛮人",
+		"path": "icons/skills/melee/hand-grip-sword-orange.webp"
+	},
+	{
+		"ENG_name": "bard",
+		"name": "吟游诗人",
+		"path": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp"
+	},
+	{
+		"ENG_name": "battle master",
+		"name": "战斗大师",
+		"path": "icons/environment/people/infantry-armored.webp"
+	},
+	{
+		"ENG_name": "battle smith",
+		"name": "战地匠师",
+		"path": "icons/tools/smithing/anvil.webp"
+	},
+	{
+		"ENG_name": "beast master",
+		"name": "驯兽师",
+		"path": "icons/creatures/abilities/paw-print-yellow.webp"
+	},
+	{
+		"ENG_name": "bladesinging",
+		"name": "剑咏者",
+		"path": "icons/skills/melee/weapons-crossed-swords-teal.webp"
+	},
+	{
+		"ENG_name": "cavalier",
+		"name": "骁骑士",
+		"path": "icons/environment/people/cavalry-heavy.webp"
+	},
+	{
+		"ENG_name": "champion",
+		"name": "勇士",
+		"path": "icons/skills/melee/maneuver-greatsword-yellow.webp"
+	},
+	{
+		"ENG_name": "circle of dreams",
+		"name": "梦境结社",
+		"path": "icons/magic/nature/meteorite-purple.webp"
+	},
+	{
+		"ENG_name": "circle of spores",
+		"name": "孢子结社",
+		"path": "icons/magic/nature/mushrooms-fire-glow-blue.webp"
+	},
+	{
+		"ENG_name": "circle of stars",
+		"name": "星辰结社",
+		"path": "icons/skills/trades/academics-astronomy-navigation-purple.webp"
+	},
+	{
+		"ENG_name": "circle of the land",
+		"name": "大地结社",
+		"path": "icons/environment/wilderness/island.webp"
+	},
+	{
+		"ENG_name": "circle of the moon",
+		"name": "月亮结社",
+		"path": "icons/magic/nature/symbol-moon-stars-white.webp"
+	},
+	{
+		"ENG_name": "circle of the shepherd",
+		"name": "牧人结社",
+		"path": "icons/creatures/mammals/spirit-deer-herd-blue.webp"
+	},
+	{
+		"ENG_name": "circle of wildfire",
+		"name": "野火结社",
+		"path": "icons/magic/fire/flame-burning-tree-stump.webp"
+	},
+	{
+		"ENG_name": "cleric",
+		"name": "牧师",
+		"path": "icons/magic/life/ankh-gold-blue.webp"
+	},
+	{
+		"ENG_name": "clockwork soul",
+		"name": "时械之魂",
+		"path": "icons/commodities/tech/watch.webp"
+	},
+	{
+		"ENG_name": "college of creation",
+		"name": "创造学院",
+		"path": "icons/magic/light/orb-hands-humanoid-yellow.webp"
+	},
+	{
+		"ENG_name": "college of eloquence",
+		"name": "雄辩学院",
+		"path": "icons/magic/control/mouth-smile-deception-purple.webp"
+	},
+	{
+		"ENG_name": "college of glamour",
+		"name": "迷惑学院",
+		"path": "icons/magic/nature/leaf-juggle-humanoid-green.webp"
+	},
+	{
+		"ENG_name": "college of lore",
+		"name": "逸闻学院",
+		"path": "icons/skills/trades/academics-book-study-runes.webp"
+	},
+	{
+		"ENG_name": "college of spirits",
+		"name": "精魂学院",
+		"path": "icons/magic/death/undead-ghosts-trio-blue.webp"
+	},
+	{
+		"ENG_name": "college of swords",
+		"name": "剑舞学院",
+		"path": "icons/weapons/swords/sword-broad-serrated-blue.webp"
+	},
+	{
+		"ENG_name": "college of valor",
+		"name": "勇气学院",
+		"path": "icons/skills/trades/music-singing-voice-blue.webp"
+	},
+	{
+		"ENG_name": "college of whispers",
+		"name": "低语学院",
+		"path": "icons/magic/control/fear-fright-white.webp"
+	},
+	{
+		"ENG_name": "death domain",
+		"name": "死亡领域",
+		"path": "icons/magic/death/skeleton-skull-soul-blue.webp"
+	},
+	{
+		"ENG_name": "divine soul",
+		"name": "神圣之魂",
+		"path": "icons/magic/holy/angel-winged-humanoid-blue.webp"
+	},
+	{
+		"ENG_name": "draconic bloodline",
+		"name": "龙族血脉",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "drakewarden",
+		"name": "龙兽守卫",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "druid",
+		"name": "德鲁伊",
+		"path": "icons/creatures/mammals/elk-moose-marked-green.webp"
+	},
+	{
+		"ENG_name": "echo knight",
+		"name": "回音骑士",
+		"path": "icons/magic/control/energy-stream-link-white.webp"
+	},
+	{
+		"ENG_name": "eldritch knight",
+		"name": "奥法骑士",
+		"path": "icons/magic/unholy/hand-weapon-glow-black-green.webp"
+	},
+	{
+		"ENG_name": "fey wanderer",
+		"name": "妖精漫游者",
+		"path": "icons/environment/wilderness/portal.webp"
+	},
+	{
+		"ENG_name": "fighter",
+		"name": "战士",
+		"path": "icons/skills/melee/hand-grip-sword-red.webp"
+	},
+	{
+		"ENG_name": "forge domain",
+		"name": "锻造领域",
+		"path": "icons/skills/trades/smithing-anvil-silver-red.webp"
+	},
+	{
+		"ENG_name": "gloom stalker",
+		"name": "幽域追踪者",
+		"path": "icons/magic/nature/stealth-hide-eyes-pink.webp"
+	},
+	{
+		"ENG_name": "grave domain",
+		"name": "坟墓领域",
+		"path": "icons/magic/death/grave-tombstone-glow-teal.webp"
+	},
+	{
+		"ENG_name": "horizon walker",
+		"name": "边界行者",
+		"path": "icons/magic/lightning/bolt-strike-explosion-yellow.webp"
+	},
+	{
+		"ENG_name": "hunter",
+		"name": "猎人",
+		"path": "icons/skills/targeting/crosshair-scope-sniper-green.webp"
+	},
+	{
+		"ENG_name": "inquisitive",
+		"name": "调查员",
+		"path": "icons/creatures/eyes/human-single-brown.webp"
+	},
+	{
+		"ENG_name": "knowledge domain",
+		"name": "知识领域",
+		"path": "icons/skills/trades/academics-book-study-runes.webp"
+	},
+	{
+		"ENG_name": "life domain",
+		"name": "生命领域",
+		"path": "icons/magic/death/undead-ghosts-trio-blue.webp"
+	},
+	{
+		"ENG_name": "light domain",
+		"name": "光明领域",
+		"path": "icons/weapons/swords/sword-broad-serrated-blue.webp"
+	},
+	{
+		"ENG_name": "mastermind",
+		"name": "策士",
+		"path": "icons/skills/trades/music-singing-voice-blue.webp"
+	},
+	{
+		"ENG_name": "monk",
+		"name": "武僧",
+		"path": "icons/magic/control/silhouette-hold-change-blue.webp"
+	},
+	{
+		"ENG_name": "monster slayer",
+		"name": "怪物杀手",
+		"path": "icons/magic/control/fear-fright-white.webp"
+	},
+	{
+		"ENG_name": "nature domain",
+		"name": "自然领域",
+		"path": "icons/magic/death/skeleton-skull-soul-blue.webp"
+	},
+	{
+		"ENG_name": "oath of conquest",
+		"name": "征服之誓",
+		"path": "icons/magic/holy/angel-winged-humanoid-blue.webp"
+	},
+	{
+		"ENG_name": "oath of devotion",
+		"name": "奉献之誓",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "oath of glory",
+		"name": "荣耀之誓",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "oath of redemption",
+		"name": "救赎之誓",
+		"path": "icons/magic/control/energy-stream-link-white.webp"
+	},
+	{
+		"ENG_name": "oath of the ancients",
+		"name": "古贤之誓",
+		"path": "icons/magic/unholy/hand-weapon-glow-black-green.webp"
+	},
+	{
+		"ENG_name": "oath of the crown",
+		"name": "王冠之誓",
+		"path": "icons/environment/wilderness/portal.webp"
+	},
+	{
+		"ENG_name": "oath of the watchers",
+		"name": "守望之誓",
+		"path": "icons/skills/trades/smithing-anvil-silver-red.webp"
+	},
+	{
+		"ENG_name": "oath of vengeance",
+		"name": "复仇之誓",
+		"path": "icons/magic/nature/stealth-hide-eyes-pink.webp"
+	},
+	{
+		"ENG_name": "oathbreaker",
+		"name": "破誓者",
+		"path": "icons/magic/death/grave-tombstone-glow-teal.webp"
+	},
+	{
+		"ENG_name": "order domain",
+		"name": "秩序领域",
+		"path": "icons/magic/lightning/bolt-strike-explosion-yellow.webp"
+	},
+	{
+		"ENG_name": "order of scribes",
+		"name": "书士会",
+		"path": "icons/skills/targeting/crosshair-scope-sniper-green.webp"
+	},
+	{
+		"ENG_name": "paladin",
+		"name": "圣武士",
+		"path": "icons/skills/melee/weapons-crossed-swords-yellow-teal.webp"
+	},
+	{
+		"ENG_name": "path of the ancestral guardian",
+		"name": "先祖守卫道途",
+		"path": "icons/creatures/eyes/human-single-brown.webp"
+	},
+	{
+		"ENG_name": "path of the battlerager",
+		"name": "战狂道途",
+		"path": "icons/skills/trades/academics-book-study-runes.webp"
+	},
+	{
+		"ENG_name": "path of the beast",
+		"name": "野兽道途",
+		"path": "icons/magic/death/undead-ghosts-trio-blue.webp"
+	},
+	{
+		"ENG_name": "path of the berserker",
+		"name": "狂战士道途",
+		"path": "icons/weapons/swords/sword-broad-serrated-blue.webp"
+	},
+	{
+		"ENG_name": "path of the storm herald",
+		"name": "风暴先驱道途",
+		"path": "icons/skills/trades/music-singing-voice-blue.webp"
+	},
+	{
+		"ENG_name": "path of the totem warrior",
+		"name": "图腾武者道途",
+		"path": "icons/magic/control/fear-fright-white.webp"
+	},
+	{
+		"ENG_name": "path of the zealot",
+		"name": "狂热者道途",
+		"path": "icons/magic/death/skeleton-skull-soul-blue.webp"
+	},
+	{
+		"ENG_name": "path of wild magic",
+		"name": "狂野魔法道途",
+		"path": "icons/magic/holy/angel-winged-humanoid-blue.webp"
+	},
+	{
+		"ENG_name": "peace domain",
+		"name": "和平领域",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "phantom",
+		"name": "鬼魅",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "psi warrior",
+		"name": "灵能武士",
+		"path": "icons/magic/control/energy-stream-link-white.webp"
+	},
+	{
+		"ENG_name": "ranger",
+		"name": "游侠",
+		"path": "icons/weapons/bows/shortbow-recurve-yellow.webp"
+	},
+	{
+		"ENG_name": "rogue",
+		"name": "游荡者",
+		"path": "icons/skills/melee/strike-sword-stabbed-brown.webp"
+	},
+	{
+		"ENG_name": "rune knight",
+		"name": "符文骑士",
+		"path": "icons/magic/unholy/hand-weapon-glow-black-green.webp"
+	},
+	{
+		"ENG_name": "samurai",
+		"name": "武士",
+		"path": "icons/environment/wilderness/portal.webp"
+	},
+	{
+		"ENG_name": "school of abjuration",
+		"name": "防护学派",
+		"path": "icons/skills/trades/smithing-anvil-silver-red.webp"
+	},
+	{
+		"ENG_name": "school of conjuration",
+		"name": "咒法学派",
+		"path": "icons/magic/nature/stealth-hide-eyes-pink.webp"
+	},
+	{
+		"ENG_name": "school of divination",
+		"name": "预言学派",
+		"path": "icons/magic/death/grave-tombstone-glow-teal.webp"
+	},
+	{
+		"ENG_name": "school of enchantment",
+		"name": "惑控学派",
+		"path": "icons/magic/lightning/bolt-strike-explosion-yellow.webp"
+	},
+	{
+		"ENG_name": "school of evocation",
+		"name": "塑能学派",
+		"path": "icons/skills/targeting/crosshair-scope-sniper-green.webp"
+	},
+	{
+		"ENG_name": "school of illusion",
+		"name": "幻术学派",
+		"path": "icons/creatures/eyes/human-single-brown.webp"
+	},
+	{
+		"ENG_name": "school of necromancy",
+		"name": "死灵学派",
+		"path": "icons/skills/trades/academics-book-study-runes.webp"
+	},
+	{
+		"ENG_name": "school of transmutation",
+		"name": "变化学派",
+		"path": "icons/magic/death/undead-ghosts-trio-blue.webp"
+	},
+	{
+		"ENG_name": "school of war magic",
+		"name": "战争魔法学派",
+		"path": "icons/weapons/swords/sword-broad-serrated-blue.webp"
+	},
+	{
+		"ENG_name": "scout",
+		"name": "斥候",
+		"path": "icons/skills/trades/music-singing-voice-blue.webp"
+	},
+	{
+		"ENG_name": "shadow magic",
+		"name": "暗影魔法",
+		"path": "icons/magic/control/fear-fright-white.webp"
+	},
+	{
+		"ENG_name": "sorcerer",
+		"name": "术士",
+		"path": "icons/magic/earth/projectiles-magma-stone-orange.webp"
+	},
+	{
+		"ENG_name": "soulknife",
+		"name": "魂刃",
+		"path": "icons/magic/death/skeleton-skull-soul-blue.webp"
+	},
+	{
+		"ENG_name": "storm sorcery",
+		"name": "风暴术法",
+		"path": "icons/magic/holy/angel-winged-humanoid-blue.webp"
+	},
+	{
+		"ENG_name": "swarmkeeper",
+		"name": "集群守卫",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "swashbuckler",
+		"name": "剑客",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "tempest domain",
+		"name": "风暴领域",
+		"path": "icons/magic/control/energy-stream-link-white.webp"
+	},
+	{
+		"ENG_name": "the archfey",
+		"name": "至高妖精",
+		"path": "icons/magic/unholy/hand-weapon-glow-black-green.webp"
+	},
+	{
+		"ENG_name": "the celestial",
+		"name": "天族",
+		"path": "icons/environment/wilderness/portal.webp"
+	},
+	{
+		"ENG_name": "the fathomless",
+		"name": "深海意志宗主",
+		"path": "icons/skills/trades/smithing-anvil-silver-red.webp"
+	},
+	{
+		"ENG_name": "the fiend",
+		"name": "邪魔宗主",
+		"path": "icons/magic/nature/stealth-hide-eyes-pink.webp"
+	},
+	{
+		"ENG_name": "the genie",
+		"name": "巨灵宗主",
+		"path": "icons/magic/death/grave-tombstone-glow-teal.webp"
+	},
+	{
+		"ENG_name": "the great old one",
+		"name": "旧日支配者宗主",
+		"path": "icons/magic/lightning/bolt-strike-explosion-yellow.webp"
+	},
+	{
+		"ENG_name": "the hexblade",
+		"name": "咒剑宗主",
+		"path": "icons/skills/targeting/crosshair-scope-sniper-green.webp"
+	},
+	{
+		"ENG_name": "the undead",
+		"name": "死灵宗主",
+		"path": "icons/creatures/eyes/human-single-brown.webp"
+	},
+	{
+		"ENG_name": "the undying",
+		"name": "不朽者宗主",
+		"path": "icons/skills/trades/academics-book-study-runes.webp"
+	},
+	{
+		"ENG_name": "thief",
+		"name": "盗贼",
+		"path": "icons/magic/death/undead-ghosts-trio-blue.webp"
+	},
+	{
+		"ENG_name": "trickery domain",
+		"name": "诡术领域",
+		"path": "icons/weapons/swords/sword-broad-serrated-blue.webp"
+	},
+	{
+		"ENG_name": "twilight domain",
+		"name": "暮光领域",
+		"path": "icons/skills/trades/music-singing-voice-blue.webp"
+	},
+	{
+		"ENG_name": "war domain",
+		"name": "战争领域",
+		"path": "icons/magic/control/fear-fright-white.webp"
+	},
+	{
+		"ENG_name": "warlock",
+		"name": "魔契师",
+		"path": "icons/creatures/mammals/bat-giant-tattered-purple.webp"
+	},
+	{
+		"ENG_name": "way of mercy",
+		"name": "命流宗",
+		"path": "icons/magic/death/skeleton-skull-soul-blue.webp"
+	},
+	{
+		"ENG_name": "way of shadow",
+		"name": "暗影宗",
+		"path": "icons/magic/holy/angel-winged-humanoid-blue.webp"
+	},
+	{
+		"ENG_name": "way of the ascendant dragon",
+		"name": "神龙宗",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "way of the astral self",
+		"name": "星我宗",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "way of the drunken master",
+		"name": "醉拳宗",
+		"path": "icons/magic/control/energy-stream-link-white.webp"
+	},
+	{
+		"ENG_name": "way of the four elements",
+		"name": "四象宗",
+		"path": "icons/magic/unholy/hand-weapon-glow-black-green.webp"
+	},
+	{
+		"ENG_name": "way of the kensei",
+		"name": "剑圣宗",
+		"path": "icons/environment/wilderness/portal.webp"
+	},
+	{
+		"ENG_name": "way of the long death",
+		"name": "永亡宗",
+		"path": "icons/skills/trades/smithing-anvil-silver-red.webp"
+	},
+	{
+		"ENG_name": "way of the open hand",
+		"name": "散打宗",
+		"path": "icons/magic/nature/stealth-hide-eyes-pink.webp"
+	},
+	{
+		"ENG_name": "way of the sun soul",
+		"name": "日魂宗",
+		"path": "icons/magic/death/grave-tombstone-glow-teal.webp"
+	},
+	{
+		"ENG_name": "wild magic",
+		"name": "狂野魔法",
+		"path": "icons/magic/lightning/bolt-strike-explosion-yellow.webp"
+	},
+	{
+		"ENG_name": "wizard",
+		"name": "法师",
+		"path": "icons/magic/air/wind-tornado-wall-blue.webp"
+	}
+]

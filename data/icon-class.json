@@ -1,0 +1,30 @@
+{
+	"PHB": {
+		"野蛮人": "media/icon/class/phb-barbarian.webp",
+		"吟游诗人": "media/icon/class/phb-bard.webp",
+		"牧师": "media/icon/class/phb-cleric.webp",
+		"德鲁伊": "media/icon/class/phb-druid.webp",
+		"战士": "media/icon/class/phb-fighter.webp",
+		"武僧": "media/icon/class/phb-monk.webp",
+		"圣武士": "media/icon/class/phb-paladin.webp",
+		"游侠": "media/icon/class/phb-ranger.webp",
+		"游荡者": "media/icon/class/phb-rogue.webp",
+		"术士": "media/icon/class/phb-sorcerer.webp",
+		"魔契师": "media/icon/class/phb-warlock.webp",
+		"法师": "media/icon/class/phb-wizard.webp"
+	},
+	"XPHB": {
+		"野蛮人": "media/icon/class/phb-barbarian.webp",
+		"吟游诗人": "media/icon/class/phb-bard.webp",
+		"牧师": "media/icon/class/phb-cleric.webp",
+		"德鲁伊": "media/icon/class/phb-druid.webp",
+		"战士": "media/icon/class/phb-fighter.webp",
+		"武僧": "media/icon/class/phb-monk.webp",
+		"圣武士": "media/icon/class/phb-paladin.webp",
+		"游侠": "media/icon/class/phb-ranger.webp",
+		"游荡者": "media/icon/class/phb-rogue.webp",
+		"术士": "media/icon/class/phb-sorcerer.webp",
+		"魔契师": "media/icon/class/phb-warlock.webp",
+		"法师": "media/icon/class/phb-wizard.webp"
+	}
+}

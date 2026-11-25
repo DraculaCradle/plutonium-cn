@@ -1,0 +1,2667 @@
+[
+	{
+		"ENG_name": "air bubble",
+		"name": "空气泡泡",
+		"path": "icons/magic/water/bubbles-air-water-blue.webp"
+	},
+	{
+		"ENG_name": "abi-dalzim's horrid wilting",
+		"name": "亚比达奇凋死术",
+		"path": "icons/magic/air/fog-gas-smoke-dense-brown.webp"
+	},
+	{
+		"ENG_name": "absorb elements",
+		"name": "吸收元素",
+		"path": "icons/magic/lightning/orb-ball-purple.webp"
+	},
+	{
+		"ENG_name": "acid arrow",
+		"name": "强酸箭",
+		"path": "icons/skills/ranged/arrow-flying-ornate-gold.webp"
+	},
+	{
+		"ENG_name": "acid splash",
+		"name": "酸液飞溅",
+		"path": "icons/creatures/slimes/slime-movement-dripping-pseudopods-green.webp"
+	},
+	{
+		"ENG_name": "aganazzar's scorcher",
+		"name": "阿迦纳萨喷火术",
+		"path": "icons/magic/light/beam-rays-red-large.webp"
+	},
+	{
+		"ENG_name": "aid",
+		"name": "援助术",
+		"path": "icons/magic/life/cross-embers-glow-yellow-purple.webp"
+	},
+	{
+		"ENG_name": "alarm",
+		"name": "警报术",
+		"path": "icons/magic/sonic/bell-alarm-red-purple.webp"
+	},
+	{
+		"ENG_name": "alter self",
+		"name": "变身术",
+		"path": "icons/magic/control/debuff-energy-hold-green.webp"
+	},
+	{
+		"ENG_name": "animal friendship",
+		"name": "化兽为友",
+		"path": "icons/environment/creatures/frog-spotted-green.webp"
+	},
+	{
+		"ENG_name": "animal messenger",
+		"name": "动物信使",
+		"path": "icons/creatures/birds/corvid-flying-wings-purple.webp"
+	},
+	{
+		"ENG_name": "animal shapes",
+		"name": "动物形态",
+		"path": "icons/magic/nature/wolf-paw-glow-large-teal-blue.webp"
+	},
+	{
+		"ENG_name": "animate dead",
+		"name": "活化死尸",
+		"path": "icons/magic/death/undead-skeleton-energy-green.webp"
+	},
+	{
+		"ENG_name": "animate objects",
+		"name": "活化物件",
+		"path": "icons/magic/water/bubbles-air-water-blue.webp"
+	},
+	{
+		"ENG_name": "antilife shell",
+		"name": "防活物护罩",
+		"path": "icons/magic/earth/orb-stone-smoke-teal.webp"
+	},
+	{
+		"ENG_name": "antimagic field",
+		"name": "反魔法场",
+		"path": "icons/commodities/gems/pearl-purple-dark.webp"
+	},
+	{
+		"ENG_name": "antipathy/sympathy",
+		"name": "嫌恶术/关怀术",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-large-teal.webp"
+	},
+	{
+		"ENG_name": "arcane eye",
+		"name": "秘法眼",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-teal.webp"
+	},
+	{
+		"ENG_name": "arcane gate",
+		"name": "秘法门",
+		"path": "icons/magic/air/air-burst-spiral-large-yellow.webp"
+	},
+	{
+		"ENG_name": "arcane hand",
+		"name": "奥术之手",
+		"path": "icons/magic/unholy/strike-hand-glow-pink.webp"
+	},
+	{
+		"ENG_name": "arcane lock",
+		"name": "秘法锁",
+		"path": "icons/sundries/misc/key-steel-grey.webp"
+	},
+	{
+		"ENG_name": "arcanist's magic aura",
+		"name": "奥术师魔法灵光",
+		"path": "icons/magic/symbols/runes-star-magenta.webp"
+	},
+	{
+		"ENG_name": "armor of agathys",
+		"name": "黯冰狱铠",
+		"path": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp"
+	},
+	{
+		"ENG_name": "arms of hadar",
+		"name": "哈达之臂",
+		"path": "icons/commodities/biological/tentacle-purple-white.webp"
+	},
+	{
+		"ENG_name": "ashardalon's stride",
+		"name": "阿莎德隆奔行",
+		"path": "icons/magic/fire/projectile-bolt-zigzag-orange.webp"
+	},
+	{
+		"ENG_name": "astral projection",
+		"name": "星界投影",
+		"path": "icons/magic/perception/third-eye-blue-red.webp"
+	},
+	{
+		"ENG_name": "augury",
+		"name": "卜筮术",
+		"path": "icons/magic/perception/orb-crystal-ball-scrying.webp"
+	},
+	{
+		"ENG_name": "aura of life",
+		"name": "生命灵光",
+		"path": "icons/magic/life/heart-area-circle-red-green.webp"
+	},
+	{
+		"ENG_name": "aura of purity",
+		"name": "净化灵光",
+		"path": "icons/magic/life/heart-cross-strong-purple-orange.webp"
+	},
+	{
+		"ENG_name": "aura of vitality",
+		"name": "活力灵光",
+		"path": "icons/magic/life/cross-area-circle-green-white.webp"
+	},
+	{
+		"ENG_name": "awaken",
+		"name": "启蒙术",
+		"path": "icons/magic/nature/tree-animated-strike.webp"
+	},
+	{
+		"ENG_name": "bane",
+		"name": "灾祸术",
+		"path": "icons/magic/unholy/hands-praying-fire-green.webp"
+	},
+	{
+		"ENG_name": "banishing smite",
+		"name": "放逐斩",
+		"path": "icons/weapons/swords/sword-broad-crystal-paired.webp"
+	},
+	{
+		"ENG_name": "banishment",
+		"name": "放逐术",
+		"path": "icons/magic/unholy/orb-swirling-teal.webp"
+	},
+	{
+		"ENG_name": "barkskin",
+		"name": "树肤术",
+		"path": "icons/commodities/wood/bark-beige.webp"
+	},
+	{
+		"ENG_name": "beacon of hope",
+		"name": "希望信标",
+		"path": "icons/magic/light/explosion-star-large-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "beast bond",
+		"name": "兽之联结",
+		"path": "icons/magic/nature/wolf-paw-glow-green.webp"
+	},
+	{
+		"ENG_name": "beast sense",
+		"name": "野兽感官",
+		"path": "icons/creatures/eyes/humanoid-single-red-brown.webp"
+	},
+	{
+		"ENG_name": "bestow curse",
+		"name": "降咒",
+		"path": "icons/magic/symbols/triangle-glow-purple.webp"
+	},
+	{
+		"ENG_name": "bigby's hand",
+		"name": "毕格比之手",
+		"path": "icons/magic/unholy/strike-hand-glow-pink.webp"
+	},
+	{
+		"ENG_name": "black tentacles",
+		"name": "黑触手",
+		"path": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp"
+	},
+	{
+		"ENG_name": "blade barrier",
+		"name": "剑刃护壁",
+		"path": "icons/skills/melee/spear-tips-triple-orange.webp"
+	},
+	{
+		"ENG_name": "blade of disaster",
+		"name": "灾厄之刃",
+		"path": "icons/skills/melee/strike-sword-blood-red.webp"
+	},
+	{
+		"ENG_name": "blade ward",
+		"name": "剑刃防护",
+		"path": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp"
+	},
+	{
+		"ENG_name": "bless",
+		"name": "祝福术",
+		"path": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp"
+	},
+	{
+		"ENG_name": "blight",
+		"name": "枯萎术",
+		"path": "icons/magic/nature/tree-spirit-green.webp"
+	},
+	{
+		"ENG_name": "blinding smite",
+		"name": "致盲斩",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "blindness/deafness",
+		"name": "目盲术/耳聋术",
+		"path": "icons/creatures/eyes/humanoid-single-blind.webp"
+	},
+	{
+		"ENG_name": "blink",
+		"name": "闪现术",
+		"path": "icons/magic/control/debuff-energy-hold-pink.webp"
+	},
+	{
+		"ENG_name": "blur",
+		"name": "朦胧术",
+		"path": "icons/magic/time/hourglass-yellow-green.webp"
+	},
+	{
+		"ENG_name": "bones of the earth",
+		"name": "地之骨",
+		"path": "icons/commodities/stone/masonry-block-cube-grey-teal.webp"
+	},
+	{
+		"ENG_name": "booming blade",
+		"name": "轰雷剑",
+		"path": "icons/skills/melee/sword-stuck-glowing-pink.webp"
+	},
+	{
+		"ENG_name": "borrowed knowledge",
+		"name": "借鉴才学",
+		"path": "icons/magic/perception/third-eye-blue-red.webp"
+	},
+	{
+		"ENG_name": "branding smite",
+		"name": "印记斩",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-strong-purple.webp"
+	},
+	{
+		"ENG_name": "burning hands",
+		"name": "燃烧之手",
+		"path": "icons/magic/earth/volcano-explosion-lava-yellow.webp"
+	},
+	{
+		"ENG_name": "call lightning",
+		"name": "召雷术",
+		"path": "icons/magic/lightning/bolt-forked-large-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "calm emotions",
+		"name": "安定心神",
+		"path": "icons/magic/control/buff-luck-fortune-rainbow.webp"
+	},
+	{
+		"ENG_name": "catapult",
+		"name": "弹射术",
+		"path": "icons/magic/earth/projectile-stone-boulder-blue.webp"
+	},
+	{
+		"ENG_name": "catnap",
+		"name": "假寐术",
+		"path": "icons/magic/perception/third-eye-blue-red.webp"
+	},
+	{
+		"ENG_name": "cause fear",
+		"name": "造成恐惧",
+		"path": "icons/magic/control/fear-fright-monster-green.webp"
+	},
+	{
+		"ENG_name": "ceremony",
+		"name": "典礼术",
+		"path": "icons/sundries/books/book-purple-cross.webp"
+	},
+	{
+		"ENG_name": "chain lightning",
+		"name": "连锁闪电",
+		"path": "icons/magic/lightning/bolts-forked-large-blue.webp"
+	},
+	{
+		"ENG_name": "chaos bolt",
+		"name": "混乱箭",
+		"path": "icons/magic/lightning/bolt-strike-beam-purple.webp"
+	},
+	{
+		"ENG_name": "charm monster",
+		"name": "魅惑怪物",
+		"path": "icons/creatures/unholy/demon-winged-cyclops-drooling.webp"
+	},
+	{
+		"ENG_name": "charm person",
+		"name": "魅惑类人",
+		"path": "icons/magic/life/heart-shadow-red.webp"
+	},
+	{
+		"ENG_name": "chill touch",
+		"name": "颤栗之触",
+		"path": "icons/magic/fire/flame-burning-hand-purple.webp"
+	},
+	{
+		"ENG_name": "chromatic orb",
+		"name": "繁彩球",
+		"path": "icons/magic/unholy/orb-beam-pink.webp"
+	},
+	{
+		"ENG_name": "circle of death",
+		"name": "死亡法阵",
+		"path": "icons/magic/lightning/barrier-shield-crackling-orb-pink.webp"
+	},
+	{
+		"ENG_name": "circle of power",
+		"name": "原力法阵",
+		"path": "icons/magic/light/explosion-star-glow-blue-purple.webp"
+	},
+	{
+		"ENG_name": "clairvoyance",
+		"name": "鹰眼术",
+		"path": "icons/magic/perception/eye-winged-pink.webp"
+	},
+	{
+		"ENG_name": "clone",
+		"name": "克隆术",
+		"path": "icons/magic/defensive/illusion-evasion-echo-purple.webp"
+	},
+	{
+		"ENG_name": "cloud of daggers",
+		"name": "匕首之云",
+		"path": "icons/skills/ranged/daggers-thrown-salvo-green.webp"
+	},
+	{
+		"ENG_name": "cloudkill",
+		"name": "死云术",
+		"path": "icons/magic/air/fog-gas-smoke-swirling-green.webp"
+	},
+	{
+		"ENG_name": "color spray",
+		"name": "七彩喷射",
+		"path": "icons/magic/light/projectile-bolts-salvo-yellow.webp"
+	},
+	{
+		"ENG_name": "command",
+		"name": "命令术",
+		"path": "icons/skills/social/wave-halt-stop.webp"
+	},
+	{
+		"ENG_name": "commune",
+		"name": "通神术",
+		"path": "icons/magic/symbols/runes-star-pentagon-blue.webp"
+	},
+	{
+		"ENG_name": "commune with nature",
+		"name": "问道自然",
+		"path": "icons/magic/nature/tree-spirit-blue.webp"
+	},
+	{
+		"ENG_name": "compelled duel",
+		"name": "强令对决",
+		"path": "icons/skills/melee/weapons-crossed-swords-white-blue.webp"
+	},
+	{
+		"ENG_name": "comprehend languages",
+		"name": "通晓语言",
+		"path": "icons/sundries/documents/document-letter-formal-tan.webp"
+	},
+	{
+		"ENG_name": "compulsion",
+		"name": "强迫术",
+		"path": "icons/creatures/eyes/humanoid-single-blue.webp"
+	},
+	{
+		"ENG_name": "cone of cold",
+		"name": "寒冰锥",
+		"path": "icons/magic/air/wind-tornado-wall-blue.webp"
+	},
+	{
+		"ENG_name": "confusion",
+		"name": "困惑术",
+		"path": "icons/magic/air/air-burst-spiral-teal-green.webp"
+	},
+	{
+		"ENG_name": "conjure animals",
+		"name": "咒唤兽群",
+		"path": "icons/creatures/abilities/paw-print-pair-purple.webp"
+	},
+	{
+		"ENG_name": "conjure barrage",
+		"name": "箭如雨下",
+		"path": "icons/skills/ranged/arrows-flying-salvo-blue-light.webp"
+	},
+	{
+		"ENG_name": "conjure celestial",
+		"name": "咒唤圣光",
+		"path": "icons/commodities/biological/wing-bird-white.webp"
+	},
+	{
+		"ENG_name": "conjure elemental",
+		"name": "咒唤元素",
+		"path": "icons/creatures/fish/fish-fangtooth-skeletal-pink.webp"
+	},
+	{
+		"ENG_name": "conjure fey",
+		"name": "咒唤妖精",
+		"path": "icons/creatures/birds/corvid-flying-wings-purple.webp"
+	},
+	{
+		"ENG_name": "conjure minor elementals",
+		"name": "咒唤微元素群",
+		"path": "icons/creatures/slimes/slime-movement-pseudopod-green.webp"
+	},
+	{
+		"ENG_name": "conjure volley",
+		"name": "万箭齐发",
+		"path": "icons/weapons/ammunition/arrows-war-red.webp"
+	},
+	{
+		"ENG_name": "conjure woodland beings",
+		"name": "咒唤林地卫士",
+		"path": "icons/commodities/bones/horn-antler-brown-red.webp"
+	},
+	{
+		"ENG_name": "contact other plane",
+		"name": "异界探知",
+		"path": "icons/magic/light/beam-rays-magenta.webp"
+	},
+	{
+		"ENG_name": "contagion",
+		"name": "疫病术",
+		"path": "icons/magic/acid/pouring-gas-smoke-liquid.webp"
+	},
+	{
+		"ENG_name": "contingency",
+		"name": "触发术",
+		"path": "icons/tools/navigation/hourglass-grey.webp"
+	},
+	{
+		"ENG_name": "continual flame",
+		"name": "不灭明焰",
+		"path": "icons/magic/light/torch-fire-orange.webp"
+	},
+	{
+		"ENG_name": "control flames",
+		"name": "控火术",
+		"path": "icons/magic/light/hand-sparks-glow-yellow.webp"
+	},
+	{
+		"ENG_name": "control water",
+		"name": "操控水体",
+		"path": "icons/creatures/slimes/slime-movement-swirling-blue.webp"
+	},
+	{
+		"ENG_name": "control weather",
+		"name": "操控天气",
+		"path": "icons/magic/water/snowflake-ice-snow-white.webp"
+	},
+	{
+		"ENG_name": "control winds",
+		"name": "操控风力",
+		"path": "icons/magic/air/air-wave-gust-blue.webp"
+	},
+	{
+		"ENG_name": "cordon of arrows",
+		"name": "警戒箭阵",
+		"path": "icons/skills/ranged/arrows-flying-salvo-yellow.webp"
+	},
+	{
+		"ENG_name": "counterspell",
+		"name": "法术反制",
+		"path": "icons/magic/unholy/hands-cloud-light-pink.webp"
+	},
+	{
+		"ENG_name": "create bonfire",
+		"name": "创造篝火",
+		"path": "icons/magic/fire/flame-burning-campfire-rocks.webp"
+	},
+	{
+		"ENG_name": "create food and water",
+		"name": "造粮术",
+		"path": "icons/consumables/fruit/apple-red-tree-green.webp"
+	},
+	{
+		"ENG_name": "create homunculus",
+		"name": "创造人工生命体",
+		"path": "icons/creatures/abilities/wing-batlike-white-blue.webp"
+	},
+	{
+		"ENG_name": "create magen",
+		"name": "创造魔卫",
+		"path": "icons/commodities/treasure/doll-voodoo.webp"
+	},
+	{
+		"ENG_name": "create or destroy water",
+		"name": "造水术/枯水术",
+		"path": "icons/magic/water/pseudopod-swirl-blue.webp"
+	},
+	{
+		"ENG_name": "create undead",
+		"name": "唤起死灵",
+		"path": "icons/magic/death/skull-trio-badge-purple.webp"
+	},
+	{
+		"ENG_name": "creation",
+		"name": "造物术",
+		"path": "icons/magic/nature/leaf-glow-triple-green.webp"
+	},
+	{
+		"ENG_name": "crown of madness",
+		"name": "疯狂冠冕",
+		"path": "icons/commodities/metal/fragments-steel-barbed.webp"
+	},
+	{
+		"ENG_name": "crown of stars",
+		"name": "众星冠冕",
+		"path": "icons/magic/symbols/runes-star-pentagon-orange.webp"
+	},
+	{
+		"ENG_name": "crusader's mantle",
+		"name": "十字军披风",
+		"path": "icons/skills/melee/strike-hammer-destructive-blue.webp"
+	},
+	{
+		"ENG_name": "cure wounds",
+		"name": "疗伤术",
+		"path": "icons/magic/life/heart-cross-strong-green.webp"
+	},
+	{
+		"ENG_name": "dancing lights",
+		"name": "舞光术",
+		"path": "icons/magic/light/explosion-star-glow-yellow.webp"
+	},
+	{
+		"ENG_name": "danse macabre",
+		"name": "骷髅之舞",
+		"path": "icons/magic/acid/dissolve-bone-ribs-skull.webp"
+	},
+	{
+		"ENG_name": "dark star",
+		"name": "暗黑星辰",
+		"path": "icons/magic/unholy/barrier-shield-glowing-pink.webp"
+	},
+	{
+		"ENG_name": "darkness",
+		"name": "黑暗术",
+		"path": "icons/magic/unholy/orb-glowing-purple.webp"
+	},
+	{
+		"ENG_name": "darkvision",
+		"name": "黑暗视觉",
+		"path": "icons/magic/perception/hand-eye-pink.webp"
+	},
+	{
+		"ENG_name": "dawn",
+		"name": "拂晓",
+		"path": "icons/magic/light/projectile-beam-yellow.webp"
+	},
+	{
+		"ENG_name": "daylight",
+		"name": "昼明术",
+		"path": "icons/magic/light/beam-rays-yellow.webp"
+	},
+	{
+		"ENG_name": "death ward",
+		"name": "防死结界",
+		"path": "icons/magic/holy/angel-wings-gray.webp"
+	},
+	{
+		"ENG_name": "delayed blast fireball",
+		"name": "延迟爆裂火球",
+		"path": "icons/magic/fire/explosion-fireball-large-red-orange.webp"
+	},
+	{
+		"ENG_name": "demiplane",
+		"name": "半位面",
+		"path": "icons/commodities/gems/pearl-water.webp"
+	},
+	{
+		"ENG_name": "destructive wave",
+		"name": "湮灭波",
+		"path": "icons/commodities/materials/liquid-blue.webp"
+	},
+	{
+		"ENG_name": "detect evil and good",
+		"name": "侦测善恶",
+		"path": "icons/magic/light/explosion-star-blue.webp"
+	},
+	{
+		"ENG_name": "detect magic",
+		"name": "侦测魔法",
+		"path": "icons/magic/symbols/rune-sigil-black-pink.webp"
+	},
+	{
+		"ENG_name": "detect poison and disease",
+		"name": "侦测毒性和疾病",
+		"path": "icons/magic/acid/dissolve-drip-droplet-smoke.webp"
+	},
+	{
+		"ENG_name": "detect thoughts",
+		"name": "侦测思想",
+		"path": "icons/commodities/biological/organ-brain-pink.webp"
+	},
+	{
+		"ENG_name": "dimension door",
+		"name": "任意门",
+		"path": "icons/magic/movement/portal-vortex-orange.webp"
+	},
+	{
+		"ENG_name": "disguise self",
+		"name": "易容术",
+		"path": "icons/creatures/magical/spirit-undead-masked-blue.webp"
+	},
+	{
+		"ENG_name": "disintegrate",
+		"name": "解离术",
+		"path": "icons/magic/unholy/strike-body-explode-disintegrate.webp"
+	},
+	{
+		"ENG_name": "dispel evil and good",
+		"name": "驱逐善恶",
+		"path": "icons/magic/holy/yin-yang-balance-symbol.webp"
+	},
+	{
+		"ENG_name": "dispel magic",
+		"name": "解除魔法",
+		"path": "icons/magic/light/orbs-hand-gray.webp"
+	},
+	{
+		"ENG_name": "dissonant whispers",
+		"name": "不谐低语",
+		"path": "icons/magic/control/fear-fright-shadow-monster-green.webp"
+	},
+	{
+		"ENG_name": "distort value",
+		"name": "扭曲价值",
+		"path": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp"
+	},
+	{
+		"ENG_name": "divination",
+		"name": "预言术",
+		"path": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp"
+	},
+	{
+		"ENG_name": "divine favor",
+		"name": "神恩",
+		"path": "icons/magic/life/heart-cross-strong-purple-orange.webp"
+	},
+	{
+		"ENG_name": "divine word",
+		"name": "圣言术",
+		"path": "icons/magic/light/explosion-star-large-orange-purple.webp"
+	},
+	{
+		"ENG_name": "dominate beast",
+		"name": "支配野兽",
+		"path": "icons/magic/nature/wolf-paw-glow-large-orange.webp"
+	},
+	{
+		"ENG_name": "dominate monster",
+		"name": "支配怪物",
+		"path": "icons/creatures/unholy/demon-horned-black-yellow.webp"
+	},
+	{
+		"ENG_name": "dominate person",
+		"name": "支配类人",
+		"path": "icons/creatures/eyes/humanoid-single-blue.webp"
+	},
+	{
+		"ENG_name": "draconic transformation",
+		"name": "龙类变形",
+		"path": "icons/creatures/abilities/dragon-fire-breath-orange.webp"
+	},
+	{
+		"ENG_name": "dragon's breath",
+		"name": "龙息术",
+		"path": "icons/magic/acid/projectile-smoke-glowing.webp"
+	},
+	{
+		"ENG_name": "drawmij's instant summons",
+		"name": "卓姆吉瞬间召唤",
+		"path": "icons/magic/control/buff-flight-wings-purple.webp"
+	},
+	{
+		"ENG_name": "dream",
+		"name": "托梦术",
+		"path": "icons/environment/people/cleric-orange.webp"
+	},
+	{
+		"ENG_name": "dream of the blue veil",
+		"name": "蓝纱一梦",
+		"path": "icons/magic/air/wind-tornado-funnel-damage-blue.webp"
+	},
+	{
+		"ENG_name": "druid grove",
+		"name": "德鲁伊林地",
+		"path": "icons/commodities/flowers/lotus-white.webp"
+	},
+	{
+		"ENG_name": "druidcraft",
+		"name": "德鲁伊伎俩",
+		"path": "icons/creatures/tentacles/tentacles-thing-green.webp"
+	},
+	{
+		"ENG_name": "dust devil",
+		"name": "龙卷尘暴",
+		"path": "icons/magic/air/wind-tornado-cyclone-red-orange.webp"
+	},
+	{
+		"ENG_name": "earth tremor",
+		"name": "地颤",
+		"path": "icons/commodities/stone/paver-gravel-grey.webp"
+	},
+	{
+		"ENG_name": "earthbind",
+		"name": "地缚",
+		"path": "icons/magic/symbols/runes-carved-stone-yellow.webp"
+	},
+	{
+		"ENG_name": "earthquake",
+		"name": "地震术",
+		"path": "icons/magic/earth/explosion-lava-stone-yellow.webp"
+	},
+	{
+		"ENG_name": "eldritch blast",
+		"name": "魔能爆",
+		"path": "icons/magic/fire/projectile-fireball-smoke-teal.webp"
+	},
+	{
+		"ENG_name": "elemental bane",
+		"name": "元素灾厄",
+		"path": "icons/magic/light/projectiles-pink-purple.webp"
+	},
+	{
+		"ENG_name": "elemental weapon",
+		"name": "元素武器",
+		"path": "icons/magic/fire/dagger-rune-enchant-purple-orange.webp"
+	},
+	{
+		"ENG_name": "encode thoughts",
+		"name": "思想编码",
+		"path": "icons/magic/air/air-wave-gust-blue.webp"
+	},
+	{
+		"ENG_name": "enemies abound",
+		"name": "敌群环绕",
+		"path": "icons/magic/control/fear-fright-monster-red.webp"
+	},
+	{
+		"ENG_name": "enervation",
+		"name": "汲能术",
+		"path": "icons/commodities/biological/eye-tentacle-grey-orange.webp"
+	},
+	{
+		"ENG_name": "enhance ability",
+		"name": "强化属性",
+		"path": "icons/magic/control/buff-strength-muscle-damage-orange.webp"
+	},
+	{
+		"ENG_name": "enlarge/reduce",
+		"name": "变巨/缩小术",
+		"path": "icons/skills/social/intimidation-impressing.webp"
+	},
+	{
+		"ENG_name": "ensnaring strike",
+		"name": "诱捕打击",
+		"path": "icons/magic/fire/projectile-arrow-fire-red-yellow.webp"
+	},
+	{
+		"ENG_name": "entangle",
+		"name": "纠缠术",
+		"path": "icons/magic/nature/root-vine-entangle-foot-green.webp"
+	},
+	{
+		"ENG_name": "enthrall",
+		"name": "注目术",
+		"path": "icons/magic/air/air-burst-spiral-pink.webp"
+	},
+	{
+		"ENG_name": "erupting earth",
+		"name": "土石喷发",
+		"path": "icons/magic/earth/explosion-lava-stone-green.webp"
+	},
+	{
+		"ENG_name": "etherealness",
+		"name": "以太化",
+		"path": "icons/magic/air/fog-gas-smoke-blue-gray.webp"
+	},
+	{
+		"ENG_name": "evard's black tentacles",
+		"name": "艾伐黑触手",
+		"path": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp"
+	},
+	{
+		"ENG_name": "expeditious retreat",
+		"name": "脚底抹油",
+		"path": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "eyebite",
+		"name": "摄心目光",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp"
+	},
+	{
+		"ENG_name": "fabricate",
+		"name": "鬼斧神工",
+		"path": "icons/commodities/wood/framing-brace-reinforced.webp"
+	},
+	{
+		"ENG_name": "faerie fire",
+		"name": "妖火",
+		"path": "icons/magic/fire/projectile-meteor-salvo-strong-teal.webp"
+	},
+	{
+		"ENG_name": "faithful hound",
+		"name": "忠犬",
+		"path": "icons/commodities/treasure/figurine-dog.webp"
+	},
+	{
+		"ENG_name": "false life",
+		"name": "虚假生命",
+		"path": "icons/magic/control/debuff-chains-purple.webp"
+	},
+	{
+		"ENG_name": "far step",
+		"name": "渺远步",
+		"path": "icons/magic/air/air-pressure-shield-blue.webp"
+	},
+	{
+		"ENG_name": "fast friends",
+		"name": "快速交友",
+		"path": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp"
+	},
+	{
+		"ENG_name": "fear",
+		"name": "恐惧术",
+		"path": "icons/magic/control/fear-fright-monster-purple-blue.webp"
+	},
+	{
+		"ENG_name": "feather fall",
+		"name": "羽落术",
+		"path": "icons/commodities/biological/wing-bird-white.webp"
+	},
+	{
+		"ENG_name": "feeblemind",
+		"name": "弱智术",
+		"path": "icons/commodities/biological/organ-brain-pink-purple.webp"
+	},
+	{
+		"ENG_name": "feign death",
+		"name": "假死术",
+		"path": "icons/environment/settlement/graveyard-tombstone-night.webp"
+	},
+	{
+		"ENG_name": "find familiar",
+		"name": "寻获魔宠",
+		"path": "icons/commodities/materials/feathers-brown.webp"
+	},
+	{
+		"ENG_name": "find greater steed",
+		"name": "寻获高等坐骑",
+		"path": "icons/environment/creatures/horse-white.webp"
+	},
+	{
+		"ENG_name": "find steed",
+		"name": "寻获坐骑",
+		"path": "icons/environment/creatures/horse-tan.webp"
+	},
+	{
+		"ENG_name": "find the path",
+		"name": "寻路术",
+		"path": "icons/magic/air/air-wave-gust-smoke-yellow.webp"
+	},
+	{
+		"ENG_name": "find traps",
+		"name": "寻找陷阱",
+		"path": "icons/environment/traps/trap-jaw-steel.webp"
+	},
+	{
+		"ENG_name": "finger of death",
+		"name": "死亡一指",
+		"path": "icons/magic/nature/beam-hand-leaves-green.webp"
+	},
+	{
+		"ENG_name": "fire bolt",
+		"name": "火焰箭",
+		"path": "icons/magic/light/beam-rays-orange.webp"
+	},
+	{
+		"ENG_name": "fire shield",
+		"name": "火焰护盾",
+		"path": "icons/magic/defensive/shield-barrier-flaming-pentagon-red.webp"
+	},
+	{
+		"ENG_name": "fire storm",
+		"name": "火焰风暴",
+		"path": "icons/magic/fire/projectile-meteor-salvo-heavy-red.webp"
+	},
+	{
+		"ENG_name": "fireball",
+		"name": "火球术",
+		"path": "icons/magic/fire/projectile-fireball-smoke-large-orange.webp"
+	},
+	{
+		"ENG_name": "fizban's platinum shield",
+		"name": "费资本铂金盾",
+		"path": "icons/magic/defensive/shield-barrier-flaming-pentagon-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "flame arrows",
+		"name": "烈焰箭矢",
+		"path": "icons/magic/fire/projectile-arrow-fire-orange-yellow.webp"
+	},
+	{
+		"ENG_name": "flame blade",
+		"name": "火焰刀",
+		"path": "icons/magic/fire/projectile-bolt-zigzag-orange.webp"
+	},
+	{
+		"ENG_name": "flame strike",
+		"name": "焰击术",
+		"path": "icons/magic/fire/projectile-wave-arrow.webp"
+	},
+	{
+		"ENG_name": "flaming sphere",
+		"name": "炽焰法球",
+		"path": "icons/magic/light/explosion-star-orange.webp"
+	},
+	{
+		"ENG_name": "flesh to stone",
+		"name": "石化术",
+		"path": "icons/commodities/treasure/statue-bust-stone-grey.webp"
+	},
+	{
+		"ENG_name": "floating disk",
+		"name": "浮碟术",
+		"path": "icons/commodities/materials/glass-orb-blue.webp"
+	},
+	{
+		"ENG_name": "flock of familiars",
+		"name": "魔宠群",
+		"path": "icons/creatures/mammals/bats-movement-flying-black.webp"
+	},
+	{
+		"ENG_name": "fly",
+		"name": "飞行术",
+		"path": "icons/commodities/treasure/trinket-wing-white.webp"
+	},
+	{
+		"ENG_name": "fog cloud",
+		"name": "云雾术",
+		"path": "icons/magic/air/fog-gas-smoke-dense-gray.webp"
+	},
+	{
+		"ENG_name": "forbiddance",
+		"name": "禁制术",
+		"path": "icons/commodities/gems/pearl-fire-swirl.webp"
+	},
+	{
+		"ENG_name": "forcecage",
+		"name": "力场监牢",
+		"path": "icons/magic/control/debuff-chains-ropes-net-purple-blue.webp"
+	},
+	{
+		"ENG_name": "foresight",
+		"name": "预见术",
+		"path": "icons/magic/perception/hand-eye-fire-blue.webp"
+	},
+	{
+		"ENG_name": "fortune's favor",
+		"name": "命运宠儿",
+		"path": "icons/commodities/flowers/clover.webp"
+	},
+	{
+		"ENG_name": "freedom of movement",
+		"name": "行动自如",
+		"path": "icons/skills/melee/strike-blade-hooked-white-red.webp"
+	},
+	{
+		"ENG_name": "freezing sphere",
+		"name": "冰封法球",
+		"path": "icons/magic/sonic/explosion-shock-wave-teal.webp"
+	},
+	{
+		"ENG_name": "friends",
+		"name": "交友术",
+		"path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+	},
+	{
+		"ENG_name": "frost fingers",
+		"name": "冰冷一指",
+		"path": "icons/magic/water/projectiles-ice-faceted-salvo-gray.webp"
+	},
+	{
+		"ENG_name": "frostbite",
+		"name": "霜噬",
+		"path": "icons/magic/water/barrier-ice-crystal-wall-jagged.webp"
+	},
+	{
+		"ENG_name": "galder's speedy courier",
+		"name": "加德尔急速邮差",
+		"path": "icons/magic/control/debuff-energy-hold-yellow.webp"
+	},
+	{
+		"ENG_name": "galder's tower",
+		"name": "加德尔高塔术",
+		"path": "icons/environment/settlement/tower-stone-blue.webp"
+	},
+	{
+		"ENG_name": "gaseous form",
+		"name": "气化形体",
+		"path": "icons/magic/air/fog-gas-smoke-dense-green.webp"
+	},
+	{
+		"ENG_name": "gate",
+		"name": "异界之门",
+		"path": "icons/magic/fire/barrier-wall-explosion-orange.webp"
+	},
+	{
+		"ENG_name": "geas",
+		"name": "指使术",
+		"path": "icons/magic/control/control-influence-puppet.webp"
+	},
+	{
+		"ENG_name": "gentle repose",
+		"name": "遗体防腐",
+		"path": "icons/magic/air/air-smoke-casting.webp"
+	},
+	{
+		"ENG_name": "giant insect",
+		"name": "巨虫术",
+		"path": "icons/creatures/invertebrates/spider-beetle-runed-green.webp"
+	},
+	{
+		"ENG_name": "gift of alacrity",
+		"name": "灵敏之赐",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "gift of gab",
+		"name": "巧舌如簧",
+		"path": "icons/commodities/biological/tongue-red.webp"
+	},
+	{
+		"ENG_name": "glibness",
+		"name": "花言巧语",
+		"path": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp"
+	},
+	{
+		"ENG_name": "globe of invulnerability",
+		"name": "法术无效结界",
+		"path": "icons/magic/water/orb-water-transparent.webp"
+	},
+	{
+		"ENG_name": "glyph of warding",
+		"name": "守卫刻文",
+		"path": "icons/magic/symbols/runes-star-orange-purple.webp"
+	},
+	{
+		"ENG_name": "goodberry",
+		"name": "神莓术",
+		"path": "icons/consumables/plants/leaf-veins-glowing-green.webp"
+	},
+	{
+		"ENG_name": "grasping vine",
+		"name": "擒抱藤",
+		"path": "icons/magic/nature/vines-thorned-curled-glow-green.webp"
+	},
+	{
+		"ENG_name": "gravity fissure",
+		"name": "重力分裂",
+		"path": "icons/magic/air/wind-vortex-swirl-blue-purple.webp"
+	},
+	{
+		"ENG_name": "gravity sinkhole",
+		"name": "引力裂沟",
+		"path": "icons/magic/unholy/barrier-shield-glowing-pink.webp"
+	},
+	{
+		"ENG_name": "grease",
+		"name": "油腻术",
+		"path": "icons/magic/unholy/projectile-helix-blood-red.webp"
+	},
+	{
+		"ENG_name": "greater invisibility",
+		"name": "高等隐形术",
+		"path": "icons/magic/air/fog-gas-smoke-gray.webp"
+	},
+	{
+		"ENG_name": "greater restoration",
+		"name": "高等复原术",
+		"path": "icons/magic/life/heart-cross-strong-flame-blue.webp"
+	},
+	{
+		"ENG_name": "green-flame blade",
+		"name": "翠炎剑",
+		"path": "icons/skills/melee/blade-tip-energy-green.webp"
+	},
+	{
+		"ENG_name": "guardian of faith",
+		"name": "信仰守卫",
+		"path": "icons/magic/control/buff-flight-wings-runes-blue-white.webp"
+	},
+	{
+		"ENG_name": "guardian of nature",
+		"name": "自然守卫",
+		"path": "icons/magic/nature/lotus-glow-pink.webp"
+	},
+	{
+		"ENG_name": "guards and wards",
+		"name": "铜墙铁壁",
+		"path": "icons/magic/symbols/runes-star-pentagon-magenta.webp"
+	},
+	{
+		"ENG_name": "guidance",
+		"name": "神导术",
+		"path": "icons/magic/control/buff-flight-wings-blue.webp"
+	},
+	{
+		"ENG_name": "guiding bolt",
+		"name": "光导箭",
+		"path": "icons/magic/fire/flame-burning-hand-purple.webp"
+	},
+	{
+		"ENG_name": "gust",
+		"name": "舞风术",
+		"path": "icons/magic/air/wind-swirl-purple-blue.webp"
+	},
+	{
+		"ENG_name": "gust of wind",
+		"name": "造风术",
+		"path": "icons/magic/air/wind-swirl-gray-blue.webp"
+	},
+	{
+		"ENG_name": "hail of thorns",
+		"name": "棘雹术",
+		"path": "icons/magic/acid/projectile-needles-salvo-green.webp"
+	},
+	{
+		"ENG_name": "hallow",
+		"name": "圣居",
+		"path": "icons/magic/light/explosion-star-glow-yellow.webp"
+	},
+	{
+		"ENG_name": "hallucinatory terrain",
+		"name": "幻景",
+		"path": "icons/environment/wilderness/cave-entrance-vulcano.webp"
+	},
+	{
+		"ENG_name": "harm",
+		"name": "重伤术",
+		"path": "icons/skills/melee/strike-slashes-orange.webp"
+	},
+	{
+		"ENG_name": "haste",
+		"name": "加速术",
+		"path": "icons/magic/control/buff-flight-wings-runes-red-yellow.webp"
+	},
+	{
+		"ENG_name": "heal",
+		"name": "医疗术",
+		"path": "icons/magic/life/heart-glowing-red.webp"
+	},
+	{
+		"ENG_name": "healing spirit",
+		"name": "治愈之魂",
+		"path": "icons/magic/light/beam-rays-yellow-blue-small.webp"
+	},
+	{
+		"ENG_name": "healing word",
+		"name": "治愈真言",
+		"path": "icons/magic/life/heart-cross-green.webp"
+	},
+	{
+		"ENG_name": "heat metal",
+		"name": "灼热金属",
+		"path": "icons/magic/fire/flame-burning-chain.webp"
+	},
+	{
+		"ENG_name": "hellish rebuke",
+		"name": "炼狱叱喝",
+		"path": "icons/magic/control/fear-fright-shadow-monster-red.webp"
+	},
+	{
+		"ENG_name": "heroes' feast",
+		"name": "英雄宴",
+		"path": "icons/containers/kitchenware/goblet-jeweled-red.webp"
+	},
+	{
+		"ENG_name": "heroism",
+		"name": "英雄气概",
+		"path": "icons/magic/control/control-influence-crown-gold.webp"
+	},
+	{
+		"ENG_name": "hex",
+		"name": "脆弱诅咒",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "hideous laughter",
+		"name": "狂笑术",
+		"path": "icons/sundries/misc/teeth-dentures.webp"
+	},
+	{
+		"ENG_name": "hold monster",
+		"name": "定身怪物",
+		"path": "icons/magic/control/encase-creature-monster-hold.webp"
+	},
+	{
+		"ENG_name": "hold person",
+		"name": "定身类人",
+		"path": "icons/magic/control/debuff-energy-hold-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "holy aura",
+		"name": "圣洁灵光",
+		"path": "icons/magic/fire/explosion-fireball-large-blue.webp"
+	},
+	{
+		"ENG_name": "holy weapon",
+		"name": "神圣武器",
+		"path": "icons/skills/melee/weapons-crossed-swords-yellow-teal.webp"
+	},
+	{
+		"ENG_name": "hunger of hadar",
+		"name": "哈达之欲",
+		"path": "icons/magic/water/barrier-ice-shield.webp"
+	},
+	{
+		"ENG_name": "hunter's mark",
+		"name": "猎人印记",
+		"path": "icons/weapons/bows/shortbow-recurve-yellow.webp"
+	},
+	{
+		"ENG_name": "hypnotic pattern",
+		"name": "催眠图纹",
+		"path": "icons/magic/control/hypnosis-mesmerism-swirl.webp"
+	},
+	{
+		"ENG_name": "ice knife",
+		"name": "冰刃",
+		"path": "icons/magic/water/projectile-ice-faceted-gray.webp"
+	},
+	{
+		"ENG_name": "ice storm",
+		"name": "冰风暴",
+		"path": "icons/magic/water/projectiles-ice-faceted-shard-salvo-blue.webp"
+	},
+	{
+		"ENG_name": "identify",
+		"name": "鉴定术",
+		"path": "icons/tools/scribal/magnifying-glass.webp"
+	},
+	{
+		"ENG_name": "illusory dragon",
+		"name": "幻影巨龙",
+		"path": "icons/creatures/reptiles/serpent-horned-green.webp"
+	},
+	{
+		"ENG_name": "illusory script",
+		"name": "迷幻手稿",
+		"path": "icons/sundries/documents/document-torn-diagram-tan.webp"
+	},
+	{
+		"ENG_name": "immolation",
+		"name": "焚烧术",
+		"path": "icons/magic/fire/explosion-mushroom-nuke-orange.webp"
+	},
+	{
+		"ENG_name": "immovable object",
+		"name": "不动物件",
+		"path": "icons/environment/wilderness/cave-entrance-mountain-blue.webp"
+	},
+	{
+		"ENG_name": "imprisonment",
+		"name": "禁锢术",
+		"path": "icons/magic/control/debuff-chains-ropes-net-red-orange.webp"
+	},
+	{
+		"ENG_name": "incendiary cloud",
+		"name": "焚云术",
+		"path": "icons/magic/air/fog-gas-smoke-swirling-orange.webp"
+	},
+	{
+		"ENG_name": "incite greed",
+		"name": "鼓动贪欲",
+		"path": "icons/commodities/stone/ore-pile-gold.webp"
+	},
+	{
+		"ENG_name": "infernal calling",
+		"name": "地狱呼唤",
+		"path": "icons/magic/control/fear-fright-monster-grin-red-orange.webp"
+	},
+	{
+		"ENG_name": "infestation",
+		"name": "虫群孳生",
+		"path": "icons/creatures/invertebrates/fly-wasp-mosquito-green.webp"
+	},
+	{
+		"ENG_name": "inflict wounds",
+		"name": "致伤术",
+		"path": "icons/magic/unholy/strike-beam-blood-red-teal.webp"
+	},
+	{
+		"ENG_name": "insect plague",
+		"name": "疫病虫群",
+		"path": "icons/creatures/invertebrates/wasp-swarm-attack.webp"
+	},
+	{
+		"ENG_name": "instant summons",
+		"name": "瞬间召唤",
+		"path": "icons/magic/control/buff-flight-wings-purple.webp"
+	},
+	{
+		"ENG_name": "intellect fortress",
+		"name": "智能壁垒",
+		"path": "icons/magic/control/control-influence-rally-purple.webp"
+	},
+	{
+		"ENG_name": "investiture of flame",
+		"name": "炽焰赋权",
+		"path": "icons/magic/lightning/bolt-strike-smoke-yellow.webp"
+	},
+	{
+		"ENG_name": "investiture of ice",
+		"name": "寒冰赋权",
+		"path": "icons/magic/water/strike-ice-blade-axe.webp"
+	},
+	{
+		"ENG_name": "investiture of stone",
+		"name": "磐石赋权",
+		"path": "icons/commodities/stone/stone-pile-grey.webp"
+	},
+	{
+		"ENG_name": "investiture of wind",
+		"name": "清风赋权",
+		"path": "icons/magic/air/wind-swirl-gray-blue.webp"
+	},
+	{
+		"ENG_name": "invisibility",
+		"name": "隐形术",
+		"path": "icons/magic/air/fog-gas-smoke-blue-gray.webp"
+	},
+	{
+		"ENG_name": "invulnerability",
+		"name": "无敌术",
+		"path": "icons/magic/defensive/shield-barrier-flaming-pentagon-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "jim's glowing coin",
+		"name": "吉姆的发光硬币",
+		"path": "icons/commodities/currency/coin-inset-crown-gold.webp"
+	},
+	{
+		"ENG_name": "jim's magic missile",
+		"name": "吉姆的魔法飞弹",
+		"path": "icons/magic/fire/projectile-meteor-salvo-strong-blue.webp"
+	},
+	{
+		"ENG_name": "jump",
+		"name": "跳跃术",
+		"path": "icons/magic/control/debuff-energy-hold-levitate-teal-blue.webp"
+	},
+	{
+		"ENG_name": "kinetic jaunt",
+		"name": "动力短行",
+		"path": "icons/skills/movement/feet-bladed-boots-fire.webp"
+	},
+	{
+		"ENG_name": "knock",
+		"name": "敲击术",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "legend lore",
+		"name": "通晓传奇",
+		"path": "icons/sundries/scrolls/scroll-bound-skull-blue.webp"
+	},
+	{
+		"ENG_name": "leomund's secret chest",
+		"name": "李欧蒙秘藏箱",
+		"path": "icons/containers/chest/chest-simple-box-gold-brown.webp"
+	},
+	{
+		"ENG_name": "leomund's tiny hut",
+		"name": "李欧蒙小屋",
+		"path": "icons/environment/settlement/wagon-black.webp"
+	},
+	{
+		"ENG_name": "lesser restoration",
+		"name": "次等复原术",
+		"path": "icons/magic/life/heart-cross-blue.webp"
+	},
+	{
+		"ENG_name": "levitate",
+		"name": "浮空术",
+		"path": "icons/magic/control/debuff-energy-hold-teal-blue.webp"
+	},
+	{
+		"ENG_name": "life transference",
+		"name": "生命转换",
+		"path": "icons/magic/life/heart-glowing-red.webp"
+	},
+	{
+		"ENG_name": "light",
+		"name": "光亮术",
+		"path": "icons/magic/light/explosion-star-small-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "lightning arrow",
+		"name": "闪电箭矢",
+		"path": "icons/weapons/polearms/spear-ice-crystal-blue.webp"
+	},
+	{
+		"ENG_name": "lightning bolt",
+		"name": "闪电束",
+		"path": "icons/magic/lightning/bolt-forked-large-blue.webp"
+	},
+	{
+		"ENG_name": "lightning lure",
+		"name": "闪电牵引",
+		"path": "icons/magic/water/tendrils-ice-thorns.webp"
+	},
+	{
+		"ENG_name": "locate animals or plants",
+		"name": "动植物定位术",
+		"path": "icons/magic/nature/leaf-glow-triple-orange-purple.webp"
+	},
+	{
+		"ENG_name": "locate creature",
+		"name": "生物定位术",
+		"path": "icons/magic/nature/wolf-paw-glow-small-purple-teal.webp"
+	},
+	{
+		"ENG_name": "locate object",
+		"name": "物件定位术",
+		"path": "icons/sundries/books/book-red-exclamation.webp"
+	},
+	{
+		"ENG_name": "longstrider",
+		"name": "大步奔行",
+		"path": "icons/skills/movement/feet-winged-boots-brown.webp"
+	},
+	{
+		"ENG_name": "maddening darkness",
+		"name": "疯狂之暗",
+		"path": "icons/magic/unholy/strike-beam-blood-red-gray.webp"
+	},
+	{
+		"ENG_name": "maelstrom",
+		"name": "大漩涡",
+		"path": "icons/magic/water/vortex-water-whirlpool.webp"
+	},
+	{
+		"ENG_name": "mage armor",
+		"name": "法师护甲",
+		"path": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp"
+	},
+	{
+		"ENG_name": "mage hand",
+		"name": "法师之手",
+		"path": "icons/magic/unholy/strike-hand-glow-pink.webp"
+	},
+	{
+		"ENG_name": "magic circle",
+		"name": "防护法阵",
+		"path": "icons/skills/targeting/target-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "magic jar",
+		"name": "魔魂壶",
+		"path": "icons/containers/kitchenware/vase-clay-cracked-white.webp"
+	},
+	{
+		"ENG_name": "magic missile",
+		"name": "魔法飞弹",
+		"path": "icons/magic/fire/projectile-meteor-salvo-light-blue.webp"
+	},
+	{
+		"ENG_name": "magic mouth",
+		"name": "魔嘴术",
+		"path": "icons/creatures/abilities/mouth-teeth-tongue-purple.webp"
+	},
+	{
+		"ENG_name": "magic stone",
+		"name": "魔石术",
+		"path": "icons/magic/earth/projectile-stone-ball-purple.webp"
+	},
+	{
+		"ENG_name": "magic weapon",
+		"name": "魔化武器",
+		"path": "icons/skills/melee/strike-blade-hooked-green-purple.webp"
+	},
+	{
+		"ENG_name": "magnificent mansion",
+		"name": "豪宅术",
+		"path": "icons/environment/settlement/house-manor.webp"
+	},
+	{
+		"ENG_name": "magnify gravity",
+		"name": "扩大重力",
+		"path": "icons/magic/air/wind-tornado-spiral-teal-green.webp"
+	},
+	{
+		"ENG_name": "major image",
+		"name": "高等幻影",
+		"path": "icons/magic/control/debuff-energy-hold-levitate-pink.webp"
+	},
+	{
+		"ENG_name": "mass cure wounds",
+		"name": "群体疗伤术",
+		"path": "icons/magic/life/heart-cross-strong-flame-purple-orange.webp"
+	},
+	{
+		"ENG_name": "mass heal",
+		"name": "群体医疗术",
+		"path": "icons/magic/life/heart-glowing-red.webp"
+	},
+	{
+		"ENG_name": "mass healing word",
+		"name": "群体治愈真言",
+		"path": "icons/magic/life/heart-cross-strong-flame-purple-orange.webp"
+	},
+	{
+		"ENG_name": "mass polymorph",
+		"name": "群体变形术",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "mass suggestion",
+		"name": "群体暗示术",
+		"path": "icons/magic/air/air-burst-spiral-large-pink.webp"
+	},
+	{
+		"ENG_name": "maximilian's earthen grasp",
+		"name": "麦克斯米利安的地之攫",
+		"path": "icons/magic/unholy/hand-claw-glow-orange.webp"
+	},
+	{
+		"ENG_name": "maze",
+		"name": "迷宫术",
+		"path": "icons/commodities/treasure/puzzle-pyramid.webp"
+	},
+	{
+		"ENG_name": "meld into stone",
+		"name": "融身入石",
+		"path": "icons/commodities/treasure/statue-bust-stone-grey.webp"
+	},
+	{
+		"ENG_name": "melf's acid arrow",
+		"name": "马友夫强酸箭",
+		"path": "icons/skills/ranged/arrow-flying-ornate-gold.webp"
+	},
+	{
+		"ENG_name": "melf's minute meteors",
+		"name": "马友夫微流星",
+		"path": "icons/magic/fire/explosion-embers-orange.webp"
+	},
+	{
+		"ENG_name": "mending",
+		"name": "修复术",
+		"path": "icons/skills/melee/hand-grip-staff-yellow-brown.webp"
+	},
+	{
+		"ENG_name": "mental prison",
+		"name": "精神监狱",
+		"path": "icons/magic/control/debuff-chains-ropes-purple.webp"
+	},
+	{
+		"ENG_name": "message",
+		"name": "传讯术",
+		"path": "icons/magic/control/energy-stream-link-blue.webp"
+	},
+	{
+		"ENG_name": "meteor swarm",
+		"name": "流星爆",
+		"path": "icons/magic/fire/projectile-meteor-salvo-heavy-red.webp"
+	},
+	{
+		"ENG_name": "mighty fortress",
+		"name": "坚固堡垒",
+		"path": "icons/environment/settlement/palast.webp"
+	},
+	{
+		"ENG_name": "mind blank",
+		"name": "心灵屏障",
+		"path": "icons/equipment/head/mask-craved-beige.webp"
+	},
+	{
+		"ENG_name": "mind sliver",
+		"name": "心灵之楔",
+		"path": "icons/magic/light/beam-rays-magenta.webp"
+	},
+	{
+		"ENG_name": "mind spike",
+		"name": "心灵尖刺",
+		"path": "icons/weapons/ammunition/arrowhead-glowing-blue.webp"
+	},
+	{
+		"ENG_name": "minor illusion",
+		"name": "次级幻象",
+		"path": "icons/magic/control/hypnosis-mesmerism-eye.webp"
+	},
+	{
+		"ENG_name": "mirage arcane",
+		"name": "海市蜃楼",
+		"path": "icons/environment/wilderness/cave-entrance-mountain-blue.webp"
+	},
+	{
+		"ENG_name": "mirror image",
+		"name": "镜影术",
+		"path": "icons/magic/defensive/illusion-evasion-echo-purple.webp"
+	},
+	{
+		"ENG_name": "mislead",
+		"name": "假象术",
+		"path": "icons/magic/control/debuff-energy-hold-levitate-yellow.webp"
+	},
+	{
+		"ENG_name": "misty step",
+		"name": "迷踪步",
+		"path": "icons/magic/control/debuff-energy-snare-brown.webp"
+	},
+	{
+		"ENG_name": "modify memory",
+		"name": "篡改记忆",
+		"path": "icons/magic/air/air-burst-spiral-teal-green.webp"
+	},
+	{
+		"ENG_name": "mold earth",
+		"name": "塑土术",
+		"path": "icons/magic/light/beam-strike-village-yellow.webp"
+	},
+	{
+		"ENG_name": "moonbeam",
+		"name": "月华之光",
+		"path": "icons/magic/light/beam-rays-blue-large.webp"
+	},
+	{
+		"ENG_name": "mordenkainen's faithful hound",
+		"name": "魔邓肯忠犬",
+		"path": "icons/commodities/treasure/figurine-dog.webp"
+	},
+	{
+		"ENG_name": "mordenkainen's magnificent mansion",
+		"name": "魔邓肯豪宅术",
+		"path": "icons/environment/settlement/house-manor.webp"
+	},
+	{
+		"ENG_name": "mordenkainen's private sanctum",
+		"name": "魔邓肯私人密室",
+		"path": "icons/environment/settlement/watchtower-silhouette-yellow.webp"
+	},
+	{
+		"ENG_name": "mordenkainen's sword",
+		"name": "魔邓肯之剑",
+		"path": "icons/skills/melee/sword-stuck-glowing-pink.webp"
+	},
+	{
+		"ENG_name": "motivational speech",
+		"name": "励志演讲",
+		"path": "icons/creatures/abilities/mouth-teeth-human.webp"
+	},
+	{
+		"ENG_name": "move earth",
+		"name": "地动术",
+		"path": "icons/magic/earth/projectile-spiked-stone-boulder-orange.webp"
+	},
+	{
+		"ENG_name": "nathair's mischief",
+		"name": "纳撒尔恶作剧",
+		"path": "icons/magic/light/orb-hands-humanoid-yellow.webp"
+	},
+	{
+		"ENG_name": "negative energy flood",
+		"name": "负能量洪流",
+		"path": "icons/magic/unholy/strike-beam-blood-large-red-green.webp"
+	},
+	{
+		"ENG_name": "nondetection",
+		"name": "回避侦测",
+		"path": "icons/magic/air/air-burst-spiral-large-pink.webp"
+	},
+	{
+		"ENG_name": "nystul's magic aura",
+		"name": "涅斯图魔法灵光",
+		"path": "icons/magic/unholy/orb-smoking-green.webp"
+	},
+	{
+		"ENG_name": "otiluke's freezing sphere",
+		"name": "欧提路克冰封法球",
+		"path": "icons/magic/sonic/explosion-shock-wave-teal.webp"
+	},
+	{
+		"ENG_name": "otiluke's resilient sphere",
+		"name": "欧提路克弹力法球",
+		"path": "icons/magic/water/orb-ice-opaque.webp"
+	},
+	{
+		"ENG_name": "otto's irresistible dance",
+		"name": "奥图迷舞",
+		"path": "icons/magic/control/energy-stream-link-spiral-orange.webp"
+	},
+	{
+		"ENG_name": "pass without trace",
+		"name": "行动无踪",
+		"path": "icons/magic/air/fog-gas-smoke-brown.webp"
+	},
+	{
+		"ENG_name": "passwall",
+		"name": "穿墙术",
+		"path": "icons/environment/wilderness/wall-ruins.webp"
+	},
+	{
+		"ENG_name": "phantasmal force",
+		"name": "魅影之力",
+		"path": "icons/magic/air/wind-vortex-swirl-blue.webp"
+	},
+	{
+		"ENG_name": "phantasmal killer",
+		"name": "魅影杀手",
+		"path": "icons/magic/control/fear-fright-monster-grin-purple-blue.webp"
+	},
+	{
+		"ENG_name": "phantom steed",
+		"name": "魅影驹",
+		"path": "icons/environment/people/charge.webp"
+	},
+	{
+		"ENG_name": "planar ally",
+		"name": "异界誓盟",
+		"path": "icons/creatures/magical/construct-iron-stomping-yellow.webp"
+	},
+	{
+		"ENG_name": "planar binding",
+		"name": "异界誓缚",
+		"path": "icons/magic/control/debuff-chains-shackle-movement-red.webp"
+	},
+	{
+		"ENG_name": "plane shift",
+		"name": "位面转移",
+		"path": "icons/skills/targeting/target-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "plant growth",
+		"name": "植物滋长",
+		"path": "icons/creatures/tentacles/tentacles-thing-green.webp"
+	},
+	{
+		"ENG_name": "poison spray",
+		"name": "毒气喷涌",
+		"path": "icons/magic/acid/projectile-needles-salvo-green.webp"
+	},
+	{
+		"ENG_name": "polymorph",
+		"name": "变形术",
+		"path": "icons/creatures/abilities/dragon-breath-purple.webp"
+	},
+	{
+		"ENG_name": "power word heal",
+		"name": "律令医疗",
+		"path": "icons/magic/water/heart-ice-freeze.webp"
+	},
+	{
+		"ENG_name": "power word kill",
+		"name": "律令死亡",
+		"path": "icons/commodities/bones/skull-hollow-grey.webp"
+	},
+	{
+		"ENG_name": "power word pain",
+		"name": "律令痛苦",
+		"path": "icons/magic/sonic/scream-wail-shout-teal.webp"
+	},
+	{
+		"ENG_name": "power word stun",
+		"name": "律令震慑",
+		"path": "icons/magic/sonic/scream-wail-shout-teal.webp"
+	},
+	{
+		"ENG_name": "prayer of healing",
+		"name": "治疗祷言",
+		"path": "icons/magic/holy/prayer-hands-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "prestidigitation",
+		"name": "魔法伎俩",
+		"path": "icons/magic/symbols/runes-triangle-magenta.webp"
+	},
+	{
+		"ENG_name": "primal savagery",
+		"name": "原初蛮击",
+		"path": "icons/skills/melee/strike-slashes-red.webp"
+	},
+	{
+		"ENG_name": "primordial ward",
+		"name": "原初守护",
+		"path": "icons/magic/control/debuff-chains-ropes-green.webp"
+	},
+	{
+		"ENG_name": "prismatic spray",
+		"name": "虹光喷射",
+		"path": "icons/magic/light/projectile-beams-salvo-yellow.webp"
+	},
+	{
+		"ENG_name": "prismatic wall",
+		"name": "虹光法墙",
+		"path": "icons/magic/control/debuff-chains-ropes-net-purple-blue.webp"
+	},
+	{
+		"ENG_name": "private sanctum",
+		"name": "私人密室",
+		"path": "icons/environment/settlement/watchtower-silhouette-yellow.webp"
+	},
+	{
+		"ENG_name": "produce flame",
+		"name": "燃火术",
+		"path": "icons/magic/light/hand-sparks-glow-yellow.webp"
+	},
+	{
+		"ENG_name": "programmed illusion",
+		"name": "预置幻影",
+		"path": "icons/magic/death/projectile-skull-flaming-green.webp"
+	},
+	{
+		"ENG_name": "project image",
+		"name": "投影术",
+		"path": "icons/magic/control/energy-stream-link-orange.webp"
+	},
+	{
+		"ENG_name": "protection from energy",
+		"name": "防护能量",
+		"path": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp"
+	},
+	{
+		"ENG_name": "protection from evil and good",
+		"name": "防护善恶",
+		"path": "icons/magic/defensive/shield-barrier-flaming-diamond-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "protection from poison",
+		"name": "防护毒素",
+		"path": "icons/magic/defensive/shield-barrier-flaming-diamond-teal-purple.webp"
+	},
+	{
+		"ENG_name": "psychic scream",
+		"name": "心灵尖啸",
+		"path": "icons/magic/control/debuff-chains-shackles-movement-blue.webp"
+	},
+	{
+		"ENG_name": "pulse wave",
+		"name": "脉冲波动",
+		"path": "icons/magic/air/air-burst-spiral-large-blue.webp"
+	},
+	{
+		"ENG_name": "purify food and drink",
+		"name": "净化饮食",
+		"path": "icons/consumables/food/plate-chicken-grilled-mushroom-brown.webp"
+	},
+	{
+		"ENG_name": "pyrotechnics",
+		"name": "烟火术",
+		"path": "icons/magic/fire/explosion-fireball-medium-purple-orange.webp"
+	},
+	{
+		"ENG_name": "raise dead",
+		"name": "死者复活",
+		"path": "icons/magic/death/hand-undead-skeleton-fire-pink.webp"
+	},
+	{
+		"ENG_name": "rary's telepathic bond",
+		"name": "拉瑞心灵联结",
+		"path": "icons/magic/control/energy-stream-link-blue.webp"
+	},
+	{
+		"ENG_name": "raulothim's psychic lance",
+		"name": "劳洛希姆心灵长枪",
+		"path": "icons/magic/lightning/bolt-strike-beam-yellow.webp"
+	},
+	{
+		"ENG_name": "ravenous void",
+		"name": "饕餮虚空",
+		"path": "icons/magic/unholy/barrier-shield-glowing-pink.webp"
+	},
+	{
+		"ENG_name": "ray of enfeeblement",
+		"name": "衰弱射线",
+		"path": "icons/magic/light/beam-rays-teal.webp"
+	},
+	{
+		"ENG_name": "ray of frost",
+		"name": "冷冻射线",
+		"path": "icons/magic/light/beam-rays-blue-small.webp"
+	},
+	{
+		"ENG_name": "ray of sickness",
+		"name": "致病射线",
+		"path": "icons/magic/light/beam-rays-green-small.webp"
+	},
+	{
+		"ENG_name": "reality break",
+		"name": "崩坏现实",
+		"path": "icons/magic/unholy/strike-beam-blood-large-red-purple.webp"
+	},
+	{
+		"ENG_name": "regenerate",
+		"name": "再生术",
+		"path": "icons/commodities/biological/hand-clawed-tan.webp"
+	},
+	{
+		"ENG_name": "reincarnate",
+		"name": "转生术",
+		"path": "icons/magic/death/undead-zombie-grave-green.webp"
+	},
+	{
+		"ENG_name": "remove curse",
+		"name": "移除诅咒",
+		"path": "icons/magic/symbols/triangle-glowing-green.webp"
+	},
+	{
+		"ENG_name": "resilient sphere",
+		"name": "弹力法球",
+		"path": "icons/magic/water/orb-ice-opaque.webp"
+	},
+	{
+		"ENG_name": "resistance",
+		"name": "抵抗术",
+		"path": "icons/magic/life/heart-cross-purple-orange.webp"
+	},
+	{
+		"ENG_name": "resurrection",
+		"name": "复生术",
+		"path": "icons/magic/life/ankh-gold-blue.webp"
+	},
+	{
+		"ENG_name": "reverse gravity",
+		"name": "反转重力",
+		"path": "icons/magic/air/wind-tornado-funnel-damage-blue.webp"
+	},
+	{
+		"ENG_name": "revivify",
+		"name": "回生术",
+		"path": "icons/magic/light/orbs-hand-gray.webp"
+	},
+	{
+		"ENG_name": "rime's binding ice",
+		"name": "雾凇霜缚",
+		"path": "icons/magic/water/barrier-ice-wall-explosion.webp"
+	},
+	{
+		"ENG_name": "rope trick",
+		"name": "魔绳术",
+		"path": "icons/sundries/survival/rope-coiled-thick-yellow.webp"
+	},
+	{
+		"ENG_name": "sacred flame",
+		"name": "圣火术",
+		"path": "icons/magic/fire/beam-jet-stream-yellow.webp"
+	},
+	{
+		"ENG_name": "sanctuary",
+		"name": "庇护术",
+		"path": "icons/magic/defensive/shield-barrier-glowing-blue.webp"
+	},
+	{
+		"ENG_name": "sapping sting",
+		"name": "削弱芒刺",
+		"path": "icons/commodities/biological/stinger-insect-grey.webp"
+	},
+	{
+		"ENG_name": "scatter",
+		"name": "散射术",
+		"path": "icons/magic/fire/projectile-bolts-salvo-red.webp"
+	},
+	{
+		"ENG_name": "scorching ray",
+		"name": "灼热射线",
+		"path": "icons/magic/light/beam-rays-red.webp"
+	},
+	{
+		"ENG_name": "scrying",
+		"name": "探知术",
+		"path": "icons/commodities/biological/eye-blue-gold.webp"
+	},
+	{
+		"ENG_name": "searing smite",
+		"name": "炽焰斩",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp"
+	},
+	{
+		"ENG_name": "secret chest",
+		"name": "秘藏箱",
+		"path": "icons/containers/chest/chest-simple-box-gold-brown.webp"
+	},
+	{
+		"ENG_name": "see invisibility",
+		"name": "识破隐形",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp"
+	},
+	{
+		"ENG_name": "seeming",
+		"name": "伪装术",
+		"path": "icons/commodities/stone/stone-meterorite-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "sending",
+		"name": "短讯术",
+		"path": "icons/sundries/documents/envelope-sealed-red-brown.webp"
+	},
+	{
+		"ENG_name": "sequester",
+		"name": "隔离术",
+		"path": "icons/magic/lightning/bolt-strike-beam-purple.webp"
+	},
+	{
+		"ENG_name": "shadow blade",
+		"name": "幽影刃",
+		"path": "icons/weapons/swords/sword-flanged-lightning.webp"
+	},
+	{
+		"ENG_name": "shadow of moil",
+		"name": "莫伊之影",
+		"path": "icons/commodities/gems/pearl-swirl-teal.webp"
+	},
+	{
+		"ENG_name": "shape water",
+		"name": "操水术",
+		"path": "icons/commodities/materials/liquid-droplet-blue.webp"
+	},
+	{
+		"ENG_name": "shapechange",
+		"name": "形体变化",
+		"path": "icons/creatures/reptiles/serpent-horned-green.webp"
+	},
+	{
+		"ENG_name": "shatter",
+		"name": "粉碎音波",
+		"path": "icons/magic/sonic/explosion-shock-wave-teal.webp"
+	},
+	{
+		"ENG_name": "shield",
+		"name": "护盾术",
+		"path": "icons/equipment/shield/kite-wooden-oak-glow.webp"
+	},
+	{
+		"ENG_name": "shield of faith",
+		"name": "虔诚护盾",
+		"path": "icons/magic/defensive/shield-barrier-flaming-diamond-blue-yellow.webp"
+	},
+	{
+		"ENG_name": "shillelagh",
+		"name": "橡棍术",
+		"path": "icons/skills/melee/hand-grip-staff-yellow-brown.webp"
+	},
+	{
+		"ENG_name": "shocking grasp",
+		"name": "电爪",
+		"path": "icons/magic/lightning/bolt-strike-blue.webp"
+	},
+	{
+		"ENG_name": "sickening radiance",
+		"name": "致病辐射",
+		"path": "icons/magic/light/orb-beams-green.webp"
+	},
+	{
+		"ENG_name": "silence",
+		"name": "沉默术",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "silent image",
+		"name": "无声幻影",
+		"path": "icons/magic/control/silhouette-hold-change-blue.webp"
+	},
+	{
+		"ENG_name": "silvery barbs",
+		"name": "银光锐语",
+		"path": "icons/magic/control/energy-stream-link-white.webp"
+	},
+	{
+		"ENG_name": "simulacrum",
+		"name": "拟像术",
+		"path": "icons/creatures/magical/spirit-undead-masked-blue.webp"
+	},
+	{
+		"ENG_name": "skill empowerment",
+		"name": "授予技能",
+		"path": "icons/magic/symbols/runes-star-orange.webp"
+	},
+	{
+		"ENG_name": "skywrite",
+		"name": "写入空中",
+		"path": "icons/magic/air/wind-stream-red.webp"
+	},
+	{
+		"ENG_name": "sleep",
+		"name": "睡眠术",
+		"path": "icons/magic/control/sleep-bubble-purple.webp"
+	},
+	{
+		"ENG_name": "sleet storm",
+		"name": "雪雨暴",
+		"path": "icons/magic/water/projectile-ice-teardrops-salvo.webp"
+	},
+	{
+		"ENG_name": "slow",
+		"name": "缓慢术",
+		"path": "icons/creatures/webs/webthin-blue.webp"
+	},
+	{
+		"ENG_name": "snare",
+		"name": "圈套术",
+		"path": "icons/sundries/survival/rope-wrapped-purple.webp"
+	},
+	{
+		"ENG_name": "snilloc's snowball swarm",
+		"name": "史尼洛雪球群",
+		"path": "icons/magic/fire/projectile-meteor-salvo-heavy-blue.webp"
+	},
+	{
+		"ENG_name": "soul cage",
+		"name": "灵魂牢笼",
+		"path": "icons/magic/control/debuff-chains-ropes-net-white.webp"
+	},
+	{
+		"ENG_name": "spare the dying",
+		"name": "维生术",
+		"path": "icons/magic/life/heart-cross-strong-blue.webp"
+	},
+	{
+		"ENG_name": "speak with animals",
+		"name": "动物交谈",
+		"path": "icons/creatures/abilities/wolf-howl-moon-purple.webp"
+	},
+	{
+		"ENG_name": "speak with dead",
+		"name": "死者交谈",
+		"path": "icons/magic/death/undead-ghost-scream-teal.webp"
+	},
+	{
+		"ENG_name": "speak with plants",
+		"name": "植物交谈",
+		"path": "icons/magic/nature/tree-bare-glow-yellow.webp"
+	},
+	{
+		"ENG_name": "spider climb",
+		"name": "蛛行术",
+		"path": "icons/commodities/biological/legs-insect-brown.webp"
+	},
+	{
+		"ENG_name": "spike growth",
+		"name": "荆棘丛生",
+		"path": "icons/magic/nature/trap-spikes-thorns-green.webp"
+	},
+	{
+		"ENG_name": "spirit guardians",
+		"name": "灵体卫士",
+		"path": "icons/magic/defensive/shield-barrier-blades-teal.webp"
+	},
+	{
+		"ENG_name": "spirit shroud",
+		"name": "魂灵环绕",
+		"path": "icons/magic/death/projectile-skull-fire-purple.webp"
+	},
+	{
+		"ENG_name": "spiritual weapon",
+		"name": "灵体武器",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-purple-orange.webp"
+	},
+	{
+		"ENG_name": "staggering smite",
+		"name": "惊惧斩",
+		"path": "icons/weapons/hammers/hammer-double-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "steel wind strike",
+		"name": "钢风斩",
+		"path": "icons/skills/melee/maneuver-daggers-paired-orange.webp"
+	},
+	{
+		"ENG_name": "stinking cloud",
+		"name": "臭云术",
+		"path": "icons/magic/air/fog-gas-smoke-dense-green.webp"
+	},
+	{
+		"ENG_name": "stone shape",
+		"name": "塑石术",
+		"path": "icons/commodities/stone/rock-pile-grey.webp"
+	},
+	{
+		"ENG_name": "stoneskin",
+		"name": "石肤术",
+		"path": "icons/magic/defensive/armor-stone-skin.webp"
+	},
+	{
+		"ENG_name": "storm of vengeance",
+		"name": "复仇风暴",
+		"path": "icons/magic/lightning/bolts-forked-large-green.webp"
+	},
+	{
+		"ENG_name": "storm sphere",
+		"name": "风暴法球",
+		"path": "icons/commodities/gems/pearl-storm.webp"
+	},
+	{
+		"ENG_name": "suggestion",
+		"name": "暗示术",
+		"path": "icons/magic/control/silhouette-hold-change-blue.webp"
+	},
+	{
+		"ENG_name": "summon aberration",
+		"name": "异怪召唤术",
+		"path": "icons/creatures/unholy/demon-fanged-horned-yellow.webp"
+	},
+	{
+		"ENG_name": "summon beast",
+		"name": "野兽召唤术",
+		"path": "icons/commodities/claws/claw-bear-brown-grey.webp"
+	},
+	{
+		"ENG_name": "summon celestial",
+		"name": "天界召唤术",
+		"path": "icons/commodities/treasure/trinket-wing-white.webp"
+	},
+	{
+		"ENG_name": "summon construct",
+		"name": "构装召唤术",
+		"path": "icons/environment/creatures/golem-stone-purple.webp"
+	},
+	{
+		"ENG_name": "summon draconic spirit",
+		"name": "龙类灵魄召唤术",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "summon elemental",
+		"name": "元素召唤术",
+		"path": "icons/magic/water/strike-ice-blade-fang.webp"
+	},
+	{
+		"ENG_name": "summon fey",
+		"name": "妖精召唤术",
+		"path": "icons/creatures/mammals/elk-moose-marked-green.webp"
+	},
+	{
+		"ENG_name": "summon fiend",
+		"name": "邪魔召唤术",
+		"path": "icons/magic/fire/explosion-embers-evade-silhouette.webp"
+	},
+	{
+		"ENG_name": "summon greater demon",
+		"name": "高阶恶魔召唤术",
+		"path": "icons/magic/control/fear-fright-monster-grin-green.webp"
+	},
+	{
+		"ENG_name": "summon lesser demons",
+		"name": "召唤次级恶魔",
+		"path": "icons/environment/creatures/gargoyle-grey-stone.webp"
+	},
+	{
+		"ENG_name": "summon shadowspawn",
+		"name": "暗影衍体召唤术",
+		"path": "icons/creatures/unholy/demons-horned-glowing-pink.webp"
+	},
+	{
+		"ENG_name": "summon undead",
+		"name": "亡灵召唤术",
+		"path": "icons/magic/death/undead-skeleton-deformed-red.webp"
+	},
+	{
+		"ENG_name": "sunbeam",
+		"name": "阳炎射线",
+		"path": "icons/magic/light/beam-rays-orange-large.webp"
+	},
+	{
+		"ENG_name": "sunburst",
+		"name": "阳炎爆",
+		"path": "icons/magic/light/explosion-star-large-orange.webp"
+	},
+	{
+		"ENG_name": "swift quiver",
+		"name": "迅捷箭袋",
+		"path": "icons/skills/ranged/target-bullseye-arrow-white.webp"
+	},
+	{
+		"ENG_name": "sword burst",
+		"name": "剑刃爆发",
+		"path": "icons/skills/melee/maneuver-daggers-paired-orange.webp"
+	},
+	{
+		"ENG_name": "symbol",
+		"name": "徽记术",
+		"path": "icons/commodities/treasure/token-engraved-eye-red.webp"
+	},
+	{
+		"ENG_name": "synaptic static",
+		"name": "突触静止",
+		"path": "icons/magic/sonic/projectile-sound-rings-wave.webp"
+	},
+	{
+		"ENG_name": "tasha's caustic brew",
+		"name": "塔莎酸蚀酿",
+		"path": "icons/magic/acid/projectile-glowing-bubbles.webp"
+	},
+	{
+		"ENG_name": "tasha's hideous laughter",
+		"name": "塔莎狂笑术",
+		"path": "icons/sundries/misc/teeth-dentures.webp"
+	},
+	{
+		"ENG_name": "tasha's mind whip",
+		"name": "塔莎心灵鞭",
+		"path": "icons/magic/lightning/bolt-strike-pink.webp"
+	},
+	{
+		"ENG_name": "tasha's otherworldly guise",
+		"name": "塔莎超凡形态",
+		"path": "icons/magic/control/buff-flight-wings-runes-blue.webp"
+	},
+	{
+		"ENG_name": "telekinesis",
+		"name": "心灵遥控",
+		"path": "icons/magic/earth/projectile-spiked-stone-boulder-brown.webp"
+	},
+	{
+		"ENG_name": "telepathic bond",
+		"name": "心灵联结",
+		"path": "icons/magic/control/energy-stream-link-blue.webp"
+	},
+	{
+		"ENG_name": "telepathy",
+		"name": "心灵感应",
+		"path": "icons/magic/nature/leaf-rune-glow-green.webp"
+	},
+	{
+		"ENG_name": "teleport",
+		"name": "传送术",
+		"path": "icons/magic/symbols/runes-star-blue.webp"
+	},
+	{
+		"ENG_name": "teleportation circle",
+		"name": "传送法阵",
+		"path": "icons/magic/symbols/ring-circle-smoke-blue.webp"
+	},
+	{
+		"ENG_name": "temple of the gods",
+		"name": "神庙术",
+		"path": "icons/environment/settlement/temple-night.webp"
+	},
+	{
+		"ENG_name": "temporal shunt",
+		"name": "时流刹转",
+		"path": "icons/tools/navigation/hourglass-yellow.webp"
+	},
+	{
+		"ENG_name": "tenser's floating disk",
+		"name": "谭森浮碟术",
+		"path": "icons/commodities/materials/glass-orb-blue.webp"
+	},
+	{
+		"ENG_name": "tenser's transformation",
+		"name": "谭森变形术",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp"
+	},
+	{
+		"ENG_name": "tether essence",
+		"name": "系结本源",
+		"path": "icons/magic/control/energy-stream-link-teal.webp"
+	},
+	{
+		"ENG_name": "thaumaturgy",
+		"name": "奇术",
+		"path": "icons/magic/perception/eye-ringed-glow-angry-teal.webp"
+	},
+	{
+		"ENG_name": "thorn whip",
+		"name": "荆棘之鞭",
+		"path": "icons/magic/nature/root-vine-thorned-coil-green.webp"
+	},
+	{
+		"ENG_name": "thunder step",
+		"name": "雷霆步",
+		"path": "icons/magic/sonic/explosion-impact-shock-wave.webp"
+	},
+	{
+		"ENG_name": "thunderclap",
+		"name": "鸣雷破",
+		"path": "icons/magic/air/air-burst-spiral-blue-gray.webp"
+	},
+	{
+		"ENG_name": "thunderous smite",
+		"name": "雷鸣斩",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-purple.webp"
+	},
+	{
+		"ENG_name": "thunderwave",
+		"name": "雷鸣波",
+		"path": "icons/magic/air/wind-tornado-spiral-brown.webp"
+	},
+	{
+		"ENG_name": "tidal wave",
+		"name": "潮涌",
+		"path": "icons/magic/water/pseudopod-teal.webp"
+	},
+	{
+		"ENG_name": "time ravage",
+		"name": "时光蹂躏",
+		"path": "icons/magic/time/hourglass-yellow-green.webp"
+	},
+	{
+		"ENG_name": "time stop",
+		"name": "时间停止",
+		"path": "icons/magic/time/clock-stopwatch-white-blue.webp"
+	},
+	{
+		"ENG_name": "tiny hut",
+		"name": "微型小屋",
+		"path": "icons/environment/settlement/wagon-black.webp"
+	},
+	{
+		"ENG_name": "tiny servant",
+		"name": "迷你仆役",
+		"path": "icons/environment/creatures/golem-stone-purple.webp"
+	},
+	{
+		"ENG_name": "toll the dead",
+		"name": "亡者丧钟",
+		"path": "icons/magic/death/skull-humanoid-worn-teal.webp"
+	},
+	{
+		"ENG_name": "tongues",
+		"name": "巧言术",
+		"path": "icons/commodities/biological/tongue-blue.webp"
+	},
+	{
+		"ENG_name": "transmute rock",
+		"name": "转化岩石",
+		"path": "icons/commodities/stone/ore-chunk-red.webp"
+	},
+	{
+		"ENG_name": "transport via plants",
+		"name": "木遁术",
+		"path": "icons/magic/nature/vines-thorned-entwined-glow-green.webp"
+	},
+	{
+		"ENG_name": "tree stride",
+		"name": "树跃术",
+		"path": "icons/environment/wilderness/tree-oak.webp"
+	},
+	{
+		"ENG_name": "true polymorph",
+		"name": "完全变形术",
+		"path": "icons/creatures/mammals/bat-giant-tattered-purple.webp"
+	},
+	{
+		"ENG_name": "true resurrection",
+		"name": "完全复生术",
+		"path": "icons/magic/life/ankh-gold-blue.webp"
+	},
+	{
+		"ENG_name": "true seeing",
+		"name": "真知术",
+		"path": "icons/commodities/biological/eye-red-pink.webp"
+	},
+	{
+		"ENG_name": "true strike",
+		"name": "克敌先击",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-teal-purple.webp"
+	},
+	{
+		"ENG_name": "tsunami",
+		"name": "海啸术",
+		"path": "icons/magic/water/pseudopod-teal.webp"
+	},
+	{
+		"ENG_name": "unseen servant",
+		"name": "隐形仆役",
+		"path": "icons/magic/unholy/silhouette-robe-evil-power.webp"
+	},
+	{
+		"ENG_name": "vampiric touch",
+		"name": "吸血鬼之触",
+		"path": "icons/magic/unholy/hand-claw-fog-green.webp"
+	},
+	{
+		"ENG_name": "vicious mockery",
+		"name": "恶言相加",
+		"path": "icons/magic/control/fear-fright-white.webp"
+	},
+	{
+		"ENG_name": "vitriolic sphere",
+		"name": "浓酸球",
+		"path": "icons/magic/acid/orb-bubble-smoke-drip.webp"
+	},
+	{
+		"ENG_name": "vortex warp",
+		"name": "涡旋翘曲",
+		"path": "icons/magic/water/vortex-water-whirlpool-blue.webp"
+	},
+	{
+		"ENG_name": "wall of fire",
+		"name": "火墙术",
+		"path": "icons/magic/control/debuff-chains-ropes-net-red-orange.webp"
+	},
+	{
+		"ENG_name": "wall of force",
+		"name": "力场墙",
+		"path": "icons/magic/air/air-burst-spiral-large-blue.webp"
+	},
+	{
+		"ENG_name": "wall of ice",
+		"name": "冰墙术",
+		"path": "icons/magic/water/barrier-ice-crystal-wall-jagged-blue.webp"
+	},
+	{
+		"ENG_name": "wall of light",
+		"name": "光墙术",
+		"path": "icons/magic/air/air-burst-spiral-large-yellow.webp"
+	},
+	{
+		"ENG_name": "wall of sand",
+		"name": "沙墙术",
+		"path": "icons/environment/wilderness/cave-entrance-rocky.webp"
+	},
+	{
+		"ENG_name": "wall of stone",
+		"name": "石墙术",
+		"path": "icons/commodities/stone/paver-brick-brown.webp"
+	},
+	{
+		"ENG_name": "wall of thorns",
+		"name": "棘墙术",
+		"path": "icons/magic/nature/root-vine-barrier-wall-brown.webp"
+	},
+	{
+		"ENG_name": "wall of water",
+		"name": "水墙术",
+		"path": "icons/magic/water/wave-water-explosion.webp"
+	},
+	{
+		"ENG_name": "warding bond",
+		"name": "守护之链",
+		"path": "icons/skills/targeting/target-strike-triple-blue.webp"
+	},
+	{
+		"ENG_name": "warding wind",
+		"name": "守护之风",
+		"path": "icons/magic/air/wind-swirl-purple-blue.webp"
+	},
+	{
+		"ENG_name": "water breathing",
+		"name": "水下呼吸",
+		"path": "icons/equipment/finger/ring-fish-silver.webp"
+	},
+	{
+		"ENG_name": "water walk",
+		"name": "水上行走",
+		"path": "icons/commodities/materials/slime-thick-blue.webp"
+	},
+	{
+		"ENG_name": "watery sphere",
+		"name": "碧水法球",
+		"path": "icons/commodities/gems/pearl-water.webp"
+	},
+	{
+		"ENG_name": "web",
+		"name": "蛛网术",
+		"path": "icons/commodities/materials/material-webbing.webp"
+	},
+	{
+		"ENG_name": "weird",
+		"name": "怪影杀手",
+		"path": "icons/magic/control/fear-fright-monster-grin-green.webp"
+	},
+	{
+		"ENG_name": "whirlwind",
+		"name": "旋风术",
+		"path": "icons/magic/air/wind-tornado-cyclone-purple-blue.webp"
+	},
+	{
+		"ENG_name": "wind walk",
+		"name": "御风而行",
+		"path": "icons/magic/control/debuff-energy-hold-teal-blue.webp"
+	},
+	{
+		"ENG_name": "wind wall",
+		"name": "风墙术",
+		"path": "icons/magic/air/fog-gas-smoke-swirling-white.webp"
+	},
+	{
+		"ENG_name": "wish",
+		"name": "祈愿术",
+		"path": "icons/magic/light/projectiles-star-purple.webp"
+	},
+	{
+		"ENG_name": "witch bolt",
+		"name": "巫术箭",
+		"path": "icons/magic/lightning/bolt-forked-large-orange-purple.webp"
+	},
+	{
+		"ENG_name": "wither and bloom",
+		"name": "靡叶生华",
+		"path": "icons/magic/nature/plant-vines-skull-green.webp"
+	},
+	{
+		"ENG_name": "word of radiance",
+		"name": "光耀祷词",
+		"path": "icons/magic/air/air-burst-spiral-yellow.webp"
+	},
+	{
+		"ENG_name": "word of recall",
+		"name": "回返真言",
+		"path": "icons/creatures/webs/webthin-blue.webp"
+	},
+	{
+		"ENG_name": "wrath of nature",
+		"name": "自然之怒",
+		"path": "icons/magic/nature/vines-thorned-entwined-green.webp"
+	},
+	{
+		"ENG_name": "wrathful smite",
+		"name": "激愤斩",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-purple-orange.webp"
+	},
+	{
+		"ENG_name": "wristpocket",
+		"name": "魔袋术",
+		"path": "icons/magic/movement/trail-streak-impact-blue.webp"
+	},
+	{
+		"ENG_name": "zephyr strike",
+		"name": "西风打击",
+		"path": "icons/skills/melee/maneuver-greatsword-yellow.webp"
+	},
+	{
+		"ENG_name": "zone of truth",
+		"name": "诚实之域",
+		"path": "icons/magic/symbols/ring-circle-smoke-blue.webp"
+	}
+]

@@ -1,0 +1,975 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Aberrant Spirit",
+			"name": "异怪灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 3,
+			"summonedBySpell": "召唤异怪灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 4,
+			"size": [
+				"M"
+			],
+			"type": "aberration",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于该畸变生物的体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "（悬浮）（仅限类眼魔）"
+				},
+				"canHover": true
+			},
+			"str": 16,
+			"dex": 10,
+			"con": 15,
+			"int": 16,
+			"wis": 10,
+			"cha": 6,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"immune": [
+				"心灵"
+			],
+			"languages": [
+				"深潜语",
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Regeneration (Slaadi Only)",
+					"name": "再生（仅史拉蟾怪）",
+					"entries": [
+						"如果畸变生物至少有1点生命值，则在其回合开始时恢复10点生命值。"
+					]
+				},
+				{
+					"ENG_name": "Whispering Aura (Star Spawn Only)",
+					"name": "低语灵光（仅星之子）",
+					"entries": [
+						"在畸变生物的每个回合开始时，它周围5英尺内的每个生物必须通过一次对抗你的法术豁免DC的智力豁免，否则会受到{@damage 3d6}心灵伤害，前提是该畸变生物没有处于{@condition 失能}状态。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"异怪发动等同于法术环数一半的次数的攻击（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Eye Ray (Beholderkin Only)",
+					"name": "眼波射线（仅类眼魔）",
+					"entries": [
+						"{@atk rs} 命中{@hit 3 + 召唤法术等级}，射程30英尺，一个生物。{@h}{@damage 1d8 + 3 + 召唤法术等级} 心灵伤害。"
+					]
+				},
+				{
+					"ENG_name": "Claws (Slaadi Only)",
+					"name": "爪击（仅史拉蟾怪使用）",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，射程5英尺，单一目标。{@h}{@damage 1d10 + 3 + 召唤法术等级} 挥砍伤害。如果目标是一个生物，则直到畸变生物的下一回合开始之前，它无法恢复生命值。"
+					]
+				},
+				{
+					"ENG_name": "Psychic Slam (Star Spawn Only)",
+					"name": "灵能猛击（仅星之子）",
+					"entries": [
+						"{@atk ms} 命中{@hit 3 + 召唤法术等级}，射程5英尺，一个生物。{@h}{@damage 1d6 + 3 + 召唤法术等级} 心灵伤害。"
+					]
+				}
+			],
+			"traitTags": [
+				"再生"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"DS"
+			],
+			"damageTags": [
+				"S",
+				"Y"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Bestial Spirit",
+			"name": "野兽灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 4,
+			"summonedBySpell": "召唤野兽灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 2,
+			"size": [
+				"S"
+			],
+			"type": "beast",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于该生物体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": {
+					"number": 30,
+					"condition": "（仅陆地）"
+				},
+				"fly": {
+					"number": 60,
+					"condition": "（仅空中）"
+				},
+				"swim": {
+					"number": 30,
+					"condition": "（仅水中）"
+				}
+			},
+			"str": 18,
+			"dex": 11,
+			"con": 16,
+			"int": 4,
+			"wis": 14,
+			"cha": 5,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 12,
+			"languages": [
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Amphibious (Water Only)",
+					"name": "两栖（仅水生）",
+					"entries": [
+						"野兽可以在空气和水中呼吸。"
+					]
+				},
+				{
+					"ENG_name": "Flyby (Air Only)",
+					"name": "飞掠（仅天空）",
+					"entries": [
+						"野兽以飞行离开敌人的触及范围时不会引发对方的借机攻击。"
+					]
+				},
+				{
+					"ENG_name": "Pack Tactics (Land and Water Only)",
+					"name": "集群战术（仅大地与海洋）",
+					"entries": [
+						"该野兽至少有一个未处于{@condition 失能}的盟友在目标生物 5尺内时，它对该生物发动的攻击检定有优势。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"野兽发动等同于法术环阶半数（向下取整）次数的攻击。"
+					]
+				},
+				{
+					"ENG_name": "Maul",
+					"name": "巨锤",
+					"entries": [
+						"{@atk mw} 命中{@hit 4 + 召唤法术等级}，触及5英尺，单一目标。{@h}{@damage 1d8 + 4 + 召唤法术等级} 穿刺伤害。"
+					]
+				}
+			],
+			"attachedItems": [
+				"巨锤|phb"
+			],
+			"traitTags": [
+				"水陆两栖",
+				"飞掠",
+				"集群战术"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Celestial Spirit",
+			"name": "天界灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 4,
+			"summonedBySpell": "召唤天界灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 5,
+			"size": [
+				"L"
+			],
+			"type": "celestial",
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于该天界生物的体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 40
+			},
+			"str": 16,
+			"dex": 14,
+			"con": 16,
+			"int": 10,
+			"wis": 14,
+			"cha": 16,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"resist": [
+				"光耀"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"恐慌"
+			],
+			"languages": [
+				"天界语",
+				"理解你所说的语言"
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"天族发动等同于法术环数一半的次数的攻击（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Radiant Bow (Avenger Only)",
+					"name": "光耀之弓（仅复仇圣灵）",
+					"entries": [
+						"{@atk rw} 命中{@hit 2 + 召唤法术等级}，射程150/600英尺，单一目标。{@h}{@damage 2d6 + 2 + 召唤法术等级} 光耀伤害。"
+					]
+				},
+				{
+					"ENG_name": "Radiant Mace (Defender Only)",
+					"name": "光耀之锤（仅守护圣灵）",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，触及5英尺，单一目标。{@h}{@damage 1d10 + 3 + 召唤法术等级} 光耀伤害，天界生物可以选择自己或它能看到的10英尺内的另一个生物。被选择的生物获得等同于所造成伤害的临时生命值，前提是它尚未拥有临时生命值。"
+					]
+				},
+				{
+					"ENG_name": "Healing Touch (1/Day)",
+					"name": "治愈之触（1/日）",
+					"entries": [
+						"天族触碰另一生物。目标魔法性地恢复目标等同于 {@dice 2d8 + summonSpellLevel} 点生命值。"
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"CE"
+			],
+			"damageTags": [
+				"R"
+			],
+			"miscTags": [
+				"MLW",
+				"MW",
+				"RW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Elemental Spirit",
+			"name": "元素灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 5,
+			"summonedBySpell": "召唤元素灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 4,
+			"size": [
+				"M"
+			],
+			"type": "elemental",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于该元素生物的体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": {
+					"number": 40,
+					"condition": "（仅限空中悬浮）"
+				},
+				"burrow": {
+					"number": 40,
+					"condition": "（仅土）"
+				},
+				"swim": {
+					"number": 40,
+					"condition": "（仅水中）"
+				},
+				"canHover": true
+			},
+			"str": 18,
+			"dex": 15,
+			"con": 17,
+			"int": 4,
+			"wis": 10,
+			"cha": 16,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"resist": [
+				"闪电",
+				{
+					"resist": [
+						"雷鸣"
+					],
+					"note": "（仅空中）"
+				},
+				"穿刺",
+				{
+					"resist": [
+						"挥砍"
+					],
+					"note": "（仅土）"
+				},
+				{
+					"resist": [
+						"强酸"
+					],
+					"note": "（仅水中）"
+				}
+			],
+			"immune": [
+				"毒素",
+				{
+					"immune": [
+						"火焰"
+					],
+					"note": "（仅火焰）"
+				}
+			],
+			"conditionImmune": [
+				"力竭",
+				"麻痹",
+				"石化",
+				"中毒",
+				"昏迷"
+			],
+			"languages": [
+				"原初语",
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Amorphous Form (Air, Fire, and Water Only)",
+					"name": "不定形态（仅气、火、水）",
+					"entries": [
+						"该元素生物能够轻松穿过最窄 1 寸宽的狭窄空间而无需挤身通过。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"该元素发动等同于法术环阶半数（向下取整）次数的攻击。"
+					]
+				},
+				{
+					"ENG_name": "Slam",
+					"name": "猛击",
+					"entries": [
+						"{@atk mw} 命中{@hit 4 + 召唤法术等级}，触及5英尺，单一目标。{@h}{@damage 1d10 + 4 + 召唤法术等级} 钝击伤害（仅限空气、大地和水元素）或火焰伤害（仅限火元素）。"
+					]
+				}
+			],
+			"traitTags": [
+				"无定形"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"P"
+			],
+			"damageTags": [
+				"B",
+				"F"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Fey Spirit",
+			"name": "妖精灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 5,
+			"summonedBySpell": "召唤精类灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 3,
+			"size": [
+				"S"
+			],
+			"type": "fey",
+			"alignment": [
+				"C",
+				"G"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于那个仙灵的体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 13,
+			"dex": 16,
+			"con": 14,
+			"int": 14,
+			"wis": 11,
+			"cha": 16,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"conditionImmune": [
+				"魅惑"
+			],
+			"languages": [
+				"木族语",
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Fey Step",
+					"name": "妖精步伐",
+					"entries": [
+						"作为附赠动作，妖精可以魔法传送最多30英尺到一个它能看到的未被占据的空间。"
+					]
+				},
+				{
+					"ENG_name": "Darkening Step (Deceitful Only)",
+					"name": "幽暗之步（仅诡诈）",
+					"entries": [
+						"在使用其妖精步之后，妖精可以立即在其5英尺内填充一个5英尺的立方体空间，用魔法制造的黑暗，这种黑暗持续到妖精下一回合结束。"
+					]
+				},
+				{
+					"ENG_name": "Ecstatic Step (Joyful Only)",
+					"name": "狂喜之步（仅欢乐）",
+					"entries": [
+						"在其回合结束前，立即使用其妖精步之后，妖精可以选择它能看到的10英尺内的生物，并强迫它通过你的法术豁免DC进行感知豁免检定，否则会被{@condition 魅惑}1分钟。如果妖精或其任何同伴对目标造成任何伤害，则魅惑效果结束。"
+					]
+				},
+				{
+					"ENG_name": "Impassioned Step (Furious Only)",
+					"name": "充满激情的步伐（仅狂怒）",
+					"entries": [
+						"在使用仙灵步之后，仙灵在其回合结束前进行的下一次攻击检定中具有优势。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"妖精发动等同于法术环阶半数（向下取整）次数的攻击。"
+					]
+				},
+				{
+					"ENG_name": "Shortsword",
+					"name": "短剑",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，触及5英尺，单一目标。{@h}{@damage 1d6 + 3 + 召唤法术等级} 穿刺伤害 {@damage + 1d6} 力量伤害。"
+					]
+				}
+			],
+			"attachedItems": [
+				"短剑|phb"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"S"
+			],
+			"damageTags": [
+				"O",
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MLW",
+				"MW"
+			],
+			"conditionInflict": [
+				"魅惑"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Fiendish Spirit",
+			"name": "邪魔灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 6,
+			"summonedBySpell": "召唤邪魔灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 6,
+			"size": [
+				"L"
+			],
+			"type": "fiend",
+			"alignment": [
+				{
+					"alignment": [
+						"C",
+						"E"
+					],
+					"note": "仅限恶魔"
+				},
+				{
+					"alignment": [
+						"L",
+						"E"
+					],
+					"note": "仅限恶魔"
+				},
+				{
+					"alignment": [
+						"N",
+						"E"
+					],
+					"note": "尤格罗斯专有"
+				}
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于该魔物的体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 40,
+				"climb": {
+					"number": 40,
+					"condition": "（仅恶魔）"
+				},
+				"fly": {
+					"number": 60,
+					"condition": "（仅魔鬼）"
+				}
+			},
+			"str": 13,
+			"dex": 16,
+			"con": 15,
+			"int": 10,
+			"wis": 10,
+			"cha": 16,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"resist": [
+				"火焰"
+			],
+			"immune": [
+				"毒素"
+			],
+			"conditionImmune": [
+				"中毒"
+			],
+			"languages": [
+				"深渊语",
+				"炼狱语",
+				"心灵感应 60 尺"
+			],
+			"trait": [
+				{
+					"ENG_name": "Magic Resistance",
+					"name": "魔法抗性",
+					"entries": [
+						"邪魔为抵抗法术和其他魔法效应而作的豁免检定具有优势。"
+					]
+				},
+				{
+					"ENG_name": "Death Throes (Demon Only)",
+					"name": "焚身爆（仅恶魔）",
+					"entries": [
+						"邪魔生命值降为0时或法术结束时将爆炸，其周围 10 尺内每个生物必须进行一次敏捷豁免对抗你的法术豁免DC，豁免失败则将受到 {@damage 2d10 + 法术环位}的火焰伤害，豁免成功则伤害减半。"
+					]
+				},
+				{
+					"ENG_name": "Devil's Sight (Devil Only)",
+					"name": "魔鬼视界（仅魔鬼）",
+					"entries": [
+						"魔法黑暗不会阻碍邪魔的黑暗视觉。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"邪魔发动等同于法术环数一半的次数的攻击（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Bite (Demon Only)",
+					"name": "啃咬（仅恶魔）",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，触及5英尺，单一目标。{@h}{@damage 1d12 + 3 + 召唤法术等级} 亡灵伤害。"
+					]
+				},
+				{
+					"ENG_name": "Claws (Yugoloth Only)",
+					"name": "爪击（仅尤格罗斯魔）",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，触及5英尺，单一目标。{@h}{@damage 1d8 + 3 + 召唤法术等级} 挥砍伤害。在攻击命中或未命中后，这个魔物可以魔法传送至其可以看到的未被占据的空间，传送距离最多30英尺。"
+					]
+				},
+				{
+					"ENG_name": "Hurl Flame (Devil Only)",
+					"name": "投掷烈焰（仅限于魔鬼）",
+					"entries": [
+						"{@atk rs} 命中{@hit 3 + 召唤法术等级}，射程 150 英尺，单一目标。{@h}{@damage 2d6 + 3 + 召唤法术等级} 火焰伤害。如果目标是一个易燃物体且没有被穿戴或携带，它也会着火。"
+					]
+				}
+			],
+			"traitTags": [
+				"自爆",
+				"魔鬼视界",
+				"魔法抗性"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"AB",
+				"I",
+				"TP"
+			],
+			"damageTags": [
+				"F",
+				"N",
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Shadow Spirit",
+			"name": "暗影灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 7,
+			"summonedBySpell": "召唤暗影灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 3,
+			"size": [
+				"M"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于阴影的体质调整值加上你的法术施放能力调整值加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 13,
+			"dex": 16,
+			"con": 15,
+			"int": 4,
+			"wis": 10,
+			"cha": 16,
+			"senses": [
+				"黑暗视觉 120 尺"
+			],
+			"passive": 10,
+			"resist": [
+				"暗蚀"
+			],
+			"conditionImmune": [
+				"恐慌"
+			],
+			"languages": [
+				"通用语",
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Bloodthirsty Frenzy (Fury Only)",
+					"name": "嗜血狂暴（仅狂怒）",
+					"entries": [
+						"该灵魄对恐慌生物发动的{@condition 恐慌}检定具有优势。"
+					]
+				},
+				{
+					"ENG_name": "Shadow Stealth (Fear Only)",
+					"name": "暗影潜藏（仅限恐惧）",
+					"entries": [
+						"在微光或黑暗中，灵体可以将隐匿动作作为额外动作进行。"
+					]
+				},
+				{
+					"ENG_name": "Weight of Ages (Despair Only)",
+					"name": "岁月之重（仅绝望）",
+					"entries": [
+						"任何野兽或类人生物（除了你），如果在其回合开始时距离灵体5英尺以内，其速度在该野兽或类人生物的下一个回合开始前减少20英尺。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"该灵魄发动等同于法术环数一半的次数的攻击（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Chilling Rend",
+					"name": "冻寒撕裂",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，射程5英尺，单一目标。{@h}{@damage 2d8 + 3 + 召唤法术等级} 寒冷伤害。"
+					]
+				},
+				{
+					"ENG_name": "Dreadful Scream (1/Day)",
+					"name": "恐惧尖叫（1/日）",
+					"entries": [
+						"该精神体发出尖叫。每个在其30英尺范围内的生物必须通过一次对抗你的法术豁免DC的智力豁免，否则在1分钟内被该精神体{@condition 恐慌}。处于{@condition 恐慌}状态的生物可以在其每个回合结束时重复进行豁免检定，成功则自行结束此效果。"
+					]
+				}
+			],
+			"senseTags": [
+				"SD"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"C"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"恐慌"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Undead Spirit",
+			"name": "亡灵灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 8,
+			"summonedBySpell": "召唤不死灵魄|UA2020SpellsAndMagicTattoos",
+			"summonedBySpellLevel": 3,
+			"size": [
+				"M"
+			],
+			"type": "undead",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"special": "11 +法术等级 (天生护甲)"
+				}
+			],
+			"hp": {
+				"special": "等于亡灵的体质调整值加上你的法术施放能力调整值再加上法术等级的十倍"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 40,
+					"condition": "（悬浮）（仅限幽体）"
+				},
+				"canHover": true
+			},
+			"str": 12,
+			"dex": 16,
+			"con": 15,
+			"int": 4,
+			"wis": 10,
+			"cha": 9,
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 10,
+			"immune": [
+				"暗蚀",
+				"毒素"
+			],
+			"conditionImmune": [
+				"力竭",
+				"恐慌",
+				"麻痹",
+				"中毒"
+			],
+			"languages": [
+				"通用语",
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Incorporeal Movement (Ghostly Only)",
+					"name": "虚体移动（仅限幽体）",
+					"entries": [
+						"不死灵魄在移动时可以变为虚体，并穿过其他生物和物件，如同它们是{@quickref 困难地形||3}。如果它在物件内结束回合，它会被推挤到最近的未占据空间，并且每移动5英尺受到{@damage 1d10}力场伤害。"
+					]
+				},
+				{
+					"ENG_name": "Festering Aura (Putrid Only)",
+					"name": "腐灭灵光（仅腐尸）",
+					"entries": [
+						"任何生物，除了你，如果在亡灵的5英尺范围内开始其回合，必须成功通过一次体质豁免检定，对抗你的法术豁免DC，否则直到其下一回合开始时会被{@condition 中毒}。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"该灵魄发动等同于法术环数一半的次数的攻击（向下取整）。"
+					]
+				},
+				{
+					"ENG_name": "Deathly Touch (Ghostly Only)",
+					"name": "致死之触（仅幽体）",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，射程5英尺，一个生物。{@h}{@damage 1d8 + 3 + 召唤法术等级} 坏死伤害，并且该生物必须通过一次对抗你的法术豁免DC的智力豁免，否则在目标的下一回合结束前被{@condition 恐慌}不死生物。"
+					]
+				},
+				{
+					"ENG_name": "Grave Bolt (Skeletal Only)",
+					"name": "暗澹箭（仅骷髅）",
+					"entries": [
+						"{@atk rs} 命中{@hit 3 + 召唤法术等级}，射程150英尺，单一目标。{@h}{@damage 2d8 + 3 + 召唤法术等级} 坏死伤害。"
+					]
+				},
+				{
+					"ENG_name": "Rotting Claw (Putrid Only)",
+					"name": "腐灭爪击（仅腐尸）",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 召唤法术等级}，射程5英尺，单一目标。{@h}{@damage 1d6 + 3 + 召唤法术等级} 挥砍伤害。如果目标处于{@condition 中毒}状态，它必须通过一次对抗你的法术豁免DC的体质豁免，否则直到其下一回合结束时处于{@condition 麻痹}状态。"
+					]
+				}
+			],
+			"traitTags": [
+				"虚体移动"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"N",
+				"O",
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"conditionInflict": [
+				"恐慌",
+				"麻痹",
+				"中毒"
+			],
+			"hasToken": true
+		}
+	]
+}

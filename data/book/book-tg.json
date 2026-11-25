@@ -1,0 +1,55 @@
+{
+	"data": [
+		{
+			"ENG_name": "Thieves' Gallery",
+			"name": "盗贼画廊",
+			"type": "section",
+			"entries": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "book/TG/001-00-008.movie-logo.webp"
+					}
+				},
+				"这里介绍了电影{@i 龙与地下城：侠盗荣耀}中的一些角色，你可以将这些角色作为非玩家角色（NPC）加入你的D&D战役中。本合集中的数据块展示方式与{@book 怪物图鉴|MM}中的类似。如果你不熟悉数据块格式，请先阅读《怪物手册》的导言部分。该书解释了数据块术语，并提供了各种怪物特性的规则\u2014\u2014这些信息在此不再重复。",
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "book/TG/002-00-009.characters-splash.webp"
+					},
+					"title": "世界最伟大的角色扮演游戏中的英雄与恶棍集合"
+				},
+				{
+					"ENG_name": "Unusual Attacks and Magic",
+					"name": "非寻常攻击和魔法",
+					"type": "entries",
+					"entries": [
+						"有些生物拥有造成不寻常伤害类型的武器，以及以非典型方式运作的施法能力。例如，{@creature 富尔格·菲特兹威廉|TG}用他的重型十字弓造成额外的毒素伤害。这种额外伤害并不是武器的特性。这种例外是生物统计数据块的一个特殊特性，代表了生物如何使用其武器或施放其法术；这种例外对于其他生物使用武器或施法的功能没有影响。"
+					]
+				},
+				{
+					"ENG_name": "Stat Blocks",
+					"name": "数据卡",
+					"type": "entries",
+					"entries": [
+						{
+							"type": "list",
+							"columns": 3,
+							"items": [
+								"{@creature 多立克|TG}",
+								"{@creature 埃德金·达尔维斯|TG}",
+								"{@creature 富尔格·菲特兹威廉|TG}",
+								"{@creature 霍尔盖·科拉格雷|TG}",
+								"{@creature 西蒙·奥玛尔|TG}",
+								"{@creature 索菲娜|TG}",
+								"{@creature 亨克·耶达尔|TG}"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

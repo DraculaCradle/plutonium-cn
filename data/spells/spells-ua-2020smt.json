@@ -1,0 +1,643 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Acid Stream",
+			"name": "酸潮",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 2,
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "line",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "一点腐烂的食物"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"一条酸流从你选择的方向发出，形成一条30英尺长、5英尺宽的直线。直线中的每个生物必须进行一次敏捷豁免检定，否则会被酸液覆盖，持续到法术结束，或者直到一个生物使用它的行动来刮掉或洗掉自身或其他生物上的酸液。被酸液覆盖的生物在每个回合开始时会受到{@damage 3d4}酸液伤害。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用2级或更高级别的法术位施放这个法术时，伤害会因为每个高于1级的法术位而增加{@scaledamage 3d4|1-9|1d4}。"
+					]
+				}
+			],
+			"damageInflict": [
+				"acid"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"areaTags": [
+				"L"
+			]
+		},
+		{
+			"ENG_name": "Otherworldly Form",
+			"name": "超凡形态",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 2,
+			"level": 6,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一件的镶嵌有外层位面标记的物件，价值至少 500gp",
+					"cost": 50000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"念动一段咒语，你吸收下层位面或上层位面的魔力（由你选择）并变化自身。法术持续时间内，你获得以下增益：",
+				{
+					"type": "list",
+					"items": [
+						"你免疫火焰和毒素伤害（下层位面）或光耀和暗蚀伤害（上层位面）。",
+						"你免疫{@condition 中毒}状态（下层位面）或{@condition 魅惑}状态（上层位面）。",
+						"你背后出现灵体翅膀，赋予你 40 尺飞行速度。",
+						"你的 AC 获得+2 加值。",
+						"你进行的所有武器攻击都带有魔法，且当你进行一次武器攻击时，你可以用你的施法属性代替力量或敏捷来进行攻击检定与伤害掷骰。",
+						"当你在你的回合采取攻击动作时，你可以攻击两次，而不是一次。如果你已经拥有像额外攻击这样的特性，它赋予你额外的攻击次数，你可以忽略这个好处。"
+					]
+				}
+			],
+			"damageImmune": [
+				"火焰",
+				"毒素",
+				"光耀",
+				"暗蚀"
+			],
+			"conditionImmune": [
+				"中毒",
+				"魅惑"
+			],
+			"miscTags": [
+				"MAC"
+			],
+			"areaTags": [
+				"ST"
+			]
+		},
+		{
+			"ENG_name": "Spirit Shroud",
+			"name": "魂灵环绕",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 2,
+			"level": 3,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你召唤出死者的灵魂，它们在法术持续时间内围绕你飞舞。这些灵魂无形且无敌，它们是善良或邪恶的（由你选择）。",
+				"直到法术结束，当你击中距离你10英尺内的生物时，任何攻击都会附加{@damage 1d8}额外伤害。如果精灵是善良的，这个伤害是光耀伤害；如果它们是邪恶的，则是亡灵伤害。任何受到这种伤害的生物直到你的下一个回合开始前都不能恢复生命值。",
+				"此外，任何你 10 尺内可见生物回合开始时，你可以使其速度降低 10 尺直到你的下个回合开始。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用4级或更高级别的法术位施放这个法术时，额外伤害会随着法术位等级每超过3级而增加{@scaledamage 1d8|3-9|1d8}。"
+					]
+				}
+			],
+			"damageInflict": [
+				"radiant",
+				"necrotic",
+				"cold"
+			],
+			"miscTags": [
+				"SGT"
+			]
+		},
+		{
+			"ENG_name": "Summon Aberrant Spirit",
+			"name": "召唤异怪灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 3,
+			"level": 4,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一个装在水晶瓶中的腌制触手和眼球，价值至少400金币",
+					"cost": 40000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从遥远国度或另一个疯狂的异域召唤出一个精灵。这个精灵在你的施法范围内你能看到的未被占据的空间中以实体形式显现。这个实体使用{@creature 异怪灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择眼魔族、史拉蟾迪或星种。这个生物在外观上类似于你的选择，这也决定了其统计数据块中的一些特征。当它的生命值降至0点或法术结束时，这个生物就会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用5级或更高级别的法术位施放这个法术时，生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Bestial Spirit",
+			"name": "召唤野兽灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 3,
+			"level": 2,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一根羽毛、一簇毛皮和一条装在镀金橡果内的鱼尾，价值至少200gp",
+					"cost": 20000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你召唤出一个野兽的灵魂。这个灵魂在你能够看到的范围内未被占据的空间中实体化。这个实体形态使用{@creature 野兽灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择一个环境：空气、陆地或水。生物在物理上类似于你选择的原生于所选环境的动物，这也决定了生物在其统计数据块中的一个移动模式。当生物的生命值降至0点或法术结束时，生物会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用3级或更高级别的法术位施放这个法术时，该生物在统计数据块中使用法术等级的地方会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Celestial Spirit",
+			"name": "召唤天界灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 4,
+			"level": 5,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一个的金制圣物匣，价值至少 500gp",
+					"cost": 50000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从上层界召唤出一个灵体。这个灵体在你能够看到的范围内未被占据的空间中以天使形态实体化。这个实体形态使用{@creature 天界灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择复仇者或防御者。你的选择决定了生物在其统计数据块中的攻击方式。当生物的生命值降至0点或法术结束时，生物会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用6级或更高级别的法术位施放这个法术时，该生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Elemental Spirit",
+			"name": "召唤元素灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 4,
+			"level": 4,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "空气、一块卵石、灰烬和装在水晶瓶中的水，价值至少400金币",
+					"cost": 40000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从元素位面召唤出一个精灵。这个精灵在你能看到的范围内的一个未被占据的空间中以实体形态显现。这个实体形态使用{@creature 元素灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择一个元素：空气、土、火或水。这个生物在物理上类似于一个模糊的人形，被选定的元素包裹，这也决定了其统计数据块中的一些特征。当它的生命值降至0点或法术结束时，这个生物就会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用5级或更高级别的法术位施放这个法术时，生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Fey Spirit",
+			"name": "召唤精类灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 5,
+			"level": 3,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一朵镀金花，价值至少 300gp",
+					"cost": 30000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从妖精荒野性召唤出一个精灵。这个精灵在你的施法范围内你能看到的未被占据的空间中以实体形式显现。这个实体使用{@creature 妖精灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择一种情绪：欺骗、狂怒或欢乐。这个生物在外观上类似于半羊人、树精或精灵（由你选择），并带有所选情绪的特征，这也决定了其统计数据块中的一个特征。当它的生命值降至0点或法术结束时，这个生物就会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用4级或更高级别的法术位来施放这个法术时，该生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Fiendish Spirit",
+			"name": "召唤邪魔灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 6,
+			"level": 6,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "装有类人生物血液的红宝石瓶，价值至少 600gp",
+					"cost": 60000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从低层位面召唤出一个邪恶的精灵。这个精灵在你能看到的范围内的一个未被占据的空间中以实体形态显现。这个实体形态使用{@creature 邪魔灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择恶魔、魔鬼或尤格罗斯。这个生物在物理上类似于选定类型的邪恶生物，这也决定了其统计数据块中的一些特征。当它的生命值降至0点或法术结束时，这个生物就会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用7级或更高级别的法术位施放这个法术时，该生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Shadow Spirit",
+			"name": "召唤暗影灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 7,
+			"level": 3,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一个装在水晶瓶中的眼泪，价值至少300金币",
+					"cost": 30000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从影域召唤出一个朦胧的灵体。这个灵体在你视野范围内的未被占据的空间中实体化。这个实体形态使用{@creature 暗影灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择一种情绪：愤怒、绝望或恐惧。这个生物在外观上类似于一个被选定情绪标记的畸形人形生物，这也决定了其统计数据块中的一些特征。当它的生命值降至0点或法术结束时，这个生物就会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用4级或更高级别的法术位来施放这个法术时，该生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Summon Undead Spirit",
+			"name": "召唤不死灵魄",
+			"source": "UA2020SpellsAndMagicTattoos",
+			"page": 7,
+			"level": 3,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一个镀金的类人头骨，价值至少300金币",
+					"cost": 30000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你从坟墓之外召唤出一个不安的亡灵。这个亡灵在你的施法范围内你能看到的未被占据的空间中以实体形式显现。这个实体使用{@creature 亡灵灵魄|UA2020SpellsAndMagicTattoos}的统计数据块。当你施放这个法术时，选择生物的形态：幽灵、腐臭或骷髅。这个生物在外观上类似于具有所选形态的人形生物，这也决定了其统计数据块中的一些特征。当它的生命值降至0点或法术结束时，这个生物就会消失。",
+				"该生物在法术持续时间内对你和你的同伴友好。在战斗中，该生物共享你的先攻值，但它会在你之后立即行动。它服从你发出的口头指令（你无需采取行动）。如果你没有发出任何指令，它会自行防御，但除此之外不会采取其他行动。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用4级或更高级别的法术位来施放这个法术时，该生物在其统计数据块中使用法术等级的地方都会采用更高的等级。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		}
+	]
+}

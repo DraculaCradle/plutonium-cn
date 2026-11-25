@@ -1,0 +1,602 @@
+[
+	{
+		"ENG_name": "aberrant dragonmark",
+		"name": "异种龙纹",
+		"path": "icons/creatures/reptiles/serpent-horned-green.webp"
+	},
+	{
+		"ENG_name": "actor",
+		"name": "演员",
+		"path": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp"
+	},
+	{
+		"ENG_name": "alert",
+		"name": "警觉",
+		"path": "icons/creatures/eyes/human-single-blue.webp"
+	},
+	{
+		"ENG_name": "apothecary",
+		"name": "药剂店",
+		"path": "icons/tools/laboratory/alembic-glass-ball-blue.webp"
+	},
+	{
+		"ENG_name": "artificer initiate",
+		"name": "奇械学徒",
+		"path": "icons/equipment/head/goggles-leather-blue.webp"
+	},
+	{
+		"ENG_name": "athlete",
+		"name": "运动员",
+		"path": "icons/skills/melee/hand-grip-staff-blue.webp"
+	},
+	{
+		"ENG_name": "bountiful luck",
+		"name": "慷慨吉运",
+		"path": "icons/commodities/flowers/clover.webp"
+	},
+	{
+		"ENG_name": "charger",
+		"name": "冲锋手",
+		"path": "icons/skills/melee/hand-grip-hammer-spiked-blue.webp"
+	},
+	{
+		"ENG_name": "chef",
+		"name": "大厨",
+		"path": "icons/tools/cooking/knife-cleaver-steel-grey.webp"
+	},
+	{
+		"ENG_name": "crossbow expert",
+		"name": "强弩专家",
+		"path": "icons/weapons/crossbows/handcrossbow-green.webp"
+	},
+	{
+		"ENG_name": "crusher",
+		"name": "粉碎者",
+		"path": "icons/weapons/hammers/hammer-double-stone.webp"
+	},
+	{
+		"ENG_name": "defensive duelist",
+		"name": "防御式决斗",
+		"path": "icons/skills/melee/weapons-crossed-swords-white-blue.webp"
+	},
+	{
+		"ENG_name": "dragon fear",
+		"name": "龙之威怖",
+		"path": "icons/magic/acid/projectile-smoke-glowing.webp"
+	},
+	{
+		"ENG_name": "dragon hide",
+		"name": "龙之鳞爪",
+		"path": "icons/magic/defensive/armor-stone-skin.webp"
+	},
+	{
+		"ENG_name": "drow high magic",
+		"name": "高等卓尔魔法",
+		"path": "icons/magic/unholy/silhouette-robe-evil-power.webp"
+	},
+	{
+		"ENG_name": "dual wielder",
+		"name": "双持客",
+		"path": "icons/skills/melee/weapons-crossed-daggers-orange.webp"
+	},
+	{
+		"ENG_name": "dungeon delver",
+		"name": "地城探索者",
+		"path": "icons/environment/traps/spike-skull-white-brown.webp"
+	},
+	{
+		"ENG_name": "durable",
+		"name": "耐性",
+		"path": "icons/skills/targeting/target-strike-gray.webp"
+	},
+	{
+		"ENG_name": "dwarven fortitude",
+		"name": "矮人坚毅",
+		"path": "icons/weapons/hammers/hammer-double-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "eldritch adept",
+		"name": "魔能导师",
+		"path": "icons/creatures/slimes/slime-movement-dripping-purple.webp"
+	},
+	{
+		"ENG_name": "elemental adept",
+		"name": "元素掌控",
+		"path": "icons/magic/fire/projectile-embers-orange.webp"
+	},
+	{
+		"ENG_name": "elemental adept (acid)",
+		"name": "元素导师（强酸）",
+		"path": "icons/magic/acid/projectile-faceted-glob.webp"
+	},
+	{
+		"ENG_name": "elemental adept (cold)",
+		"name": "元素导师（冷冻）",
+		"path": "icons/magic/water/projectile-ice-chunk-blue.webp"
+	},
+	{
+		"ENG_name": "elemental adept (fire)",
+		"name": "元素导师（火焰）",
+		"path": "icons/magic/fire/projectile-embers-orange.webp"
+	},
+	{
+		"ENG_name": "elemental adept (lightning)",
+		"name": "元素导师（闪电）",
+		"path": "icons/magic/lightning/bolt-strike-blue.webp"
+	},
+	{
+		"ENG_name": "elemental adept (thunder)",
+		"name": "元素导师（雷鸣）",
+		"path": "icons/magic/fire/projectile-fireball-purple.webp"
+	},
+	{
+		"ENG_name": "elven accuracy",
+		"name": "精灵之准",
+		"path": "icons/magic/nature/leaf-arrowheads-glow-green.webp"
+	},
+	{
+		"ENG_name": "fade away",
+		"name": "匿影无踪",
+		"path": "icons/commodities/tech/smoke-bomb-purple.webp"
+	},
+	{
+		"ENG_name": "fey teleportation",
+		"name": "妖精传送",
+		"path": "icons/magic/control/encase-creature-humanoid-hold.webp"
+	},
+	{
+		"ENG_name": "fey touched",
+		"name": "精类之触",
+		"path": "icons/creatures/mammals/elk-moose-marked-green.webp"
+	},
+	{
+		"ENG_name": "fey touched (charisma)",
+		"name": "精类之触（魅力）",
+		"path": "icons/creatures/mammals/elk-moose-marked-green.webp"
+	},
+	{
+		"ENG_name": "fey touched (intelligence)",
+		"name": "精类之触（智力）",
+		"path": "icons/creatures/mammals/elk-moose-marked-green.webp"
+	},
+	{
+		"ENG_name": "fey touched (wisdom)",
+		"name": "精类之触（感知）",
+		"path": "icons/creatures/mammals/elk-moose-marked-green.webp"
+	},
+	{
+		"ENG_name": "fighting initiate",
+		"name": "战斗学徒",
+		"path": "icons/skills/melee/strike-weapons-orange.webp"
+	},
+	{
+		"ENG_name": "firearm specialist",
+		"name": "枪械专家",
+		"path": "icons/weapons/guns/rifle-brown.webp"
+	},
+	{
+		"ENG_name": "flames of phlegethos",
+		"name": "弗莱格索斯之焰",
+		"path": "icons/magic/lightning/bolt-strike-smoke-yellow.webp"
+	},
+	{
+		"ENG_name": "gift of the chromatic dragon",
+		"name": "色彩龙赋礼",
+		"path": "icons/creatures/reptiles/dragon-horned-blue.webp"
+	},
+	{
+		"ENG_name": "gift of the gem dragon",
+		"name": "宝石龙赋礼",
+		"path": "icons/commodities/gems/pearl-storm.webp"
+	},
+	{
+		"ENG_name": "gift of the metallic dragon",
+		"name": "金属龙赋礼",
+		"path": "icons/creatures/reptiles/dragon-winged-blue.webp"
+	},
+	{
+		"ENG_name": "grappler",
+		"name": "擒抱者",
+		"path": "icons/skills/melee/unarmed-punch-fist.webp"
+	},
+	{
+		"ENG_name": "great weapon master",
+		"name": "巨武器大师",
+		"path": "icons/weapons/axes/axe-battle-skull-black.webp"
+	},
+	{
+		"ENG_name": "gunner",
+		"name": "枪手",
+		"path": "icons/weapons/guns/gun-pistol-wood.webp"
+	},
+	{
+		"ENG_name": "healer",
+		"name": "医疗师",
+		"path": "icons/environment/people/cleric-grey.webp"
+	},
+	{
+		"ENG_name": "heavily armored",
+		"name": "重甲运用",
+		"path": "icons/equipment/head/greathelm-slotted-steel.webp"
+	},
+	{
+		"ENG_name": "heavy armor master",
+		"name": "重甲大师",
+		"path": "icons/environment/people/infantry-armored.webp"
+	},
+	{
+		"ENG_name": "infernal constitution",
+		"name": "炼狱体质",
+		"path": "icons/skills/social/intimidation-impressing.webp"
+	},
+	{
+		"ENG_name": "inspiring leader",
+		"name": "领袖之证",
+		"path": "icons/magic/symbols/cog-shield-white-blue.webp"
+	},
+	{
+		"ENG_name": "keen mind",
+		"name": "敏锐心灵",
+		"path": "icons/magic/water/ice-crystal-white.webp"
+	},
+	{
+		"ENG_name": "lightly armored",
+		"name": "轻甲运用",
+		"path": "icons/equipment/chest/breastplate-banded-leather-brown.webp"
+	},
+	{
+		"ENG_name": "linguist",
+		"name": "语言学家",
+		"path": "icons/sundries/scrolls/scroll-writing-brown-gold.webp"
+	},
+	{
+		"ENG_name": "lucky",
+		"name": "幸运",
+		"path": "icons/equipment/neck/necklace-charm-clover.webp"
+	},
+	{
+		"ENG_name": "mage slayer",
+		"name": "巫师杀手",
+		"path": "icons/weapons/polearms/halberd-crescent-glowing.webp"
+	},
+	{
+		"ENG_name": "magic initiate",
+		"name": "魔法学徒",
+		"path": "icons/sundries/books/book-embossed-jewel-gold-purple.webp"
+	},
+	{
+		"ENG_name": "magic initiate (bard)",
+		"name": "魔法学徒（吟游诗人）",
+		"path": "icons/sundries/books/book-symbol-fire-gold-orange.webp"
+	},
+	{
+		"ENG_name": "magic initiate (cleric)",
+		"name": "魔法学徒（牧师）",
+		"path": "icons/sundries/books/book-symbol-canterbury-cross.webp"
+	},
+	{
+		"ENG_name": "magic initiate (druid)",
+		"name": "魔法学徒（德鲁伊）",
+		"path": "icons/sundries/books/book-symbol-tree-silver-green.webp"
+	},
+	{
+		"ENG_name": "magic initiate (sorcerer)",
+		"name": "魔法学徒（术士）",
+		"path": "icons/sundries/books/book-reye-reptile-brown.webp"
+	},
+	{
+		"ENG_name": "magic initiate (warlock)",
+		"name": "魔法学徒（魔契师）",
+		"path": "icons/sundries/books/book-tooled-eye-gold-red.webp"
+	},
+	{
+		"ENG_name": "magic initiate (wizard)",
+		"name": "魔法学徒（法师）",
+		"path": "icons/sundries/books/book-eye-purple.webp"
+	},
+	{
+		"ENG_name": "martial adept",
+		"name": "战技专家",
+		"path": "icons/skills/melee/hand-grip-sword-orange.webp"
+	},
+	{
+		"ENG_name": "medium armor master",
+		"name": "中甲大师",
+		"path": "icons/equipment/chest/breastplate-collared-steel-green.webp"
+	},
+	{
+		"ENG_name": "metamagic adept",
+		"name": "超魔导师",
+		"path": "icons/commodities/gems/gem-rough-square-red.webp"
+	},
+	{
+		"ENG_name": "mobile",
+		"name": "灵活移动",
+		"path": "icons/skills/movement/feet-winged-boots-brown.webp"
+	},
+	{
+		"ENG_name": "moderately armored",
+		"name": "中甲运用",
+		"path": "icons/equipment/chest/breastplate-metal-scaled-grey.webp"
+	},
+	{
+		"ENG_name": "mounted combatant",
+		"name": "骑乘战斗",
+		"path": "icons/environment/people/cavalry.webp"
+	},
+	{
+		"ENG_name": "observant",
+		"name": "观察力",
+		"path": "icons/commodities/biological/eye-red-pink.webp"
+	},
+	{
+		"ENG_name": "orcish fury",
+		"name": "兽人狂怒",
+		"path": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp"
+	},
+	{
+		"ENG_name": "piercer",
+		"name": "石锥怪",
+		"path": "icons/weapons/polearms/spear-ornate-gold.webp"
+	},
+	{
+		"ENG_name": "poisoner",
+		"name": "毒师",
+		"path": "icons/skills/melee/strike-scythe-fire-green.webp"
+	},
+	{
+		"ENG_name": "polearm master",
+		"name": "长柄武器大师",
+		"path": "icons/weapons/polearms/pike-flared-brown.webp"
+	},
+	{
+		"ENG_name": "prodigy",
+		"name": "天赋异禀",
+		"path": "icons/sundries/books/book-red-exclamation.webp"
+	},
+	{
+		"ENG_name": "resilient",
+		"name": "牢固",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "resilient (charisma)",
+		"name": "牢固（魅力）",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "resilient (constitution)",
+		"name": "牢固（体质）",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "resilient (dexterity)",
+		"name": "牢固（敏捷）",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "resilient (intelligence)",
+		"name": "牢固（智力）",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "resilient (strength)",
+		"name": "牢固（力量）",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "resilient (wisdom)",
+		"name": "牢固（感知）",
+		"path": "icons/magic/fire/flame-burning-fist-strike.webp"
+	},
+	{
+		"ENG_name": "revenant blade",
+		"name": "英魂之刃",
+		"path": "icons/skills/melee/strike-sword-blood-red.webp"
+	},
+	{
+		"ENG_name": "ritual caster",
+		"name": "仪式施法者",
+		"path": "icons/commodities/gems/pearl-glass-purple.webp"
+	},
+	{
+		"ENG_name": "ritual caster (bard)",
+		"name": "仪式施法者（吟游诗人）",
+		"path": "icons/commodities/gems/pearl-blue-gold.webp"
+	},
+	{
+		"ENG_name": "ritual caster (cleric)",
+		"name": "仪式施法者（牧师）",
+		"path": "icons/commodities/gems/pearl-purple-smooth.webp"
+	},
+	{
+		"ENG_name": "ritual caster (druid)",
+		"name": "仪式施法者（德鲁伊）",
+		"path": "icons/commodities/gems/pearl-turquoise.webp"
+	},
+	{
+		"ENG_name": "ritual caster (sorcerer)",
+		"name": "仪式施法者（术士）",
+		"path": "icons/commodities/gems/pearl-red-gold.webp"
+	},
+	{
+		"ENG_name": "ritual caster (warlock)",
+		"name": "仪式施法者（魔契师）",
+		"path": "icons/commodities/gems/pearl-brown-red.webp"
+	},
+	{
+		"ENG_name": "ritual caster (wizard)",
+		"name": "仪式施法者（法师）",
+		"path": "icons/commodities/gems/pearl-glass-purple.webp"
+	},
+	{
+		"ENG_name": "savage attacker",
+		"name": "凶蛮打手",
+		"path": "icons/skills/melee/strike-sword-blood-red.webp"
+	},
+	{
+		"ENG_name": "second chance",
+		"name": "花开二度",
+		"path": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp"
+	},
+	{
+		"ENG_name": "sentinel",
+		"name": "哨兵",
+		"path": "icons/magic/symbols/runes-etched-steel-blade.webp"
+	},
+	{
+		"ENG_name": "shadow touched",
+		"name": "影界之触",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "shadow touched (charisma)",
+		"name": "影界之触（魅力）",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "shadow touched (intelligence)",
+		"name": "影界之触（智力）",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "shadow touched (wisdom)",
+		"name": "影界之触（感知）",
+		"path": "icons/magic/perception/silhouette-stealth-shadow.webp"
+	},
+	{
+		"ENG_name": "sharpshooter",
+		"name": "神射手",
+		"path": "icons/skills/ranged/arrow-flying-white-blue.webp"
+	},
+	{
+		"ENG_name": "shield master",
+		"name": "盾牌大师",
+		"path": "icons/magic/defensive/shield-barrier-deflect-gold.webp"
+	},
+	{
+		"ENG_name": "skill expert",
+		"name": "技艺专家",
+		"path": "icons/skills/melee/weapons-crossed-swords-white-blue.webp"
+	},
+	{
+		"ENG_name": "skilled",
+		"name": "熟习",
+		"path": "icons/commodities/biological/organ-brain-pink.webp"
+	},
+	{
+		"ENG_name": "skulker",
+		"name": "隐伏者",
+		"path": "icons/magic/nature/stealth-hide-eyes-green.webp"
+	},
+	{
+		"ENG_name": "slasher",
+		"name": "劈砍者",
+		"path": "icons/skills/melee/blade-tips-triple-bent-white.webp"
+	},
+	{
+		"ENG_name": "spell sniper",
+		"name": "法术射手",
+		"path": "icons/magic/light/beam-red-orange.webp"
+	},
+	{
+		"ENG_name": "spell sniper (bard, sorcerer, warlock)",
+		"name": "法术射手（吟游诗人、术士、魔契师）",
+		"path": "icons/magic/light/beam-red-orange.webp"
+	},
+	{
+		"ENG_name": "spell sniper (cleric, druid)",
+		"name": "法术射手（牧师，德鲁伊）",
+		"path": "icons/magic/light/beam-red-orange.webp"
+	},
+	{
+		"ENG_name": "spell sniper (wizard)",
+		"name": "法术射手（法师）",
+		"path": "icons/magic/light/beam-red-orange.webp"
+	},
+	{
+		"ENG_name": "squat nimbleness",
+		"name": "低身机敏",
+		"path": "icons/commodities/currency/coin-embossed-sword-copper.webp"
+	},
+	{
+		"ENG_name": "svirfneblin magic",
+		"name": "斯涅布力魔法",
+		"path": "icons/commodities/stone/ore-pile-gold-orange.webp"
+	},
+	{
+		"ENG_name": "tavern brawler",
+		"name": "酒馆斗殴者",
+		"path": "icons/consumables/drinks/alcohol-beer-stein-wooden-brown.webp"
+	},
+	{
+		"ENG_name": "telekinetic",
+		"name": "念动力",
+		"path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+	},
+	{
+		"ENG_name": "telekinetic (charisma)",
+		"name": "念动力（魅力）",
+		"path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+	},
+	{
+		"ENG_name": "telekinetic (intelligence)",
+		"name": "念动力（智力）",
+		"path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+	},
+	{
+		"ENG_name": "telekinetic (wisdom)",
+		"name": "念动力（感知）",
+		"path": "icons/magic/air/wind-vortex-swirl-purple.webp"
+	},
+	{
+		"ENG_name": "telekinetic adept: psi-powered leap",
+		"name": "念力熟练：灵力跃动",
+		"path": "icons/skills/movement/figure-running-gray.webp"
+	},
+	{
+		"ENG_name": "telekinetic adept: telekinetic thrust",
+		"name": "念力熟练：念力突刺",
+		"path": "icons/magic/movement/trail-streak-impact-blue.webp"
+	},
+	{
+		"ENG_name": "telepathic",
+		"name": "心灵感应",
+		"path": "icons/magic/perception/eye-slit-pink.webp"
+	},
+	{
+		"ENG_name": "telepathic (charisma)",
+		"name": "心灵感应（魅力）",
+		"path": "icons/magic/perception/eye-slit-pink.webp"
+	},
+	{
+		"ENG_name": "telepathic (intelligence)",
+		"name": "心灵感应（智力）",
+		"path": "icons/magic/perception/eye-slit-pink.webp"
+	},
+	{
+		"ENG_name": "telepathic (wisdom)",
+		"name": "心灵感应（感知）",
+		"path": "icons/magic/perception/eye-slit-pink.webp"
+	},
+	{
+		"ENG_name": "tough",
+		"name": "健壮",
+		"path": "icons/equipment/shoulder/pauldron-segmented-steel-yellow.webp"
+	},
+	{
+		"ENG_name": "war caster",
+		"name": "战地施法者",
+		"path": "icons/weapons/wands/wand-totem.webp"
+	},
+	{
+		"ENG_name": "weapon master",
+		"name": "武器大师",
+		"path": "icons/skills/melee/hand-grip-sword-red.webp"
+	},
+	{
+		"ENG_name": "wood elf magic",
+		"name": "木精灵魔法",
+		"path": "icons/consumables/plants/leaf-veins-glowing-green.webp"
+	}
+]

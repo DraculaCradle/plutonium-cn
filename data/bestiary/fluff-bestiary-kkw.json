@@ -1,0 +1,36 @@
+{
+	"monsterFluff": [
+		{
+			"ENG_name": "Krenko",
+			"name": "克仑可",
+			"source": "KKW",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/KKW/109-429.webp"
+					},
+					"width": 1001,
+					"height": 668
+				}
+			]
+		},
+		{
+			"ENG_name": "Loading Rig",
+			"name": "装载机器",
+			"source": "KKW",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/KKW/Loading Rig.webp"
+					},
+					"width": 1000,
+					"height": 668
+				}
+			]
+		}
+	]
+}

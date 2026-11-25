@@ -1,0 +1,66 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Arcane Weapon",
+			"name": "奥术武器",
+			"source": "UAArtificerRevisited",
+			"page": 10,
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你将奥术能量导入你持有的一件{@filter 简易或军用武器|items|source=phb|category=基础|type=军用武器;简易武器}，并选择一种伤害类型：酸、冷、火、闪电、毒素或雷鸣。直到法术结束，你用武器击中任何目标时，都会额外造成{@damage 1d6}点选定类型的伤害。如果武器不是魔法武器，它在法术持续期间会变成魔法武器。",
+				"作为附加动作，你可以选择上面列出的选项来改变伤害类型。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用3级或更高级别的法术位施放这个法术时，你可以维持对法术的{@status 专注}最多8小时。"
+					]
+				}
+			],
+			"damageInflict": [
+				"acid",
+				"cold",
+				"fire",
+				"lightning",
+				"poison",
+				"thunder"
+			],
+			"miscTags": [
+				"UBA"
+			],
+			"areaTags": [
+				"ST"
+			]
+		}
+	]
+}

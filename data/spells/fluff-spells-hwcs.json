@@ -1,0 +1,144 @@
+{
+	"spellFluff": [
+		{
+			"ENG_name": "Ambush Prey",
+			"name": "伏击猎物",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Ambush-Prey.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Elevated Sight",
+			"name": "提升视力",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Elevated-Sight.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Feathered Reach",
+			"name": "羽化",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Feathered-Reach.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Globe of Twilight",
+			"name": "暮光法球",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Globe-of-Twilight.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Gust Barrier",
+			"name": "尘风屏障",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Gust-Barrier.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Invoke the Amaranthine",
+			"name": "永荣祈唤",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Invoke-the-Amaranthine.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Shape Plants",
+			"name": "植物塑形",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Shape-Plants.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Spiny Shield",
+			"name": "尖刺护盾",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Spiny-Shield.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Stellar Bodies",
+			"name": "恒星之躯",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Stellar-Bodies.webp"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Veil of Dusk",
+			"name": "黄昏之纱",
+			"source": "HWCS",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/HWCS/Veil-of-Dusk.webp"
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,186 @@
+{
+	"class": [
+		{
+			"ENG_name": "Prestige Class: Rune Scribe",
+			"name": "声望职业：符文抄写师",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 2,
+			"requirements": {
+				"entries": [
+					"{@b 敏捷13。} 符文抄写师需要灵巧的手指来掌握符文复杂的图案。",
+					"{@b 智力13。} 符文知识需要密集的学习和了解。",
+					"{@b 熟练于{@skill 奥秘}技能。} 符文精通需要对奥术传说有所理解。",
+					"{@b 角色等级5级。} 只有强大的灵魂才能觉醒符文魔法，你必须是5级角色，才能获得符文抄写师职业等级。",
+					"{@b 完成一项特殊任务。} 你必须找到一枚符文，并将其呈现给一个接受它的NPC符文抄写师，作为交换，他将教授你符文魔法的知识。你的这个职业等级不能超过你的导师。为了达到这个职业的5级，你可能需要寻找更多的符文，并将其呈现给更熟练的符文抄写师。"
+				]
+			},
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"casterProgression": "full",
+			"startingProficiencies": {
+				"tools": [
+					"{@item 书法工具|PHB}",
+					"{@item 石匠工具|PHB}",
+					"{@item 木雕工具|PHB}"
+				],
+				"toolProficiencies": [
+					{
+						"calligrapher's supplies": true,
+						"mason's tools": true,
+						"woodcarver's tools": true
+					}
+				]
+			},
+			"classTableGroups": [
+				{
+					"title": "每环法术位",
+					"colLabels": [
+						"1st",
+						"2nd",
+						"3rd"
+					],
+					"rowsSpellProgression": [
+						[
+							2,
+							0,
+							0
+						],
+						[
+							3,
+							0,
+							0
+						],
+						[
+							4,
+							2,
+							0
+						],
+						[
+							4,
+							3,
+							0
+						],
+						[
+							4,
+							3,
+							2
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"符文知识|声望职业：符文抄写师|UAPrestigeClassesRunMagic|1",
+				"符文魔法|声望职业：符文抄写师|UAPrestigeClassesRunMagic|1",
+				"符文发现|声望职业：符文抄写师|UAPrestigeClassesRunMagic|2",
+				"符文发现|声望职业：符文抄写师|UAPrestigeClassesRunMagic|3",
+				"活体符文|声望职业：符文抄写师|UAPrestigeClassesRunMagic|4",
+				"符文精通|声望职业：符文抄写师|UAPrestigeClassesRunMagic|5",
+				"符文发现|声望职业：符文抄写师|UAPrestigeClassesRunMagic|5"
+			],
+			"fluff": [
+				{
+					"ENG_name": "Rune Scribe",
+					"name": "符文抄写师",
+					"type": "section",
+					"entries": [
+						"符文抄写师掌握了力量符文的秘密\u2014\u2014这些古老的符号体现了创造的基本魔法。巨人是最早掌握符文魔法的种族，尽管许多其他种族最终通过偷窃或交易获得了这种力量。",
+						"符文魔法极为罕见。它的一些秘密已经失传，剩下的知识被严密守护。很少有符文抄写者会与他人分享他们的知识。实际上，大多数符文抄写者只有在这样做能让他们接触到一个被遗忘或缺失的符文时，才会接受新学生。符文抄写者尊崇阶级使用本文末尾介绍的符文魔法规则。"
+					],
+					"source": "UAPrestigeClassesRunMagic",
+					"page": 2
+				}
+			]
+		}
+	],
+	"classFeature": [
+		{
+			"ENG_name": "Rune Lore",
+			"name": "符文知识",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 1,
+			"entries": [
+				"在1级时，你学习了刻写符文的基础，并能够在正确共鸣时激活主符文的全部属性。\"{@variantrule 符文魔法|UAPrestigeClassesRunMagic}\"部分包含了有关主符文以及符文及其属性的描述的信息。你掌握的第一个符文是你找到并呈现给你的导师以获得这个尊崇阶级资格的符文。你进入这个班级的过程包括掌握那个符文的秘密。"
+			]
+		},
+		{
+			"ENG_name": "Runic Magic",
+			"name": "符文魔法",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 1,
+			"entries": [
+				"符文可以利用你自己的魔法力量来增强它们的一些效果。你获得的法术位如符文抄写者表格中指定的，但这个尊崇阶级不会授予已知法术。相反，作为一个符文抄写者，你可以消耗你的法术位来增强符文，如\"{@variantrule 符文魔法|UAPrestigeClassesRunMagic}\"部分中描述的。对于兼职来说，为了确定你的总法术位，将你在符文抄写者中的等级加上你在授予你施法特性的班级中的等级。例如，如果你是一个4级的符文抄写者/6级的法师，你将拥有一个10级角色的法术位，此外还有6级法师的戏法和法术书。"
+			]
+		},
+		{
+			"ENG_name": "Runic Discovery",
+			"name": "符文发现",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 2,
+			"entries": [
+				"你对符文魔法的深入学习使你能够重新创造新符文的秘密，而无需首先揭开它们。在2级时，选择一个稀有符文。即使你没有它的主符文，你也可以与该符文共鸣。（有关符文稀有度和主符文的信息，请参见\"{@variantrule 符文魔法|UAPrestigeClassesRunMagic}\"部分。）为了以这种方式与符文共鸣，你必须花费一个短休息时间，除了冥想符文外不做任何事情。在短休息结束时，你与符文共鸣。为了确定是否可以使用其特性，你被认为始终携带该符文。",
+				"你可以再花费一个短休息时间，除了冥想符文外不做任何事情，来结束与它的共鸣。"
+			]
+		},
+		{
+			"ENG_name": "Runic Discovery",
+			"name": "符文发现",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 3,
+			"entries": [
+				"你对符文魔法的持续研究使你能够在不先发现它们的情况下重现新符文的秘密。在3级时，选择一个稀有符文。即使你没有它的主符文，你也可以与该符文共鸣。（有关符文稀有度和主符文的信息，请参见\"{@variantrule 符文魔法|UAPrestigeClassesRunMagic}\"部分。）要以这种方式与符文共鸣，你必须花费一个短休息时间，除了冥想符文外不做任何事情。在短休息结束时，你与符文共鸣。为了确定是否可以使用其特性，你被认为始终携带该符文。",
+				"你可以再花费一个短休息时间，除了冥想符文外不做任何事情，来结束与它的共鸣。"
+			]
+		},
+		{
+			"ENG_name": "Living Rune",
+			"name": "活体符文",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 4,
+			"entries": [
+				"符文是活生生世界的一部分，你的学习让你能够以越来越强大的方式与它们的魔法相连。在4级时，你学会了将符文魔法融入你的身份中，允许你增强你的身体和心灵。在一次长休息结束时，你可以选择将你选择的一项能力值增加2，或者将你选择的两项能力值各增加1。在随后的每次长休息结束时，你可以更改这个选择，减少你之前增加的分数，并提高不同的分数。（如果你选择增加两项能力，你可以选择只更改其中一项。）"
+			]
+		},
+		{
+			"ENG_name": "Rune Mastery",
+			"name": "符文精通",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 5,
+			"entries": [
+				"在5级时，你获得了掌握更广泛符文魔法的能力。当你与一个符文共鸣时，你可以选择让它不计入你共鸣魔法物品的限制。你一次只能以这种方式共鸣一个这样的符文。当你结束与一个符文的共鸣后，你可以再次使用这个能力。"
+			]
+		},
+		{
+			"ENG_name": "Runic Discovery",
+			"name": "符文发现",
+			"source": "UAPrestigeClassesRunMagic",
+			"page": 3,
+			"className": "声望职业：符文抄写师",
+			"classSource": "UAPrestigeClassesRunMagic",
+			"level": 5,
+			"entries": [
+				"你对符文魔法的持续研究使你能够在不先发现它们的情况下重现新符文的秘密。在5级时，选择一个稀有符文。即使你没有它的主符文，你也可以与该符文共鸣。（有关符文稀有度和主符文的信息，请参见\"{@variantrule 符文魔法|UAPrestigeClassesRunMagic}\"部分。）为了以这种方式与符文共鸣，你必须花费一个短休息时间，除了冥想符文外不做任何事情。在短休息结束时，你与符文共鸣。为了确定是否可以使用其特性，你被认为始终携带该符文。",
+				"你可以再花费一个短休息时间，除了冥想符文外不做任何事情，来结束与它的共鸣。"
+			]
+		}
+	]
+}

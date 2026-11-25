@@ -1,0 +1,428 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Draconic Transformation",
+			"name": "龙类变形",
+			"source": "UA2021DraconicOptions",
+			"page": 5,
+			"level": 7,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一个龙形小雕像，价值至少500gp",
+					"cost": 50000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"随着一声怒吼，你借助龙族的魔法力量来转变自己，获得各种龙类特征。在法术结束前，你获得以下好处：",
+				{
+					"type": "list",
+					"items": [
+						"你获得30尺{@sense 盲视}。此范围内，任何不处于全身掩护后的东西对于你来说清晰可见，即使你处于{@condition 目盲}状态或黑暗中。此外，你可以看见{@condition 隐形}的生物，除非该生物对你处于躲藏状态。",
+						"无形的翅膀从你的背部生长出来，赋予你40英尺的飞行速度。",
+						"当你施放这个法术时，以及在持续时间内随后的回合中作为额外动作，你可以在一个30英尺的锥形区域内呼出一道闪烁能量的呼吸。区域内的每个生物必须进行一次敏捷豁免检定，失败则受到{@damage 3d8}点力量伤害，成功则受到一半的伤害。"
+					]
+				}
+			],
+			"damageInflict": [
+				"force"
+			],
+			"conditionInflict": [
+				"目盲",
+				"隐形"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"miscTags": [
+				"SGT",
+				"UBA"
+			]
+		},
+		{
+			"ENG_name": "Fizban's Platinum Shield",
+			"name": "费资本铂金盾",
+			"source": "UA2021DraconicOptions",
+			"page": 5,
+			"level": 6,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一枚镀上铂金的龙鳞，价值至少500gp",
+					"cost": 50000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你在射程内选择一个生物周围创造一个银色光场（可以选择你自己）。该光场向外散发5英尺的微光。",
+				"在之后的回合内以一个附赠动作，你可以将该力场移动至力场周围60尺内的另一个生物身上。",
+				"受力场保护的生物获得以下好处：",
+				{
+					"type": "list",
+					"items": [
+						"该生物具有半身掩护。",
+						"该生物获得对强酸，冷冻，火焰，闪电以及毒素伤害的抗性。",
+						"如果该生物受到可以由成功通过敏捷豁免来使伤害减半的效应影响，该生物在成功通过豁免时改为不受任何伤害，失败则受到一半伤害。"
+					]
+				}
+			],
+			"damageResist": [
+				"强酸",
+				"寒冷",
+				"火焰",
+				"闪电",
+				"毒素"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"miscTags": [
+				"UBA"
+			]
+		},
+		{
+			"ENG_name": "Flame Stride",
+			"name": "焰步术",
+			"source": "UA2021DraconicOptions",
+			"page": 6,
+			"level": 3,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"巨龙翻腾的火焰覆盖你的双脚，赋予你爆炸性的速度。在持续时间内，你的速度增加20英尺，移动不会引发机会攻击。",
+				"当你移动到一个未被穿戴或携带的生物或物体5英尺范围内时，它会受到来自你热量轨迹的{@damage 1d6}火焰伤害。一个生物或物体在一轮中只能受到这一次伤害。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用4级或更高等级的法术位施放这个法术时，每超过3级，你的速度增加5英尺。此外，该法术每超过3级，额外造成{@damage 1d6}点火焰伤害。"
+					]
+				}
+			],
+			"damageInflict": [
+				"fire"
+			],
+			"miscTags": [
+				"OBJ"
+			]
+		},
+		{
+			"ENG_name": "Icingdeath's Frost",
+			"name": "你释放出一道闪烁的精神力量之矛，从你的前额射向射程内你能看到的一个生物。或者，你可以呼喊该生物的名字。如果被呼喊的目标在射程内，它不会因掩体或隐形而获得任何优势，因为力量之矛会锁定它。如果被呼喊的目标不在射程内，力量之矛会消散，且法术位不会被消耗。",
+			"source": "UA2021DraconicOptions",
+			"page": 6,
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "cone",
+				"distance": {
+					"type": "feet",
+					"amount": 15
+				}
+			},
+			"components": {
+				"s": true,
+				"m": "一瓶冰雪融化而成的水"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"一股冰冷的能量从你身上以30英尺的锥形区域爆发出来。该区域内的每个生物都必须进行一次体质豁免检定。如果失败，生物受到{@damage 3d8}点寒冷伤害，并在1分钟内或直到一个生物使用其动作来打破自己身上或其他生物身上的冰。被冰覆盖的生物其速度降低到0。如果成功，生物受到一半的伤害，没有额外效果。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用3级或更高等级的法术位施放这个法术时，每超过2级，增加{@dice 1d8}点寒冷伤害。"
+					]
+				}
+			],
+			"damageInflict": [
+				"cold"
+			],
+			"savingThrow": [
+				"constitution"
+			]
+		},
+		{
+			"ENG_name": "Nathair's Mischief",
+			"name": "纳撒尔恶作剧",
+			"source": "UA2021DraconicOptions",
+			"page": 6,
+			"level": 2,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"s": true,
+				"m": "一块面包皮，来自一个苹果派"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你在射程内的一点为中心，填充一个20英尺的立方体，用仙灵和龙族魔法。根据顽皮涌动表掷骰以确定产生的魔法效果。在你的每个回合开始时，你可以将立方体移动最多10英尺，并重新掷骰。",
+				{
+					"type": "table",
+					"caption": "恶作剧之涌",
+					"colLabels": [
+						"d4",
+						"效应"
+					],
+					"colStyles": [
+						"col-2 text-center",
+						"col-12"
+					],
+					"rows": [
+						[
+							"1",
+							"空气中弥漫着苹果派的香味，立方体内的每个生物都必须成功通过一次感知豁免检定，否则在你下一个回合开始之前会被你{@condition 魅惑}。"
+						],
+						[
+							"2",
+							"一束束鲜花出现在四周，范围内的生物必须成功通过一次敏捷豁免，否则鲜花将往他们脸上喷水，使他们陷入{@condition 目盲}，直至你的下回合开始。"
+						],
+						[
+							"3",
+							"范围内的每个生物必须成功通过一次感知豁免，否则将开始咯咯笑，直至你的下回合开始。一个正在咯咯笑的生物陷入{@condition 失能}，并使用他的所有移动力向一个随机方向移动。"
+						],
+						[
+							"4",
+							"一些糖浆滴出现并悬浮在立方体中，直到你的下一个回合开始，将其变成 {@quickref 困难地形||3}。"
+						]
+					]
+				}
+			],
+			"conditionInflict": [
+				"目盲",
+				"魅惑",
+				"失能"
+			],
+			"savingThrow": [
+				"dexterity",
+				"wisdom"
+			],
+			"miscTags": [
+				"RO"
+			]
+		},
+		{
+			"ENG_name": "Raulothim's Psychic Lance",
+			"name": "劳洛希姆心灵长枪",
+			"source": "UA2021DraconicOptions",
+			"page": 6,
+			"level": 4,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"你从你的前额释放出一道闪耀的精神力量之矛，瞄准你视野范围内的一个生物。或者，你可以说出该生物的名字。如果被命名的目标在范围内，它不会因掩体或隐形而获得任何优势，因为矛会锁定它。如果被命名的目标不在范围内，矛就会消散，法术位不会被消耗。",
+				"目标必须成功通过一次智力豁免检定，否则将受到{@damage 10d6}点心灵伤害，并在直到你下一个回合开始时处于{@condition 失能}状态。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用5级或更高级别的法术位施放这个法术时，每超过4级一个法术位，伤害增加{@dice 1d6}。"
+					]
+				}
+			],
+			"damageInflict": [
+				"psychic"
+			],
+			"conditionInflict": [
+				"失能"
+			],
+			"savingThrow": [
+				"intelligence"
+			],
+			"miscTags": [
+				"SGT"
+			]
+		},
+		{
+			"ENG_name": "Summon Draconic Spirit",
+			"name": "龙类灵魄召唤术",
+			"source": "UA2021DraconicOptions",
+			"page": 7,
+			"level": 5,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一件来自龙穴的艺术品，价值至少500金币",
+					"cost": 50000
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你召唤出一个龙族之灵。它在你射程内可以看到的未被占据的空间中显现。",
+				"这个实体形态使用{@creature 龙类灵魄|UA2021DraconicOptions}的统计数据块。当你施放这个法术时，选择一个龙族：彩龙、宝石龙或金属龙。这个生物类似于所选家族的龙，这决定了它统计数据块中的某些特征。当这个生物的生命值降至0点或法术结束时，它会消失。",
+				"该生物对你和你的同伴友善。在战斗中，该生物与你共享先攻，它在你的回合结束后行动。它听从你的口头命令（无需动作）。如果你不发出指令，该生物执行{@action 回避}动作，并用自己的移动力来回避危险。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你用6环或更高的法术位施展此法术时，用对应的环数决定数据栏中与法术环数有关的数据。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		}
+	]
+}

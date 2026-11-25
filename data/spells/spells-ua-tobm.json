@@ -1,0 +1,257 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Conjure Barlgura (UA)",
+			"name": "召唤恶猿魔（UA）",
+			"source": "UAThatOldBlackMagic",
+			"page": 2,
+			"level": 4,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10,
+						"upTo": true
+					}
+				}
+			],
+			"entries": [
+				"你召唤一个{@creature 恶猿魔}出现在范围内你可以看到的未被占据的空间中。当{@creature 恶猿魔}降至0生命值或法术结束时，它会消失。",
+				"该{@creature 恶猿魔}对所有非恶魔生物抱有敌意。为{@creature 恶猿魔}掷先攻，它拥有自己的回合。在它的回合开始时，它会移动并攻击它能感知到的最近的非恶魔生物。如果有两个或更多生物距离相等，它会随机选择一个。如果它看不到任何潜在的敌人，{@creature 恶猿魔}会随机移动方向以搜索敌人。",
+				"作为施法的一部分，你可以使用在过去24小时内被杀死的智能人形生物的血液在地上画一个圈。这个圈足够大，可以包围你的空间。召唤的{@creature 恶猿魔}在法术持续期间不能穿过这个圈，也不能攻击圈内的任何人。"
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Conjure Hezrou (UA)",
+			"name": "召唤狂蟾魔（UA）",
+			"source": "UAThatOldBlackMagic",
+			"page": 2,
+			"level": 7,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "价值至少100金币的食物，法术会消耗掉它",
+					"cost": 10000,
+					"consume": true
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你召唤了一个{@creature 狂蟾魔}，它出现在你视野范围内的一个未被占据的空间内。当{@creature 狂蟾魔}的生命值降至0点或法术结束时，它会消失。",
+				"{@creature 狂蟾魔}的态度取决于作为这个法术材料成分使用的食物的价值。为{@creature 狂蟾魔}掷先攻，它有自己的回合。在{@creature 狂蟾魔}的回合开始时，DM代表你进行一次秘密的魅力检定，加值等于食物价值除以20。检定的难度等级从10开始，每轮增加2。只要你在魅力检定中成功，你可以向{@creature 狂蟾魔}发出指令，并且它将服从你。",
+				"如果检定失败，法术不再需要{@status 专注}，恶魔也不再受你控制。{@creature 狂蟾魔}随后会专注于吞噬它能看到的任何尸体。如果手头没有这样的食物，它会攻击最近的生物并吃掉它杀死的任何东西。如果它的生命值降低到最大生命值的一半以下，它会返回到无底深渊。",
+				"作为施法的一部分，你可以使用在过去24小时内被杀死的智能人形生物的血液在地上画一个圈。这个圈足够大，可以包围你的空间。召唤的{@creature 狂蟾魔}在法术持续期间不能穿过这个圈，也不能攻击圈内的任何人。"
+			],
+			"abilityCheck": [
+				"魅力"
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Conjure Lesser Demon (UA)",
+			"name": "召唤小恶魔（UA）",
+			"source": "UAThatOldBlackMagic",
+			"page": 2,
+			"level": 3,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "在过去24小时内被杀死的智能人形生物的一瓶血液"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你可以召唤最多八个{@creature 原魔}或{@creature 原魔}出现在范围内你可以看到的未被占据的空间中。一个{@creature 怯魔||怯魔们}或{@creature 怯魔}在降至0生命值或法术结束时消失。",
+				"这些恶魔对所有生物都怀有敌意。为召唤的恶魔群体掷一次先攻骰，这个群体有自己的回合。恶魔会尽其所能攻击最近的非恶魔生物。",
+				"作为施法的一部分，你可以使用作为材料成分的血液在地上画一个圈。这个圈足够大，可以包围你的空间。在法术持续期间，召唤的恶魔不能穿过这个圈，也不能攻击圈内的任何人。以这种方式使用材料成分会消耗它。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用6级或7环法术位施放这个法术时，你将召唤十六个恶魔。如果你使用8级或9环法术位施放它，你将召唤三十二个恶魔。"
+					]
+				}
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Conjure Shadow Demon (UA)",
+			"name": "召唤影子恶魔（UA）",
+			"source": "UAThatOldBlackMagic",
+			"page": 3,
+			"level": 4,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "在过去24小时内被杀死的智能人形生物的一瓶血液"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你召唤了一个{@creature 幽影恶魔}，它出现在你视野范围内的一个未被占据的空间内。当{@creature 幽影恶魔}的生命值降至0点或法术结束时，它会消失。",
+				"为{@creature 幽影恶魔}进行先攻骰，它有自己的回合。你可以向{@creature 幽影恶魔}下达命令，只要它能够在每个回合攻击一个生物，并且不是在强光区域开始它的回合，它就会服从你。如果这些条件中的任何一个没有得到满足，{@creature 幽影恶魔}立即进行一次魅力检定，与你的魅力检定进行对抗。如果你的检定失败，法术不再需要{@status 专注}，恶魔也不再受你的控制。如果恶魔距离你超过100英尺，它自动成功通过检定。",
+				"施法时，你可以使用在过去24小时内被杀死的智能人形生物的血液在地面上画一个圆圈。这个圆圈足够大，可以包围你的空间。在法术持续期间，召唤的{@creature 幽影恶魔}不能穿过圆圈，也不能以圆圈内的任何人为目标。"
+			],
+			"abilityCheck": [
+				"魅力"
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Conjure Vrock (UA)",
+			"name": "召唤Vrock（UA）",
+			"source": "UAThatOldBlackMagic",
+			"page": 3,
+			"level": 5,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": {
+					"text": "一颗价值至少100金币的宝石，法术会消耗它",
+					"cost": 10000,
+					"consume": true
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"你召唤一个{@creature 鹫魔}，它出现在你视野范围内的未被占据的空间中。当{@creature 鹫魔}降至0生命值或法术结束时，它会消失。",
+				"{@creature 鹫魔}的态度取决于作为这个法术材料成分使用的宝石的价值。为{@creature 鹫魔}掷先攻，它有自己的回合。在{@creature 鹫魔}的回合开始时，DM代表你进行一次秘密的魅力检定，加值等于宝石价值除以20。检定的难度等级从10开始，每轮增加2。只要你在魅力检定中成功，你可以向{@creature 鹫魔}发出指令，并且它将服从你。",
+				"如果检定失败，法术不再需要{@status 专注}，并且{@creature 鹫魔}不再受你控制。在它的下一个回合，{@creature 鹫魔}不会采取任何行动，并使用其心灵感应告诉它能看到的任何生物，它愿意为了财宝而战斗。给予{@creature 鹫魔}最贵重宝石的生物可以在接下来的{@dice 1d6}轮中指挥它。在那段时间结束时，它会再次提出交易。如果在它的下一个回合开始前没有人向{@creature 鹫魔}提供财宝，它会攻击最近的生物，持续{@dice 1d6}轮，然后返回无底深渊。",
+				"施法时，你可以使用在过去24小时内被杀死的智能人形生物的血液在地面上画一个圆圈。这个圆圈足够大，可以包围你的空间。在法术持续期间，召唤的{@creature 鹫魔}不能穿过圆圈，也不能以圆圈内的任何人为目标。"
+			],
+			"abilityCheck": [
+				"魅力"
+			],
+			"miscTags": [
+				"SGT",
+				"SMN"
+			]
+		}
+	]
+}

@@ -1,0 +1,194 @@
+{
+	"PHB": {
+		"野蛮人": {
+			"PHB": {
+				"Path of the Berserker": "media/icon/subclass/phb-barbarian-phb-path-of-the-berserker.webp",
+				"Path of the Totem Warrior": "media/icon/subclass/phb-barbarian-phb-path-of-the-totem-warrior.webp"
+			},
+			"TCE": {
+				"Path of Wild Magic": "media/icon/subclass/phb-barbarian-tce-path-of-wild-magic.webp"
+			}
+		},
+		"吟游诗人": {
+			"PHB": {
+				"College of Lore": "media/icon/subclass/phb-bard-phb-college-of-lore.webp",
+				"College of Valor": "media/icon/subclass/phb-bard-phb-college-of-valor.webp"
+			},
+			"XGE": {
+				"College of Swords": "media/icon/subclass/phb-bard-xge-college-of-swords.webp"
+			}
+		},
+		"牧师": {
+			"PHB": {
+				"Knowledge Domain": "media/icon/subclass/phb-cleric-phb-knowledge-domain.webp",
+				"Life Domain": "media/icon/subclass/phb-cleric-phb-life-domain.webp",
+				"Light Domain": "media/icon/subclass/phb-cleric-phb-light-domain.webp",
+				"Nature Domain": "media/icon/subclass/phb-cleric-phb-nature-domain.webp",
+				"Tempest Domain": "media/icon/subclass/phb-cleric-phb-tempest-domain.webp",
+				"Trickery Domain": "media/icon/subclass/phb-cleric-phb-trickery-domain.webp",
+				"War Domain": "media/icon/subclass/phb-cleric-phb-war-domain.webp"
+			}
+		},
+		"德鲁伊": {
+			"PHB": {
+				"Circle of the Land": "media/icon/subclass/phb-druid-phb-circle-of-the-land.webp",
+				"Circle of the Moon": "media/icon/subclass/phb-druid-phb-circle-of-the-moon.webp"
+			},
+			"TCE": {
+				"Circle of Spores": "media/icon/subclass/phb-druid-tce-circle-of-spores.webp"
+			}
+		},
+		"战士": {
+			"PHB": {
+				"Battle Master": "media/icon/subclass/phb-fighter-phb-battle-master.webp",
+				"Champion": "media/icon/subclass/phb-fighter-phb-champion.webp",
+				"Eldritch Knight": "media/icon/subclass/phb-fighter-phb-eldritch-knight.webp"
+			}
+		},
+		"武僧": {
+			"PHB": {
+				"Way of the Four Elements": "media/icon/subclass/phb-monk-phb-way-of-the-four-elements.webp",
+				"Way of the Open Hand": "media/icon/subclass/phb-monk-phb-way-of-the-open-hand.webp",
+				"Way of Shadow": "media/icon/subclass/phb-monk-phb-way-of-shadow.webp"
+			}
+		},
+		"圣武士": {
+			"PHB": {
+				"Oath of the Ancients": "media/icon/subclass/phb-paladin-phb-oath-of-the-ancients.webp",
+				"Oath of Devotion": "media/icon/subclass/phb-paladin-phb-oath-of-devotion.webp",
+				"Oath of Vengeance": "media/icon/subclass/phb-paladin-phb-oath-of-vengeance.webp"
+			},
+			"DMG": {
+				"Oathbreaker": "media/icon/subclass/phb-paladin-dmg-oathbreaker.webp"
+			}
+		},
+		"游侠": {
+			"PHB": {
+				"Beast Master": "media/icon/subclass/phb-ranger-phb-beast-master.webp",
+				"Hunter": "media/icon/subclass/phb-ranger-phb-hunter.webp"
+			},
+			"XGE": {
+				"Gloom Stalker": "media/icon/subclass/phb-ranger-xge-gloom-stalker.webp"
+			}
+		},
+		"游荡者": {
+			"PHB": {
+				"Assassin": "media/icon/subclass/phb-rogue-phb-assassin.webp",
+				"Thief": "media/icon/subclass/phb-rogue-phb-thief.webp",
+				"Arcane Trickster": "media/icon/subclass/phb-rogue-phb-arcane-trickster.webp"
+			}
+		},
+		"术士": {
+			"PHB": {
+				"Draconic Bloodline": "media/icon/subclass/phb-sorcerer-phb-draconic-bloodline.webp",
+				"Wild Magic": "media/icon/subclass/phb-sorcerer-phb-wild-magic.webp"
+			},
+			"XGE": {
+				"Storm Sorcery": "media/icon/subclass/phb-sorcerer-xge-storm-sorcery.webp"
+			}
+		},
+		"魔契师": {
+			"PHB": {
+				"The Archfey": "media/icon/subclass/phb-warlock-phb-the-archfey.webp",
+				"The Fiend": "media/icon/subclass/phb-warlock-phb-the-fiend.webp",
+				"The Great Old One": "media/icon/subclass/phb-warlock-phb-the-great-old-one.webp"
+			}
+		},
+		"法师": {
+			"PHB": {
+				"School of Abjuration": "media/icon/subclass/phb-wizard-phb-school-of-abjuration.webp",
+				"School of Conjuration": "media/icon/subclass/phb-wizard-phb-school-of-conjuration.webp",
+				"School of Divination": "media/icon/subclass/phb-wizard-phb-school-of-divination.webp",
+				"School of Enchantment": "media/icon/subclass/phb-wizard-phb-school-of-enchantment.webp",
+				"School of Evocation": "media/icon/subclass/phb-wizard-phb-school-of-evocation.webp",
+				"School of Illusion": "media/icon/subclass/phb-wizard-phb-school-of-illusion.webp",
+				"School of Necromancy": "media/icon/subclass/phb-wizard-phb-school-of-necromancy.webp",
+				"School of Transmutation": "media/icon/subclass/phb-wizard-phb-school-of-transmutation.webp"
+			}
+		}
+	},
+	"XPHB": {
+		"野蛮人": {
+			"XPHB": {
+				"Path of the Berserker": "media/icon/subclass/phb-barbarian-phb-path-of-the-berserker.webp",
+				"Path of the Wild Heart": "media/icon/subclass/phb-barbarian-phb-path-of-the-totem-warrior.webp"
+			}
+		},
+		"吟游诗人": {
+			"XPHB": {
+				"College of Lore": "media/icon/subclass/phb-bard-phb-college-of-lore.webp",
+				"College of Valor": "media/icon/subclass/phb-bard-phb-college-of-valor.webp"
+			}
+		},
+		"牧师": {
+			"XPHB": {
+				"Life Domain": "media/icon/subclass/phb-cleric-phb-life-domain.webp",
+				"Light Domain": "media/icon/subclass/phb-cleric-phb-light-domain.webp",
+				"Trickery Domain": "media/icon/subclass/phb-cleric-phb-trickery-domain.webp",
+				"War Domain": "media/icon/subclass/phb-cleric-phb-war-domain.webp"
+			}
+		},
+		"德鲁伊": {
+			"XPHB": {
+				"Circle of the Land": "media/icon/subclass/phb-druid-phb-circle-of-the-land.webp",
+				"Circle of the Moon": "media/icon/subclass/phb-druid-phb-circle-of-the-moon.webp"
+			}
+		},
+		"战士": {
+			"XPHB": {
+				"Battle Master": "media/icon/subclass/phb-fighter-phb-battle-master.webp",
+				"Champion": "media/icon/subclass/phb-fighter-phb-champion.webp",
+				"Eldritch Knight": "media/icon/subclass/phb-fighter-phb-eldritch-knight.webp"
+			}
+		},
+		"武僧": {
+			"XPHB": {
+				"Warrior of Shadow": "media/icon/subclass/phb-monk-phb-way-of-shadow.webp",
+				"Warrior of the Elements": "media/icon/subclass/phb-monk-phb-way-of-the-four-elements.webp",
+				"Warrior of the Open Hand": "media/icon/subclass/phb-monk-phb-way-of-the-open-hand.webp"
+			}
+		},
+		"圣武士": {
+			"XPHB": {
+				"Oath of Devotion": "media/icon/subclass/phb-paladin-phb-oath-of-devotion.webp",
+				"Oath of the Ancients": "media/icon/subclass/phb-paladin-phb-oath-of-the-ancients.webp",
+				"Oath of Vengeance": "media/icon/subclass/phb-paladin-phb-oath-of-vengeance.webp"
+			}
+		},
+		"游侠": {
+			"XPHB": {
+				"Beast Master": "media/icon/subclass/phb-ranger-phb-beast-master.webp",
+				"Hunter": "media/icon/subclass/phb-ranger-phb-hunter.webp",
+				"Gloom Stalker": "media/icon/subclass/phb-ranger-xge-gloom-stalker.webp"
+			}
+		},
+		"游荡者": {
+			"XPHB": {
+				"Arcane Trickster": "media/icon/subclass/phb-rogue-phb-arcane-trickster.webp",
+				"Assassin": "media/icon/subclass/phb-rogue-phb-assassin.webp",
+				"Thief": "media/icon/subclass/phb-rogue-phb-thief.webp"
+			}
+		},
+		"术士": {
+			"XPHB": {
+				"Draconic Sorcery": "media/icon/subclass/phb-sorcerer-phb-draconic-bloodline.webp",
+				"Wild Magic Sorcery": "media/icon/subclass/phb-sorcerer-phb-wild-magic.webp"
+			}
+		},
+		"魔契师": {
+			"XPHB": {
+				"Archfey Patron": "media/icon/subclass/phb-warlock-phb-the-archfey.webp",
+				"Fiend Patron": "media/icon/subclass/phb-warlock-phb-the-fiend.webp",
+				"Great Old One Patron": "media/icon/subclass/phb-warlock-phb-the-great-old-one.webp"
+			}
+		},
+		"法师": {
+			"XPHB": {
+				"Abjurer": "media/icon/subclass/phb-wizard-phb-school-of-abjuration.webp",
+				"Diviner": "media/icon/subclass/phb-wizard-phb-school-of-divination.webp",
+				"Evoker": "media/icon/subclass/phb-wizard-phb-school-of-evocation.webp",
+				"Illusionist": "media/icon/subclass/phb-wizard-phb-school-of-illusion.webp"
+			}
+		}
+	}
+}

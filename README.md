@@ -6,7 +6,7 @@
 
 ## GitHub 安装与更新
 
-完整模块文件及源码随每个 Release 的 `plutonium-cn.zip` 发布；仓库根目录保存安装清单与说明，请使用清单或发行附件安装。
+仓库保存完整模块源码；每个 Release 的 `plutonium-cn.zip` 为可安装版本。请使用固定清单或发行附件安装。后续提交版本更新后，GitHub Actions 会自动打包并发布。
 
 安装清单：<https://github.com/DraculaCradle/plutonium-cn/releases/latest/download/module.json>
 

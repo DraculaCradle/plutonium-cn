@@ -1,0 +1,106 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Wildfire Spirit",
+			"name": "野火精魂",
+			"source": "UAClericDruidWizard",
+			"page": 3,
+			"size": [
+				"S"
+			],
+			"type": "elemental",
+			"alignment": [
+				"C",
+				"G",
+				"NY",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"天生护甲"
+					]
+				}
+			],
+			"hp": {
+				"special": "等于野火灵的体质调整值加上你的感知调整值，再加上你在这个职业中的等级的五倍"
+			},
+			"speed": {
+				"walk": 20,
+				"fly": {
+					"number": 30,
+					"condition": "(悬浮)"
+				},
+				"canHover": true
+			},
+			"str": 10,
+			"dex": 14,
+			"con": 14,
+			"int": 13,
+			"wis": 15,
+			"cha": 11,
+			"save": {
+				"dex": "+4",
+				"con": "+4",
+				"wis": "+4"
+			},
+			"skill": {
+				"nature": "+4"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 12,
+			"immune": [
+				"火焰"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"恐慌",
+				"受擒",
+				"倒地",
+				"束缚"
+			],
+			"languages": [
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Soul Bond",
+					"name": "灵魂联结",
+					"entries": [
+						"当你的熟练加值增加1时，以下数值也会相应增加1：灵体在上面的技能和豁免检定加值、其火焰种子的命中和伤害加值，以及其炽焰传送的伤害加值。"
+					]
+				}
+			],
+			"actionNote": "需要你的附赠动作",
+			"action": [
+				{
+					"ENG_name": "Flame Seed",
+					"name": "火种",
+					"entries": [
+						"{@atk rw} 命中{@hit 4}，射程30英尺，一个你能看到的目标。{@h}{@damage 1d6 + 2} 火焰伤害。"
+					]
+				},
+				{
+					"ENG_name": "Fiery Teleportation (Recharges after a Short or Long Rest)",
+					"name": "炽焰传送（短休或长休后重置）",
+					"entries": [
+						"精神和您选择的每个愿意的生物在它周围5英尺范围内，可以传送至您能看到的未被占据的空间，最多30英尺。每个在精神离开的空间周围10英尺内的生物必须通过一次敏捷豁免检定，对抗您的法术豁免DC，否则将受到{@dice 1d6 + 2}点火焰伤害。"
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"F"
+			],
+			"miscTags": [
+				"RW"
+			],
+			"hasToken": true
+		}
+	]
+}

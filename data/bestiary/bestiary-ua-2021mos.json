@@ -1,0 +1,100 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Ancient Companion",
+			"name": "先古行侣",
+			"source": "UA2021MagesOfStrixhaven",
+			"page": 3,
+			"size": [
+				"M"
+			],
+			"type": "construct",
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				{
+					"special": "14（天生护甲）+ 2（仅战士）"
+				}
+			],
+			"hp": {
+				"special": "5 + 5乘以你在本职业中的等级（同伴拥有与你在本职业中的等级相等的命中骰[d8]数量）"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 14,
+			"dex": 9,
+			"con": 15,
+			"int": 14,
+			"wis": 14,
+			"cha": 11,
+			"save": {
+				"con": "+2 + PB",
+				"int": "+2 + PB",
+				"wis": "+2 + PB"
+			},
+			"skill": {
+				"history": "+2 + PB",
+				"perception": "+ 2 + (PB × 2)"
+			},
+			"passive": "12 + (PB × 2)",
+			"immune": [
+				"毒素"
+			],
+			"conditionImmune": [
+				"魅惑",
+				"力竭"
+			],
+			"languages": [
+				"会说并理解你所说的语言"
+			],
+			"pbNote": "等于你的加值",
+			"trait": [
+				{
+					"ENG_name": "Ancient Fortitude",
+					"name": "先古坚韧",
+					"entries": [
+						"如果伤害使伙伴的生命值降至0点，除非伤害来自致命一击，否则它可以进行一次体质豁免检定，难度等级为5加上所受伤害。成功时，伙伴的生命值降至1点。"
+					]
+				},
+				{
+					"ENG_name": "Sage's Counsel (Sage Only)",
+					"name": "贤者谏言（仅贤者）",
+					"entries": [
+						"在伙伴周围15英尺范围内时，你和你的盟友在智力和智慧检定上获得+2加值。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Spirit Strike",
+					"name": "魂灵打击",
+					"entries": [
+						"{@atk mw} 你的法术攻击调整值用于命中，射程5英尺，一个你能看到的目标。{@h}{@damage 1d8 + 2 + PB} 力能伤害。"
+					]
+				},
+				{
+					"ENG_name": "Healer's Light (Healer Only)",
+					"name": "治愈者之光（仅治愈者）",
+					"entries": [
+						"同伴选择它自己15英尺范围内可以看到的一个生物，并发出振奋人心的光芒。该生物获得{@dice 1d8 + 职业等级加值}临时生命值。"
+					]
+				}
+			],
+			"reaction": [
+				{
+					"ENG_name": "Warrior's Protection (Warrior Only)",
+					"name": "战士的保护（仅战士）",
+					"entries": [
+						"当伙伴周围5英尺范围内的生物进行力量或敏捷豁免检定时，伙伴会插入生物和危险之间。该生物可以投一个{@dice d4}并将投出的数字加到豁免检定上。"
+					]
+				}
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		}
+	]
+}

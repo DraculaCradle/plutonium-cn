@@ -1,0 +1,72 @@
+[
+	{
+		"ENG_name": "ability score improvement",
+		"name": "属性值提升",
+		"path": "icons/commodities/treasure/brooch-lightning-gold.webp"
+	},
+	{
+		"ENG_name": "ability score increase",
+		"name": "属性值加成",
+		"path": "icons/commodities/treasure/brooch-lightning-gold.webp"
+	},
+	{
+		"ENG_name": "background",
+		"name": "背景",
+		"path": "icons/skills/trades/academics-book-study-purple.webp"
+	},
+	{
+		"ENG_name": "bonus cantrip",
+		"name": "附赠戏法",
+		"path": "icons/sundries/documents/document-symbol-eye.webp"
+	},
+	{
+		"ENG_name": "bonus cantrips",
+		"name": "额外戏法",
+		"path": "icons/sundries/documents/document-symbol-eye.webp"
+	},
+	{
+		"ENG_name": "bonus proficiency",
+		"name": "附赠熟练项",
+		"path": "icons/commodities/gems/gem-rough-navette-yellow-green.webp"
+	},
+	{
+		"ENG_name": "extra attack",
+		"name": "额外攻击",
+		"path": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp"
+	},
+	{
+		"ENG_name": "feat",
+		"name": "专长",
+		"path": "icons/magic/light/explosion-star-glow-yellow.webp"
+	},
+	{
+		"ENG_name": "languages",
+		"name": "语言",
+		"path": "icons/tools/scribal/ink-quill-red.webp"
+	},
+	{
+		"ENG_name": "proficiencies",
+		"name": "熟练",
+		"path": "icons/commodities/gems/gem-rough-navette-yellow-green.webp"
+	},
+	{
+		"ENG_name": "size",
+		"name": "体型",
+		"path": "icons/equipment/back/cape-layered-blue-accent.webp"
+	},
+	{
+		"ENG_name": "speed",
+		"name": "速度",
+		"path": "icons/magic/acid/projectile-needles-salvo-green.webp"
+	},
+	{
+		"ENG_name": "tool proficiency",
+		"name": "工具熟练项",
+		"path": "icons/equipment/neck/amulet-carved-stone-hammer.webp"
+	},
+	{
+		"ENG_name": "unarmed strike",
+		"name": "徒手打击",
+		"path": "icons/skills/melee/unarmed-punch-fist.webp"
+	}
+]

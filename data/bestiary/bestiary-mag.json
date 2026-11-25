@@ -1,0 +1,124 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Spider Shark",
+			"name": "蜘蛛鲨",
+			"source": "Mag",
+			"page": 32,
+			"size": "L",
+			"type": "monstrosity",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"天生护甲"
+					]
+				}
+			],
+			"hp": {
+				"average": 162,
+				"formula": "13d12 + 78"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"str": 16,
+			"dex": 17,
+			"con": 16,
+			"int": 4,
+			"wis": 14,
+			"cha": 8,
+			"senses": [
+				"盲视 60 尺"
+			],
+			"passive": 15,
+			"cr": "9",
+			"trait": [
+				{
+					"ENG_name": "Spider Climb",
+					"name": "蛛行术",
+					"entries": [
+						"蜘蛛鲨可以在困难地形的表面攀爬，包括倒吊在天花板上，而无需进行属性检定。"
+					]
+				},
+				{
+					"ENG_name": "Web Sense",
+					"name": "蛛网感知",
+					"entries": [
+						"当蜘蛛鲨与蛛网接触时，它能够准确知道任何其他与同一蛛网接触的生物的确切位置。"
+					]
+				},
+				{
+					"ENG_name": "Web Walker",
+					"name": "蛛网行者",
+					"entries": [
+						"蜘蛛鲨无视由蛛网造成的移动限制。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"蜘蛛鲨可以进行钩爪攻击、掘齿攻击和带刺网攻击。"
+					]
+				},
+				{
+					"ENG_name": "Burrowing Tooth",
+					"name": "掘齿",
+					"entries": [
+						"{@atk mw} 命中{@hit 7}，触及10英尺，一个生物。{@h}16 ({@dice 3d8 + 3}) 伤害，目标必须进行一次{@dc 18}体质豁免检定，否则在每轮开始时额外受到4 ({@dice 1d8}) 伤害。目标可以在每轮结束时重复豁免检定，成功则结束此效果。"
+					]
+				},
+				{
+					"ENG_name": "Hooked Claw",
+					"name": "钩爪",
+					"entries": [
+						"{@atk mw} 命中{@hit 7}目标，射程10英尺，影响一个生物。{@h}12 ({@dice 2d8 + 3}) 伤害，目标必须进行一次力量豁免，{@dc 18}，豁免失败则{@condition 受擒}并被拉向蜘蛛鲨。当目标处于{@condition 受擒}状态时，对其的攻击具有优势。"
+					]
+				},
+				{
+					"ENG_name": "Barbed Web Attack",
+					"name": "倒刺蛛网攻击",
+					"entries": [
+						"{@atk rw} 命中{@hit 7}，射程90/90英尺，一个生物。{@h}18 ({@dice 3d10 + 2}) 伤害，目标被束缚。作为一个动作，被{@condition 束缚}的生物可以进行一次{@dc 18}力量检定，成功则破坏蛛网。蛛网被破坏时效果结束。蛛网有AC 15；25生命值；易受火焰伤害；对钝击、毒素和心灵伤害免疫。"
+					]
+				},
+				{
+					"ENG_name": "Web Net {@recharge 5}",
+					"name": "蛛网陷阱 {@recharge 5}",
+					"entries": [
+						"蜘蛛鲨向90尺内一个30尺半径区域发射蛛网。该区域内每个生物必须成功通过{@dc 16}的敏捷豁免。豁免失败时，该生物受到18（{@dice 3d10 + 2}）伤害并被蛛网{@condition 束缚}。作为一个动作，被{@condition 束缚}的生物可以进行一次{@dc 18}的力量检定，成功则从蛛网中挣脱。如果蛛网被摧毁，该效果结束。蛛网具有AC 15；25点生命值；易受火焰伤害；并且免疫钝击、毒素和心灵伤害。"
+					]
+				}
+			],
+			"hasToken": true,
+			"traitTags": [
+				"蛛行术",
+				"蛛网感知",
+				"蛛网行者"
+			],
+			"senseTags": [
+				"B"
+			],
+			"actionTags": [
+				"多重攻击"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH",
+				"RW"
+			],
+			"conditionInflict": [
+				"受擒",
+				"束缚"
+			]
+		}
+	]
+}

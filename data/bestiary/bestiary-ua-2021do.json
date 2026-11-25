@@ -1,0 +1,126 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Draconic Spirit",
+			"name": "龙类灵魄",
+			"source": "UA2021DraconicOptions",
+			"page": 7,
+			"summonedBySpell": "龙类灵魄召唤术|UA2021DraconicOptions",
+			"summonedBySpellLevel": 5,
+			"size": [
+				"L"
+			],
+			"type": "dragon",
+			"ac": [
+				{
+					"special": "14+法术环数（天生护甲）"
+				}
+			],
+			"hp": {
+				"special": "50 +10×每比5环高的法术等级"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 80,
+				"swim": 30
+			},
+			"str": 19,
+			"dex": 14,
+			"con": 17,
+			"int": 10,
+			"wis": 14,
+			"cha": 14,
+			"senses": [
+				"盲视 30 尺",
+				"黑暗视觉 60 尺"
+			],
+			"passive": 12,
+			"resist": [
+				{
+					"resist": [
+						"强酸",
+						"寒冷",
+						"火焰",
+						"闪电",
+						"毒素"
+					],
+					"cond": true,
+					"note": "（仅限繁彩和金属龙）"
+				},
+				{
+					"resist": [
+						"力场",
+						"暗蚀",
+						"心灵",
+						"光耀",
+						"雷鸣"
+					],
+					"cond": true,
+					"note": "（仅宝石龙）"
+				}
+			],
+			"conditionImmune": [
+				"魅惑",
+				"恐慌",
+				"中毒"
+			],
+			"languages": [
+				"龙语",
+				"理解你所说的语言"
+			],
+			"pbNote": "等于你的加值",
+			"trait": [
+				{
+					"ENG_name": "Shared Resistances",
+					"name": "分享抗性",
+					"entries": [
+						"当你召唤龙时，选择一种它具有的伤害抗性。你获得所选伤害类型的抗性直至法术结束。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Multiattack",
+					"name": "多重攻击",
+					"entries": [
+						"龙使用其吐息武器，并进行相当于法术等级一半（向下取整）的撕咬和爪击攻击次数。"
+					]
+				},
+				{
+					"ENG_name": "Bite and Claw",
+					"name": "撕咬和爪击",
+					"entries": [
+						"{@atk mw} 你的法术攻击调整值命中，触及10尺，单一目标。{@h}{@damage 1d6 + 4 + summonSpellLevel} 穿刺伤害。"
+					]
+				},
+				{
+					"ENG_name": "Breath Weapon",
+					"name": "吐息武器",
+					"entries": [
+						"龙在30英尺的锥形区域内呼出一股多彩能量流。该区域内的每个生物必须进行一次敏捷豁免检定，若失败，则受到你选择的这种龙具有抗性的某种伤害类型的{@damage 2d6}点伤害，若成功，则受到一半的伤害。"
+					]
+				}
+			],
+			"senseTags": [
+				"B",
+				"D"
+			],
+			"actionTags": [
+				"吐息武器",
+				"多重攻击"
+			],
+			"languageTags": [
+				"DR"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"AOE",
+				"MW",
+				"RCH"
+			],
+			"hasToken": true
+		}
+	]
+}

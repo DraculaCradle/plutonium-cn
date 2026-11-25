@@ -1,0 +1,88 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Drake Companion",
+			"name": "龙兽伙伴",
+			"source": "UA2020SubclassesPt5",
+			"page": 3,
+			"summonedByClass": "游侠|PHB",
+			"size": [
+				"S"
+			],
+			"type": "dragon",
+			"ac": [
+				{
+					"special": "14+PB（天生护甲）"
+				}
+			],
+			"hp": {
+				"special": "5 加上你游侠等级的五倍（幼龙拥有的命中骰（d10）数量等于你的游侠等级）"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 16,
+			"dex": 12,
+			"con": 15,
+			"int": 8,
+			"wis": 14,
+			"cha": 8,
+			"save": {
+				"dex": "+1 + PB",
+				"wis": "+2 + PB"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 12,
+			"immune": [
+				{
+					"special": "由龙兽的龙类精华特性决定"
+				}
+			],
+			"languages": [
+				"龙语"
+			],
+			"trait": [
+				{
+					"ENG_name": "Draconic Essence",
+					"name": "龙族精粹",
+					"entries": [
+						"当你召唤德雷克时，选择一种伤害类型：酸液、寒冷、火焰、闪电或毒素。所选类型决定了德雷克的伤害免疫、其咬击的伤害以及其注入攻击特性的伤害。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Bite",
+					"name": "啃咬",
+					"entries": [
+						"{@atk mw} 命中{@hit 3 + 基础攻击加值}，触及范围5英尺，单一目标。{@h}{@damage 1d6} 穿刺伤害加上{@damage PB} 点伤害，伤害类型由龙裔的本质决定。"
+					]
+				}
+			],
+			"reaction": [
+				{
+					"ENG_name": "Infused Strikes",
+					"name": "注能打击",
+					"entries": [
+						"当龙兽30尺内它能看见的另一个生物以武器攻击命中时，龙兽会将其精粹注入打击，使该攻击额外造成{@damage 1d6}点由其龙族精粹决定的类型的伤害。"
+					]
+				}
+			],
+			"senseTags": [
+				"D"
+			],
+			"languageTags": [
+				"DR"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		}
+	]
+}

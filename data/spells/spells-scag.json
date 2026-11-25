@@ -1,0 +1,319 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Booming Blade",
+			"name": "轰雷剑",
+			"source": "SCAG",
+			"page": 142,
+			"level": 0,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+			"components": {
+				"v": true,
+				"m": "一把武器"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "round",
+						"amount": 1
+					}
+				}
+			],
+			"entries": [
+				"作为施放这个法术的动作的一部分，你必须使用武器对法术范围内的一个生物进行近战攻击，否则法术失败。如果命中，目标会受到攻击的常规效果，并在下个回合开始前被包裹在轰鸣的能量中。如果目标在那时之前自愿移动，它立即受到{@damage 1d8}点雷鸣伤害，法术结束。",
+				"当你达到更高等级时，这个法术的伤害会增加。在5级时，近战攻击会额外对目标造成{@damage 1d8}点雷鸣伤害，目标移动时受到的伤害增加到{@damage 2d8}。在11级和17级时，这两个伤害骰都会增加{@dice 1d8}。"
+			],
+			"scalingLevelDice": [
+				{
+					"label": "移动时受到的雷鸣伤害",
+					"scaling": {
+						"1": "1d8",
+						"5": "2d8",
+						"11": "3d8",
+						"17": "4d8"
+					}
+				},
+				{
+					"label": "命中时造成的雷鸣伤害",
+					"scaling": {
+						"5": "1d8",
+						"11": "2d8",
+						"17": "3d8"
+					}
+				}
+			],
+			"damageInflict": [
+				"thunder"
+			],
+			"miscTags": [
+				"SCL"
+			],
+			"areaTags": [
+				"ST"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Sorcerer",
+						"name": "术士",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Warlock",
+						"name": "魔契师",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Wizard",
+						"name": "法师",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"ENG_name": "Green-Flame Blade",
+			"name": "翠炎剑",
+			"source": "SCAG",
+			"page": 143,
+			"level": 0,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+			"components": {
+				"v": true,
+				"m": "一把武器"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"作为施放此法术的动作的一部分，你必须使用武器对法术范围内的一个生物进行近战攻击，否则法术失败。击中时，目标会遭受攻击的正常效果，并且绿色火焰会从目标跳到你能看到的5英尺范围内的另一个生物上。第二个生物受到等于你的法术施放能力调整值的火焰伤害。",
+				"当你达到更高等级时，这个法术的伤害会增加。在5级时，近战攻击会额外对目标造成{@damage 1d8}点火焰伤害，对第二个生物的火焰伤害增加到{@damage 1d8} + 你的法术施放能力调整值。在11级和17级时，这两个伤害骰都会增加{@dice 1d8}。"
+			],
+			"scalingLevelDice": [
+				{
+					"label": "对次要目标的火焰伤害",
+					"scaling": {
+						"1": "{{spellcasting_mod}}",
+						"5": "1d8 + {{spellcasting_mod}}",
+						"11": "2d8 + {{spellcasting_mod}}",
+						"17": "3d8 + {{spellcasting_mod}}"
+					}
+				},
+				{
+					"label": "命中时火焰伤害",
+					"scaling": {
+						"5": "1d8",
+						"11": "2d8",
+						"17": "3d8"
+					}
+				}
+			],
+			"damageInflict": [
+				"fire"
+			],
+			"miscTags": [
+				"SCL",
+				"SGT"
+			],
+			"areaTags": [
+				"ST",
+				"MT"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Sorcerer",
+						"name": "术士",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Warlock",
+						"name": "魔契师",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Wizard",
+						"name": "法师",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"ENG_name": "Lightning Lure",
+			"name": "闪电牵引",
+			"source": "SCAG",
+			"page": 143,
+			"level": 0,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 15
+				}
+			},
+			"components": {
+				"v": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"你创造出一道闪电能量的鞭子，打击你视野范围内的一个你选择的生物。目标必须成功通过一次力量豁免，否则会被拉向你，直线距离最多10英尺，并且如果它在你5英尺范围内，会受到{@damage 1d8}点闪电伤害。",
+				"你到达 5 级时，该法术的伤害增加 {@dice 1d8}（变为 {@damage 2d8}）。11 级时再加 1d8（变为 {@damage 3d8}），17 级时再加 1d8（变为 {@damage 4d8}）。"
+			],
+			"scalingLevelDice": {
+				"label": "闪电伤害",
+				"scaling": {
+					"1": "1d8",
+					"5": "2d8",
+					"11": "3d8",
+					"17": "4d8"
+				}
+			},
+			"damageInflict": [
+				"lightning"
+			],
+			"savingThrow": [
+				"strength"
+			],
+			"miscTags": [
+				"SCL",
+				"SGT"
+			],
+			"areaTags": [
+				"ST"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Sorcerer",
+						"name": "术士",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Warlock",
+						"name": "魔契师",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Wizard",
+						"name": "法师",
+						"source": "PHB"
+					}
+				]
+			}
+		},
+		{
+			"ENG_name": "Sword Burst",
+			"name": "剑刃爆发",
+			"source": "SCAG",
+			"page": 143,
+			"level": 0,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+			"components": {
+				"v": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"你创造出一个短暂的幽灵刀刃圈，它们围绕你旋转。范围内的每个生物，除了你之外，必须成功通过一次敏捷豁免检定，否则会受到{@damage 1d6}点力量伤害。",
+				"你到达 5 级时，该法术的伤害增加{@dice 1d6}（变为{@damage 2d6}）。11 级时再加 1d6（变为 {@damage 3d6}），17 级时再加 1d6（变为 {@damage 4d6}）。"
+			],
+			"scalingLevelDice": {
+				"label": "力场伤害",
+				"scaling": {
+					"1": "1d6",
+					"5": "2d6",
+					"11": "3d6",
+					"17": "4d6"
+				}
+			},
+			"damageInflict": [
+				"force"
+			],
+			"savingThrow": [
+				"dexterity"
+			],
+			"miscTags": [
+				"SCL"
+			],
+			"areaTags": [
+				"S"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Sorcerer",
+						"name": "术士",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Warlock",
+						"name": "魔契师",
+						"source": "PHB"
+					},
+					{
+						"ENG_name": "Wizard",
+						"name": "法师",
+						"source": "PHB"
+					}
+				]
+			}
+		}
+	]
+}

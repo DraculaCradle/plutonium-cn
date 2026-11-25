@@ -1,0 +1,200 @@
+{
+	"monster": [
+		{
+			"ENG_name": "Beast of the Air",
+			"name": "风之野兽",
+			"source": "UAClassFeatureVariants",
+			"page": 8,
+			"summonedByClass": "游侠|PHB",
+			"size": [
+				"S"
+			],
+			"type": "beast",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"special": "等于野兽的体质调整值 + 你的感知调整值 + 你的游侠等级的五倍（野兽的生命骰数量等于你的游侠等级）"
+			},
+			"speed": {
+				"walk": 10,
+				"fly": 60
+			},
+			"str": 6,
+			"dex": 16,
+			"con": 13,
+			"int": 8,
+			"wis": 14,
+			"cha": 11,
+			"save": {
+				"dex": "+5",
+				"con": "+3",
+				"wis": "+4"
+			},
+			"skill": {
+				"perception": "+4",
+				"stealth": "+5"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 14,
+			"languages": [
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Flyby",
+					"name": "飞掠",
+					"entries": [
+						"野兽以飞行离开敌人的触及范围时不会引发对方的借机攻击。"
+					]
+				},
+				{
+					"ENG_name": "Primal Rebirth",
+					"name": "原始重生",
+					"entries": [
+						"如果野兽死亡不超过一小时，你能使用你的动作触碰它，并消耗一个一环或更高的法术位使它复活。它会在一分钟后死而复生并获得所有生命值。"
+					]
+				},
+				{
+					"ENG_name": "Ready Companion",
+					"name": "忠诚伙伴",
+					"entries": [
+						"作为bonus action，你可以命令这只野兽进行撕扯攻击或者使用隐匿。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Shred",
+					"name": "撕扯",
+					"entries": [
+						"{@atk mw} {@hit 5} 攻击，触及范围 5 英尺，单一目标。{@h}{@damage 1d6 + 3} 挥砍伤害。"
+					]
+				}
+			],
+			"traitTags": [
+				"飞掠"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true
+		},
+		{
+			"ENG_name": "Beast of the Earth",
+			"name": "土之野兽",
+			"source": "UAClassFeatureVariants",
+			"page": 9,
+			"summonedByClass": "游侠|PHB",
+			"size": [
+				"M"
+			],
+			"type": "beast",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"special": "等于该魔兽的体质调整值加上你感知调整值加上你的游侠等级的五倍（该魔兽的生命骰数量[d8]等于你的游侠等级）"
+			},
+			"speed": {
+				"walk": 40,
+				"choose": {
+					"from": [
+						"攀爬",
+						"游泳"
+					],
+					"amount": 40,
+					"note": "（当你与野兽建立联系时由你选择）"
+				}
+			},
+			"str": 14,
+			"dex": 14,
+			"con": 15,
+			"int": 8,
+			"wis": 14,
+			"cha": 11,
+			"save": {
+				"dex": "+4",
+				"con": "+4",
+				"wis": "+4"
+			},
+			"skill": {
+				"perception": "+4",
+				"stealth": "+4"
+			},
+			"senses": [
+				"黑暗视觉 60 尺"
+			],
+			"passive": 14,
+			"languages": [
+				"理解你所说的语言"
+			],
+			"trait": [
+				{
+					"ENG_name": "Charge",
+					"name": "冲锋",
+					"entries": [
+						"如果该生物在同一回合内至少直线移动20英尺朝向一个目标，然后使用钉头锤攻击击中该目标，目标将额外受到{@dice 1d6}点挥砍伤害。该豁免难度等于你的法术豁免DC。如果目标是一个生物，它必须通过一次力量豁免对抗你的法术豁免DC，否则会被击倒{@condition 倒地}。"
+					]
+				},
+				{
+					"ENG_name": "Primal Rebirth",
+					"name": "原始重生",
+					"entries": [
+						"如果野兽死亡不超过一小时，你能使用你的动作触碰它，并消耗一个一环或更高的法术位使它复活。它会在一分钟后死而复生并获得所有生命值。"
+					]
+				},
+				{
+					"ENG_name": "Ready Companion",
+					"name": "忠诚伙伴",
+					"entries": [
+						"作为附赠动作，你可以命令这只魔兽进行其钉头锤攻击或进行隐藏。"
+					]
+				}
+			],
+			"action": [
+				{
+					"ENG_name": "Maul",
+					"name": "巨锤",
+					"entries": [
+						"{@atk mw} 命中{@hit 4}，触及5尺，单一目标。{@h}{@damage 1d6 + 2} 挥砍伤害。"
+					]
+				}
+			],
+			"attachedItems": [
+				"巨锤|phb"
+			],
+			"traitTags": [
+				"冲锋"
+			],
+			"senseTags": [
+				"D"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"conditionInflict": [
+				"倒地"
+			],
+			"hasToken": true
+		}
+	]
+}

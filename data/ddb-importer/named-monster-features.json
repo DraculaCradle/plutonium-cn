@@ -1,0 +1,632 @@
+[
+	{
+		"ENG_name": "a quintessent's lair",
+		"name": "风暴巨人升华者巢穴",
+		"monster": "风暴巨人升华者",
+		"path": "icons/environment/wilderness/cave-entrance-mountain-blue.webp"
+	},
+	{
+		"ENG_name": "a quintessent's lair",
+		"name": "风暴巨人升华者巢穴",
+		"monster": "成年红龙",
+		"path": "icons/environment/wilderness/cave-entrance-mountain.webp"
+	},
+	{
+		"ENG_name": "aggressive",
+		"name": "好斗",
+		"monster": "冥界狱犬",
+		"path": "icons/creatures/fish/fish-fangtooth-skeletal-pink.webp"
+	},
+	{
+		"ENG_name": "aggressive",
+		"name": "好斗",
+		"monster": "兽人·依那伏之刃",
+		"path": "icons/equipment/hand/gauntlet-simple-leather-steel.webp"
+	},
+	{
+		"ENG_name": "amorphous",
+		"name": "无定形",
+		"monster": "懒惰魔",
+		"path": "icons/magic/air/fog-gas-smoke-gray.webp"
+	},
+	{
+		"ENG_name": "amorphous",
+		"name": "无定形",
+		"monster": "古代蚀心软泥",
+		"path": "icons/commodities/materials/liquid-purple.webp"
+	},
+	{
+		"ENG_name": "amphibious",
+		"name": "水陆两栖",
+		"monster": "卓莫克雷提",
+		"path": "icons/magic/acid/dissolve-arm-flesh.webp"
+	},
+	{
+		"ENG_name": "amphibious",
+		"name": "水陆两栖",
+		"monster": "融合体三型",
+		"path": "icons/environment/creatures/frog-spotted-green.webp"
+	},
+	{
+		"ENG_name": "amphibious",
+		"name": "水陆两栖",
+		"monster": "巨型巨蟹",
+		"path": "icons/environment/creatures/crustacean-crab-yellow.webp"
+	},
+	{
+		"ENG_name": "arcane blast",
+		"name": "奥能爆发",
+		"monster": "苏·卡特什",
+		"path": "icons/magic/water/projectile-bolts-salvo-blue.webp"
+	},
+	{
+		"ENG_name": "arcane blast",
+		"name": "奥能爆发",
+		"monster": "百目梦灵",
+		"path": "icons/magic/light/projectile-beams-salvo-yellow.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "泰拉斯奎",
+		"path": "icons/skills/melee/strike-slashes-orange.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "拉克·塔尔赫什",
+		"path": "icons/weapons/axes/axe-battle-eyes-red.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "苏·卡特什",
+		"path": "icons/weapons/fist/claw-hooked-grey.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "至高天",
+		"path": "icons/weapons/staves/staff-winged-red.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "狼蛇魔",
+		"path": "icons/weapons/axes/axe-battle-skull-black.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "咕噜力莫",
+		"path": "icons/weapons/hammers/hammer-double-glowing-yellow.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "刀锋统主",
+		"path": "icons/skills/ranged/daggers-thrown-salvo-green.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "拉札夫",
+		"path": "icons/weapons/swords/swords-sharp-worn.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "迪德里乌斯",
+		"path": "icons/commodities/biological/hand-yellow-red.webp"
+	},
+	{
+		"ENG_name": "attack",
+		"name": "攻击",
+		"monster": "欧吕尔（第二形态）",
+		"path": "icons/magic/water/projectile-ice-shard.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "泰拉斯奎",
+		"path": "icons/creatures/abilities/mouth-teeth-long-red.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "斯彻奇",
+		"path": "icons/creatures/abilities/mouth-teeth-long-red.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "远古红龙",
+		"path": "icons/creatures/abilities/mouth-teeth-fire-orange.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "耶诺古",
+		"path": "icons/commodities/bones/bone-jaw-teeth-white.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "掠行惊惧兽",
+		"path": "icons/commodities/bones/teeth-sharp-white.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "潜猎兽",
+		"path": "icons/commodities/biological/mouth-toothed-purple.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "潜猎兽",
+		"path": "icons/commodities/biological/mouth-toothed-purple.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "黄昏之翼",
+		"path": "icons/commodities/bones/tooth-spiked-brown.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "霸王龙",
+		"path": "icons/magic/death/skeleton-dinosaur-skull-tan.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "巨鲨",
+		"path": "icons/commodities/bones/tooth-shark-brown-white.webp"
+	},
+	{
+		"ENG_name": "bite",
+		"name": "啃咬",
+		"monster": "骷髅北极熊",
+		"path": "icons/magic/death/skull-sand-white-yellow.webp"
+	},
+	{
+		"ENG_name": "cast a spell",
+		"name": "施法",
+		"monster": "伊佩利",
+		"path": "icons/sundries/documents/document-symbol-eye.webp"
+	},
+	{
+		"ENG_name": "cast a spell",
+		"name": "施法",
+		"monster": "狼蛇魔（召唤者变体）",
+		"path": "icons/sundries/books/book-embossed-jewel-gold-purple.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "泰拉斯奎",
+		"path": "icons/commodities/claws/talon-red.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "提亚马特",
+		"path": "icons/commodities/claws/claw-lizard-white-black.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "拉铎司",
+		"path": "icons/commodities/claws/claws-white.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "贝拉希拉",
+		"path": "icons/commodities/claws/claw-insect-grey-purple.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "贝拉希拉",
+		"path": "icons/commodities/claws/claw-insect-grey-purple.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "星界巨舰兽",
+		"path": "icons/commodities/claws/claw-pincer-grey.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "星界巨舰兽",
+		"path": "icons/commodities/claws/claw-pincer-grey.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "伊佩利",
+		"path": "icons/commodities/claws/claw-bear-brown-grey.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "伊佩利",
+		"path": "icons/commodities/claws/claw-bear-brown-grey.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "钢铁掠夺者",
+		"path": "icons/weapons/fist/claw-red-black.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "戈尔 碎骨（非核心）",
+		"path": "icons/commodities/claws/talon-white.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "戈尔 碎骨（非核心）",
+		"path": "icons/commodities/claws/talon-white.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "深地鸦",
+		"path": "icons/commodities/claws/claw-bird-pink.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "火惧之眼",
+		"path": "icons/commodities/bones/bone-foot-bird-brown.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "歌利亚熊人",
+		"path": "icons/commodities/claws/claw-bear-brown.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "巨型巨蟹",
+		"path": "icons/commodities/claws/claw-pincer-yellow.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "魅魔",
+		"path": "icons/commodities/biological/hand-clawed-blue.webp"
+	},
+	{
+		"ENG_name": "claw",
+		"name": "爪击",
+		"monster": "空骸丧尸",
+		"path": "icons/commodities/biological/hand-clawed-brown.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "格殷永",
+		"path": "icons/commodities/claws/claws-white.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "阿拉斯塔",
+		"path": "icons/commodities/claws/claw-insect-grey-purple.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "阿拉斯塔",
+		"path": "icons/commodities/claws/claw-insect-grey-purple.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "成年蓝宝石龙",
+		"path": "icons/commodities/claws/claw-lizard-white-black.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "冰魔",
+		"path": "icons/commodities/claws/talon-white.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "钉包",
+		"path": "icons/commodities/claws/claw-bear-brown-grey.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "塞洛斯奇美拉",
+		"path": "icons/commodities/claws/claw-bird-yellow.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "机械奇美拉",
+		"path": "icons/weapons/fist/claw-red-black.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "影妖鬼",
+		"path": "icons/commodities/biological/hand-clawed-brown.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "骸骨巨像",
+		"path": "icons/commodities/bones/bone-foot-bird-brown.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "特洛克斯-波波洛卡斯",
+		"path": "icons/commodities/biological/hand-clawed-blue.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "守护狼",
+		"path": "icons/commodities/claws/claw-brown-black.webp"
+	},
+	{
+		"ENG_name": "claws",
+		"name": "爪击",
+		"monster": "枭熊",
+		"path": "icons/commodities/claws/claw-bear-brown.webp"
+	},
+	{
+		"ENG_name": "club",
+		"name": "短棒",
+		"monster": "安布尔",
+		"path": "icons/weapons/clubs/club-simple-black.webp"
+	},
+	{
+		"ENG_name": "club",
+		"name": "短棒",
+		"monster": "洛卡鱼人猎手",
+		"path": "icons/weapons/clubs/club-banded-barbed-black.webp"
+	},
+	{
+		"ENG_name": "cold breath",
+		"name": "冷冻吐息",
+		"monster": "远古银龙",
+		"path": "icons/creatures/abilities/dragon-ice-breath-blue.webp"
+	},
+	{
+		"ENG_name": "cold breath",
+		"name": "冷冻吐息",
+		"monster": "巨恶雪怪",
+		"path": "icons/magic/air/fog-gas-smoke-dense-blue.webp"
+	},
+	{
+		"ENG_name": "death burst",
+		"name": "自爆",
+		"monster": "霜虫",
+		"path": "icons/magic/sonic/explosion-shock-wave-teal.webp"
+	},
+	{
+		"ENG_name": "death burst",
+		"name": "自爆",
+		"monster": "融石者",
+		"path": "icons/magic/air/air-burst-spiral-teal-green.webp"
+	},
+	{
+		"ENG_name": "death throes",
+		"name": "焚身爆",
+		"monster": "巴洛炎魔",
+		"path": "icons/magic/fire/explosion-fireball-large-red-orange.webp"
+	},
+	{
+		"ENG_name": "death throes",
+		"name": "焚身爆",
+		"monster": "高斯眼魔",
+		"path": "icons/magic/fire/explosion-fireball-large-purple-pink.webp"
+	},
+	{
+		"ENG_name": "feed",
+		"name": "饲料",
+		"monster": "星之子蠕虫法师",
+		"path": "icons/magic/earth/orb-stone-smoke-teal.webp"
+	},
+	{
+		"ENG_name": "feed",
+		"name": "饲料",
+		"monster": "瑟寇拉之喉",
+		"path": "icons/magic/control/fear-fright-monster-grin-purple-blue.webp"
+	},
+	{
+		"ENG_name": "fire form",
+		"name": "火焰形态",
+		"monster": "黎明泰坦梅格拉",
+		"path": "icons/magic/fire/projectile-embers-orange.webp"
+	},
+	{
+		"ENG_name": "fire form",
+		"name": "火焰形态",
+		"monster": "菲涅克斯",
+		"path": "icons/magic/fire/projectile-wave-arrow.webp"
+	},
+	{
+		"ENG_name": "fist",
+		"name": "拳击",
+		"monster": "弗拉兹厄鲁",
+		"path": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp"
+	},
+	{
+		"ENG_name": "fist",
+		"name": "拳击",
+		"monster": "里胡德",
+		"path": "icons/equipment/hand/gauntlet-simple-leather-steel.webp"
+	},
+	{
+		"ENG_name": "fist",
+		"name": "拳击",
+		"monster": "弗拉基米尔·霍恩嘉德",
+		"path": "icons/skills/melee/unarmed-punch-fist-blue.webp"
+	},
+	{
+		"ENG_name": "gore",
+		"name": "顶撞",
+		"monster": "巴弗灭",
+		"path": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp"
+	},
+	{
+		"ENG_name": "gore",
+		"name": "顶撞",
+		"monster": "巨牛魔",
+		"path": "icons/commodities/bones/horn-carved-drinking-white.webp"
+	},
+	{
+		"ENG_name": "gore",
+		"name": "顶撞",
+		"monster": "庞巨鹿鹰兽",
+		"path": "icons/commodities/bones/horn-antler-brown-red.webp"
+	},
+	{
+		"ENG_name": "iron scent",
+		"name": "铁质嗅觉",
+		"monster": "锈蚀怪",
+		"path": "icons/commodities/tech/pipe-metal.webp"
+	},
+	{
+		"ENG_name": "iron scent",
+		"name": "铁质嗅觉",
+		"monster": "土鱼",
+		"path": "icons/commodities/stone/paver-tile-orange.webp"
+	},
+	{
+		"ENG_name": "multiple heads",
+		"name": "多头",
+		"monster": "提亚马特",
+		"path": "icons/commodities/bones/bones-lizard-brown.webp"
+	},
+	{
+		"ENG_name": "multiple heads",
+		"name": "多头",
+		"monster": "波禄卡诺斯",
+		"path": "icons/magic/defensive/illusion-evasion-echo-purple.webp"
+	},
+	{
+		"ENG_name": "ram",
+		"name": "攻城槌",
+		"monster": "金铸哨兵",
+		"path": "icons/weapons/maces/mace-skull-ram.webp"
+	},
+	{
+		"ENG_name": "ram",
+		"name": "攻城槌",
+		"monster": "巨赤鹿",
+		"path": "icons/commodities/bones/horn-antler-brown.webp"
+	},
+	{
+		"ENG_name": "siege monster",
+		"name": "攻城怪物",
+		"monster": "泰拉斯奎",
+		"path": "icons/environment/wilderness/wall-ruins.webp"
+	},
+	{
+		"ENG_name": "siege monster",
+		"name": "攻城怪物",
+		"monster": "瓦砾区伏击客",
+		"path": "icons/environment/settlement/city-wall.webp"
+	},
+	{
+		"ENG_name": "staff",
+		"name": "法杖",
+		"monster": "阿瑟瑞克",
+		"path": "icons/weapons/staves/staff-skull-feathers-brown.webp"
+	},
+	{
+		"ENG_name": "staff",
+		"name": "法杖",
+		"monster": "那加帕",
+		"path": "icons/weapons/staves/staff-ornate-orb-steel-red.webp"
+	},
+	{
+		"ENG_name": "staff",
+		"name": "法杖",
+		"monster": "泽菲罗斯",
+		"path": "icons/weapons/staves/staff-ornate-wood-red.webp"
+	},
+	{
+		"ENG_name": "staff",
+		"name": "法杖",
+		"monster": "梦魇牧者",
+		"path": "icons/weapons/staves/staff-orb-purple.webp"
+	},
+	{
+		"ENG_name": "staff",
+		"name": "法杖",
+		"monster": "史拉绿蟾",
+		"path": "icons/weapons/staves/staff-hooked-banded.webp"
+	},
+	{
+		"ENG_name": "standing leap",
+		"name": "立定跳远",
+		"monster": "克鲁科克'托伊克",
+		"path": "icons/commodities/claws/claw-blue-grey.webp"
+	},
+	{
+		"ENG_name": "standing leap",
+		"name": "立定跳远",
+		"monster": "Torbit",
+		"path": "icons/commodities/biological/foot-amphibian-green.webp"
+	},
+	{
+		"ENG_name": "stomp",
+		"name": "践踏",
+		"monster": "巨像战俑",
+		"path": "icons/equipment/feet/boots-armored-steel.webp"
+	},
+	{
+		"ENG_name": "stomp",
+		"name": "践踏",
+		"monster": "咕噜力莫",
+		"path": "icons/commodities/bones/hooves-cloven-brown.webp"
+	},
+	{
+		"ENG_name": "stomp",
+		"name": "践踏",
+		"monster": "猛犸",
+		"path": "icons/commodities/biological/foot-black-grey.webp"
+	},
+	{
+		"ENG_name": "web",
+		"name": "蛛网术",
+		"monster": "卓尔蜘蛛法师",
+		"path": "icons/commodities/materials/material-webbing.webp"
+	},
+	{
+		"ENG_name": "web",
+		"name": "蛛网术",
+		"monster": "冰蜘蛛女王",
+		"path": "icons/magic/water/orb-ice-web.webp"
+	},
+	{
+		"ENG_name": "whirlwind",
+		"name": "旋风术",
+		"monster": "气元素",
+		"path": "icons/magic/air/wind-tornado-cyclone-white.webp"
+	},
+	{
+		"ENG_name": "whirlwind",
+		"name": "旋风术",
+		"monster": "龙卷尘暴",
+		"path": "icons/magic/air/wind-tornado-cyclone-red-orange.webp"
+	}
+]

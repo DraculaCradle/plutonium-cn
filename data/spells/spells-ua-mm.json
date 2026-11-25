@@ -1,0 +1,717 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Arcane Hacking (UA)",
+			"name": "奥术黑客（UA）",
+			"source": "UAModernMagic",
+			"page": 5,
+			"level": 2,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "黑客工具"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"当你使用外部系统时，你在所有使用黑客工具破解软件加密或在线安全的智慧检查上获得优势。这个法术还允许你通过使用黑客工具进行智慧检查，对抗施法者法术豁免DC，来破解2级及以下保护法术，如奥术锁或警戒符文。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用3级或更高等级的法术位施放这个法术时，如果对方的法术等级等于或低于你使用的法术位等级，你可以尝试解除对方设置在外部系统上的法术。"
+					]
+				}
+			],
+			"abilityCheck": [
+				"智力"
+			],
+			"miscTags": [
+				"ADV"
+			]
+		},
+		{
+			"ENG_name": "Commune with City (UA)",
+			"name": "通神术（UA）",
+			"source": "UAModernMagic",
+			"page": 5,
+			"level": 5,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"meta": {
+				"ritual": true
+			},
+			"entries": [
+				"你短暂地与城市融为一体，并获得周围区域的知识。在地面上，这个法术让你了解你周围1英里内的区域。在下水道和其他地下环境中，你获得你周围600英尺内区域的知识。",
+				"你立即获得的自然资讯至多与该地域三个方面的主题相关，在以下项目中进行选择：",
+				{
+					"type": "list",
+					"items": [
+						"地形和水体",
+						"常见的建筑、植物、动物或智能生物",
+						"强大的（挑战等级1或更高）天界生物、仙界生物、魔界生物、元素生物或亡灵",
+						"来自其他存在层面的影响",
+						"电流、无线信号以及活跃的交通线路和轨道"
+					]
+				},
+				"例如，你可以确定该地区强大的不死生物的位置，主要的电力来源或干扰源的位置，以及附近公园的位置。"
+			]
+		},
+		{
+			"ENG_name": "Conjure Knowbot (UA)",
+			"name": "召唤智机（UA）",
+			"source": "UAModernMagic",
+			"page": 5,
+			"level": 4,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					}
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"你触摸一个电脑化的设备或计算机系统来召唤一个知识机器人\u2014\u2014一个部分有感知能力的软件片段，印有你自己的技能和计算机能力的残余。在法术持续期间，你可以使用一个奖励动作让知识机器人执行一个通常需要动作的与计算机相关的任务。知识机器人使用你的能力分数和熟练度加值（包括你使用黑客工具的熟练度，如果适用）来进行智力属性检定。",
+				"你与知识机器人之间存在有限的心灵感应联系，范围为从召唤知识机器人的设备或系统处500英尺内。如果你超出这个范围，知识机器人将在{@dice 2d4}回合内消失，就像法术的持续时间到了一样。再次进入范围内会立即重新建立联系。",
+				"知识机器人被绑定到它被创建的系统中，并且它会一直停留在那里，直到被解散或法术持续时间结束。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用5级或更高等级的法术位施放这个法术时，法术的持续时间增加到1小时。此外，你与知识机器人的心灵感应联系的有效范围增加到1000英尺，如果你离开了联系的范围，知识机器人会继续执行它的最后一项被指派的任务，直到法术结束。"
+					]
+				}
+			],
+			"miscTags": [
+				"SMN",
+				"UBA"
+			]
+		},
+		{
+			"ENG_name": "Digital Phantom (UA)",
+			"name": "数字幽灵（UA）",
+			"source": "UAModernMagic",
+			"page": 6,
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "一小段铜线"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"这个法术用于在计算机系统中积极隐藏你的存在。在法术持续期间，你和你在本地网络上选择的任何其他用户在智力检查中获得+10的加值，以避免被管理员、知识机器人、跟踪软件等检测到。当你们在法术生效期间离开任何正在工作的计算机系统时，你们在该系统中之前存在的痕迹将被全部抹除。"
+			]
+		},
+		{
+			"ENG_name": "Find Vehicle (UA)",
+			"name": "寻找交通工具（UA）",
+			"source": "UAModernMagic",
+			"page": 6,
+			"level": 2,
+			"school": "C",
+			"time": [
+				{
+					"number": 10,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"entries": [
+				"你召唤一个精灵，它呈现出你选择的非军事陆地交通工具的形状，出现在射程内的未占用空间中。该交通工具具有其同类普通交通工具的统计数据，尽管它是天界、仙界或魔界（你选择的起源）的。交通工具的物理特征在一定程度上反映了它的起源。例如，一个魔界的SUV可能是纯黑色的，有深色窗户和一个看起来邪恶的前格栅。",
+				"你与召唤出的车辆之间有一种超自然的联系，这使你能够超越你的正常能力驾驶它。在驾驶召唤出的车辆时，你被视为对其类型的车辆熟练，并在与驾驶该车辆相关的属性检定中加上你熟练加值的两倍。在驾驶车辆时，你可以使你施放的任何只针对你的法术也针对该车辆。",
+				"如果载具降至0生命值，它将消失，不留下任何物理形态。你也可以随时作为动作解散载具，使其消失。",
+				"你不能同时通过这个法术绑定多于一辆交通工具。作为一项动作，你可以随时解除交通工具的绑定，使其消失。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用3级或更高级别的法术位施放这个法术时，你可以召唤一个足够大的非军事用途的水运载工具，能够承载六种中等体型的生物。当你使用5级或更高级别的法术位施放这个法术时，你可以召唤一个足够大的非军事用途的空运载工具，能够承载十种中等体型的生物。当你使用7级或更高级别的法术位施放这个法术时，你可以召唤任何类型的运载工具，但需得到地下城主的批准。"
+					]
+				}
+			],
+			"miscTags": [
+				"SMN"
+			]
+		},
+		{
+			"ENG_name": "Haywire (UA)",
+			"name": "电子设备出现故障（UA）",
+			"source": "UAModernMagic",
+			"page": 7,
+			"level": 3,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"这个法术会对电子设备造成严重干扰，使得使用这些设备几乎不可能。在你选择的范围内的一个点为中心，10英尺半径范围内的每个电子设备都会受到随机行为的影响，只要它保持在该区域内。未被生物持有的设备会自动受到影响。如果电子设备被生物持有，那么该生物必须成功进行一次智力豁免检定，否则设备将受到法术的影响。",
+				"在你的每个回合开始时，为每个受影响的装置投掷一个{@dice d6}骰子，以确定其行为。除非另有说明，该行为将持续到这个法术生效期间你的下一个回合开始。",
+				{
+					"type": "table",
+					"colLabels": [
+						"{@dice d6}",
+						"效应"
+					],
+					"colStyles": [
+						"col-1 text-center no-wrap",
+						"col-11"
+					],
+					"rows": [
+						[
+							{
+								"type": "cell",
+								"roll": {
+									"exact": 1
+								}
+							},
+							"该设备已关闭，必须重新启动。在设备重新启动之前，不要再次为此设备掷骰。"
+						],
+						[
+							{
+								"type": "cell",
+								"roll": {
+									"min": 2,
+									"max": 4
+								}
+							},
+							"该设备无法正常工作。"
+						],
+						[
+							{
+								"type": "cell",
+								"roll": {
+									"exact": 5
+								}
+							},
+							"该设备经历了一次电力激增，导致持有者（如果有的话）和设备周围5英尺内的一个随机生物受到电击。每个受影响的生物必须进行一次敏捷豁免检定，对抗你的法术豁免DC，如果失败则受到{@damage 6d6}点闪电伤害，成功则受到一半的伤害。"
+						],
+						[
+							{
+								"type": "cell",
+								"roll": {
+									"exact": 6
+								}
+							},
+							"该设备可以正常使用。"
+						]
+					]
+				}
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用4级或更高等级的法术位施放这个法术时，受法术影响的球体半径每超过3级增加5英尺。"
+					]
+				}
+			],
+			"damageInflict": [
+				"lightning"
+			],
+			"savingThrow": [
+				"wisdom",
+				"dexterity"
+			],
+			"miscTags": [
+				"RO"
+			],
+			"areaTags": [
+				"S"
+			]
+		},
+		{
+			"ENG_name": "Infallible Relay (UA)",
+			"name": "绝对可靠传输（UA）",
+			"source": "UAModernMagic",
+			"page": 7,
+			"level": 1,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "一部移动电话"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"通过这个法术，你可以针对任何你之前与之交谈过的生物，只要你们处在同一个存在层面上。当你施放法术时，目标100英尺范围内最近的正在工作的电话或类似的通讯设备开始响起。如果目标附近没有足够近的合适设备，法术就会失败。",
+				"目标必须成功进行一次魅力豁免检定，否则将被迫回应你的召唤。一旦连接建立，通话将非常清晰，除非对话结束或法术持续时间结束，否则不会中断。你可以随时结束对话，但目标必须成功进行一次魅力豁免检定才能结束对话。"
+			],
+			"savingThrow": [
+				"charisma"
+			]
+		},
+		{
+			"ENG_name": "Invisibility to Cameras (UA)",
+			"name": "对摄像机的隐形术（UA）",
+			"source": "UAModernMagic",
+			"page": 7,
+			"level": 3,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 10
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "一片黑色纸屑"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"在法术持续时间内，你选择的四个生物范围内对电子传感器和摄像头变得不可检测。目标穿戴或携带的任何物品，只要在目标身上，也同样不可检测。目标对视觉仍然可见。"
+			],
+			"areaTags": [
+				"MT"
+			]
+		},
+		{
+			"ENG_name": "On/Off (UA)",
+			"name": "开启/关闭（UA）",
+			"source": "UAModernMagic",
+			"page": 7,
+			"level": 0,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"这个戏法允许你激活或停用范围内的任何电子设备，只要该设备有一个明确定义的开启或关闭功能，并且可以从设备的外部轻松访问。任何需要基于软件的关闭序列来激活或停用的设备都不能被开/关法术影响。"
+			]
+		},
+		{
+			"ENG_name": "Protection from Ballistics (UA)",
+			"name": "守护防弹（UA）",
+			"source": "UAModernMagic",
+			"page": 8,
+			"level": 3,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "一个弹壳"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"这个法术使目标的肉体对子弹的冲击产生抗性。直到法术结束，目标对非魔法弹道伤害有抗性。"
+			]
+		},
+		{
+			"ENG_name": "Remote Access (UA)",
+			"name": "远程访问（UA）",
+			"source": "UAModernMagic",
+			"page": 8,
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					}
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"你可以将范围内的任何电子设备当作在你手中一样使用。这不是心灵感应的效果。相反，这个法术允许你通过电子方式模拟设备的机械功能。你只能访问手动使用设备的人能够访问的功能。你一次只能与一个设备远程连接。"
+			]
+		},
+		{
+			"ENG_name": "Shutdown (UA)",
+			"name": "关闭（UA）",
+			"source": "UAModernMagic",
+			"page": 8,
+			"level": 5,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"这个法术使范围内所有未被生物持有或直接控制的电子设备失效。如果范围内的电子设备被生物使用，该生物必须成功进行一次体质豁免检定，以防止设备失效。在法术持续期间，范围内的任何电子设备都无法启动或重新启动。"
+			],
+			"savingThrow": [
+				"constitution"
+			]
+		},
+		{
+			"ENG_name": "Synchronicity (UA)",
+			"name": "同步性（UA）",
+			"source": "UAModernMagic",
+			"page": 8,
+			"level": 4,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"在你触摸的生物身上，现实微妙地向它有利的方向转变，只要这个法术生效。目标不会受到任何平凡延误的困扰。交通灯总是绿色的，总有等待中的电梯，出租车总是在街角。目标可以在密集的人群中全速奔跑，因目标移动而引发的攻击机会攻击处于劣势。",
+				"同步性赋予目标在敏捷（{@skill 隐匿}）检定上的优势，因为目标总是能找到一个方便的掩体。此外，目标在所有驾驶载具的属性检定上也有优势。",
+				"如果两个或更多受到同步效应影响的生物试图避免彼此造成不便，每当这些法术的效果相互对立时，这些生物就会进行魅力的较量。"
+			],
+			"miscTags": [
+				"ADV"
+			],
+			"areaTags": [
+				"ST"
+			]
+		},
+		{
+			"ENG_name": "System Backdoor (UA)",
+			"name": "系统后门（UA）",
+			"source": "UAModernMagic",
+			"page": 8,
+			"level": 4,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "黑客工具"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"meta": {
+				"technomagic": true
+			},
+			"entries": [
+				"这个法术允许你绕过系统安全，以便在外部系统上创建一个安全的登录。你创建的登录允许你在任何未经技术魔法增强的计算机系统中拥有管理员级别的权限。该登录能够击败任何3级或更低级别的技术魔法法术。",
+				"一旦法术的持续时间结束，登录和所有权限将从系统中清除。系统日志仍然显示用户的活动，但无法找到或追踪用户的身份识别。"
+			],
+			"entriesHigherLevel": [
+				{
+					"ENG_name": "At Higher Levels",
+					"name": "升环施法效应",
+					"type": "entries",
+					"entries": [
+						"当你使用5级或更高等级的法术位施放这个法术时，你能够绕过等级等于或低于你所使用的法术位等级的技术魔法法术。"
+					]
+				}
+			]
+		}
+	]
+}

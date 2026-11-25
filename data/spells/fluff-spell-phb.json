@@ -1,0 +1,158 @@
+{
+	"spellFluff": [
+		{
+			"ENG_name": "Barkskin",
+			"name": "树肤术",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Barkskin.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Burning Hands",
+			"name": "燃烧之手",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Burning Hands.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Cloudkill",
+			"name": "死云术",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Cloudkill.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Dimension Door",
+			"name": "任意门",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Dimension Door.jpg"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Fireball",
+			"name": "火球术",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Fireball.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Guardian of Faith",
+			"name": "信仰守卫",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Guardian of Faith.jpg"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Insect Plague",
+			"name": "疫病虫群",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Insect Plague.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Mordenkainen's Sword",
+			"name": "魔邓肯之剑",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Mordenkainen's Sword.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Prismatic Spray",
+			"name": "虹光喷射",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Prismatic Spray.jpg"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Scorching Ray",
+			"name": "灼热射线",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Scorching Ray.png"
+					}
+				}
+			]
+		},
+		{
+			"ENG_name": "Web",
+			"name": "蛛网术",
+			"source": "PHB",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "spells/PHB/Web.jpg"
+					}
+				}
+			]
+		}
+	]
+}

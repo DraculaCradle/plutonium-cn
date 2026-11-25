@@ -1,0 +1,5056 @@
+{
+	"MM": {
+		"卓尔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Drow.webp"
+			}
+		],
+		"石鼎兽": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Xorn.webp"
+			}
+		],
+		"大地精": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Hobgoblin.webp"
+			}
+		],
+		"紫腐菌": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Violet Fungus.webp"
+			}
+		],
+		"青年绿龙": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Young Green Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"呓语之口": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Gibbering Mouther.webp"
+			}
+		],
+		"阴魂纳迦": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Spirit Naga.webp"
+			}
+		],
+		"尘魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Dust Mephit.webp"
+			}
+		],
+		"驮用马": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Draft Horse.webp"
+			}
+		],
+		"邪灵": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Wraith.webp"
+			}
+		],
+		"恐狼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Dire Wolf.webp"
+			}
+		],
+		"幽邃盲族": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Grimlock.webp"
+			}
+		],
+		"德鲁伊": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Druid.webp"
+			}
+		],
+		"多头蛇": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Hydra.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"链魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Chain Devil.webp"
+			}
+		],
+		"丧尸": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Zombie.webp"
+			}
+		],
+		"巨蟒蛇": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Constrictor Snake.webp"
+			}
+		],
+		"食尸鬼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ghoul.webp"
+			}
+		],
+		"甲伏怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Chuul.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"紫虫": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Purple Worm.webp"
+			}
+		],
+		"恶灵": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Specter.webp"
+			}
+		],
+		"熊地精": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Bugbear.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Bugbear (Variant 1).webp"
+			}
+		],
+		"食人魔僵尸": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ogre Zombie.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"平民": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Commoner.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Commoner (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Commoner (Variant 2).webp"
+			}
+		],
+		"尖叫菌": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Shrieker.webp",
+				"scale": 0.8
+			}
+		],
+		"地精": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Goblin.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Goblin (Variant 1).webp"
+			}
+		],
+		"粘土魔像": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Clay Golem.webp"
+			}
+		],
+		"人工生命体": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Homunculus.webp",
+				"scale": 0.8
+			}
+		],
+		"巨毒蛇": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Poisonous Snake.webp"
+			}
+		],
+		"小恶魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Quasit.webp"
+			}
+		],
+		"巨獾": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Badger.webp",
+				"scale": 1.1
+			}
+		],
+		"食人魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ogre.webp"
+			}
+		],
+		"活化盔甲": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Animated Armor.webp"
+			}
+		],
+		"蔓生怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Shambling Mound.webp"
+			}
+		],
+		"蚊蝠": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Stirge.webp",
+				"scale": 0.9
+			}
+		],
+		"石化蜥蜴": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Basilisk.webp"
+			}
+		],
+		"食腐兽": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Otyugh.webp"
+			}
+		],
+		"相位蜘蛛": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Phase Spider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔法师": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Mage.webp"
+			}
+		],
+		"变形怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Doppelganger.webp"
+			}
+		],
+		"匪徒": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Bandit.webp"
+			}
+		],
+		"骷髅": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Skeleton.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Skeleton (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Skeleton (Variant 2).webp"
+			}
+		],
+		"水元素": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Water Elemental.webp"
+			}
+		],
+		"隐形追猎者": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Invisible Stalker.webp"
+			}
+		],
+		"巨章鱼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Octopus.webp"
+			}
+		],
+		"奥法罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Arcanaloth.webp"
+			}
+		],
+		"报丧妖": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Banshee.webp"
+			}
+		],
+		"恶猿魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Barlgura.webp"
+			}
+		],
+		"眼魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Beholder.webp"
+			}
+		],
+		"史拉蓝蟾": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Blue Slaad.webp"
+			}
+		],
+		"兽人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Orc.webp"
+			}
+		],
+		"卓尔精英武者": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Drow Elite Warrior.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Drow Elite Warrior (Variant 1).webp"
+			}
+		],
+		"燃焰之颅": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Flameskull.webp"
+			}
+		],
+		"呋噜": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Flumph.webp"
+			}
+		],
+		"废陋巨人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Fomorian.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"石人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Galeb Duhr.webp"
+			}
+		],
+		"吉斯洋基骑士": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Githyanki Knight.webp"
+			}
+		],
+		"吉斯洋基武者": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Githyanki Warrior.webp"
+			}
+		],
+		"地精头目": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Goblin Boss.webp"
+			}
+		],
+		"史拉灰蟾": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Gray Slaad.webp"
+			}
+		],
+		"史拉绿蟾": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Green Slaad.webp"
+			}
+		],
+		"触须怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Grell.webp"
+			}
+		],
+		"阿尔法穴居攫怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Grick Alpha.webp"
+			}
+		],
+		"大法师": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Archmage.webp"
+			}
+		],
+		"恐怖铠甲": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Helmed Horror.webp"
+			}
+		],
+		"恐爪怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Hook Horror.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"噬脑怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Intellect Devourer.webp"
+			}
+		],
+		"克拉肯": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Kraken.webp"
+			}
+		],
+		"毒虫罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Mezzoloth.webp"
+			}
+		],
+		"夺心魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Mind Flayer.webp"
+			}
+		],
+		"枯针怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Needle Blight.webp"
+			}
+		],
+		"诺斯怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Nothic.webp"
+			}
+		],
+		"征伐罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Nycaloth.webp"
+			}
+		],
+		"幽邃熊怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Quaggoth.webp"
+			}
+		],
+		"幽邃熊怪·索诺祭司": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Quaggoth Thonot.webp"
+			}
+		],
+		"史拉红蟾": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Red Slaad.webp"
+			}
+		],
+		"百足魔兽": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Remorhaz.webp"
+			}
+		],
+		"灰矮人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Duergar.webp"
+			}
+		],
+		"史拉蟾蝌蚪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Slaad Tadpole.webp"
+			}
+		],
+		"观察者眼魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Spectator.webp"
+			}
+		],
+		"穴蜥人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Troglodyte.webp"
+			}
+		],
+		"枯枝怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Twig Blight.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Twig Blight (Variant 1).webp"
+			}
+		],
+		"掘土巨怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Umber Hulk.webp"
+			}
+		],
+		"水诡": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Water Weird.webp"
+			}
+		],
+		"蜡融妖": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Yochlol.webp"
+			}
+		],
+		"石绳怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Roper.webp"
+			}
+		],
+		"邪教徒": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Cultist.webp"
+			}
+		],
+		"幽魂": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ghost.webp"
+			}
+		],
+		"尸妖": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Wight.webp"
+			}
+		],
+		"土元素": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Earth Elemental.webp"
+			}
+		],
+		"底栖魔鱼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Aboleth.webp"
+			}
+		],
+		"木乃伊": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Mummy.webp"
+			}
+		],
+		"穴居攫怪": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Grick.webp"
+			}
+		],
+		"邪教狂信者": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Cult Fanatic.webp"
+			}
+		],
+		"巨蜘蛛": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Spider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青足龙蛇": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Behir.webp"
+			}
+		],
+		"赭果冻": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ochre Jelly.webp"
+			}
+		],
+		"山羊": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Goat.webp"
+			}
+		],
+		"狼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Wolf.webp"
+			}
+		],
+		"构装盾卫": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Shield Guardian.webp"
+			}
+		],
+		"枭熊": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Owlbear.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/MM/Owlbear (Variant 1).webp"
+			}
+		],
+		"冰魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ice Devil.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蜥蜴人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Lizardfolk.webp"
+			}
+		],
+		"鹫魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Vrock.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火元素": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Fire Elemental.webp"
+			}
+		],
+		"鼠群": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Swarm of Rats.webp"
+			}
+		],
+		"吸血鬼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Vampire.webp"
+			}
+		],
+		"凌空剑": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Flying Sword.webp"
+			}
+		],
+		"独角兽": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Unicorn.webp"
+			}
+		],
+		"泰拉斯奎": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Tarrasque.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"恶鬼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Oni.webp"
+			}
+		],
+		"树人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Treant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"祭司": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Priest.webp"
+			}
+		],
+		"深狱炼魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Pit Fiend.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古蓝龙": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ancient Blue Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨蝙蝠": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Bat.webp"
+			}
+		],
+		"木乃伊领主": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Mummy Lord.webp"
+			}
+		],
+		"魅魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Succubus.webp"
+			}
+		],
+		"气元素": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Air Elemental.webp"
+			}
+		],
+		"小魔鬼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Imp.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"六臂蛇魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Marilith.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"渡鸦群": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Swarm of Ravens.webp"
+			}
+		],
+		"猫": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Cat.webp",
+				"scaleCorrection": 1,
+				"scale": 0.7
+			}
+		],
+		"闪现犬": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Blink Dog.webp"
+			}
+		],
+		"巨蛙": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Giant Frog.webp"
+			}
+		],
+		"罗刹": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Rakshasa.webp"
+			}
+		],
+		"猬魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Barbed Devil.webp"
+			}
+		],
+		"绿鬼婆": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Green Hag.webp"
+			}
+		],
+		"史拉亡蟾": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Death Slaad.webp"
+			}
+		],
+		"异界神侍": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Planetar.webp"
+			}
+		],
+		"土巨灵": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Dao.webp"
+			}
+		],
+		"死亡骑士": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Death Knight.webp"
+			}
+		],
+		"天神使徒": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Deva.webp"
+			}
+		],
+		"梦魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Incubus.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"水巨灵": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Marid.webp"
+			}
+		],
+		"铁魔像": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Iron Golem.webp"
+			}
+		],
+		"半羊人": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Satyr.webp"
+			}
+		],
+		"石魔像": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Stone Golem.webp"
+			}
+		],
+		"食人鱼群": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Swarm of Quippers.png"
+			}
+		],
+		"巴洛炎魔": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Balor.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古红龙": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Ancient Red Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"夜鬼婆": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Night Hag.webp"
+			}
+		],
+		"初生吸血鬼": [
+			{
+				"path": "img/bestiary/token-subjects/MM/Vampire Spawn.webp"
+			}
+		]
+	},
+	"PaBTSO": {
+		"格温·奥雷松": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Gwyn Oresong.webp"
+			}
+		],
+		"被感染的镇民": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Infected Townsperson.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Infected Townsperson (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Infected Townsperson (Variant 2).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Infected Townsperson (Variant 3).webp"
+			}
+		],
+		"畸变狂热者": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Aberrant Zealot.webp"
+			}
+		],
+		"灰烬丧尸": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Ash Zombie.webp"
+			}
+		],
+		"碎脑者": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Brain Breaker.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"奇希尼克斯": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Chishinix.webp"
+			}
+		],
+		"夺心魔洞见者": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Mind Flayer Clairvoyant.webp"
+			}
+		],
+		"斗篷怪异变体": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Cloaker Mutate.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"矮人骷髅": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Dwarf Skeleton.webp"
+			}
+		],
+		"感染的长老大脑": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Infected Elder Brain.webp"
+			}
+		],
+		"髓脑聚簇体": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Encephalon Cluster.webp"
+			}
+		],
+		"凶残灰烬尸妖": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Feral Ashenwight.webp"
+			}
+		],
+		"邪魔钻机": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Fiendish Auger.webp"
+			}
+		],
+		"血肉融骸": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Flesh Meld.webp"
+			}
+		],
+		"髓脑芽生体": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Encephalon Gemmule.webp"
+			}
+		],
+		"地精灵斗士": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Goblin Psi Brawler.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Goblin Psi Brawler (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Goblin Psi Brawler (Variant 2).webp"
+			}
+		],
+		"地精控灵师": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Goblin Psi Commander.webp"
+			}
+		],
+		"触须怪心灵感应者": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Grell Psychic.webp"
+			}
+		],
+		"刚铎·寻岩者": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Gundren Rockseeker.webp"
+			}
+		],
+		"哈舒图": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Hashutu.webp"
+			}
+		],
+		"霍尔达克·空盔": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Hjoldak Hollowhelm.webp"
+			}
+		],
+		"霍娜": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Honna.webp"
+			}
+		],
+		"类人异变体": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Humanoid Mutate.webp"
+			}
+		],
+		"伊阿尔诺 \"光杖\" 阿尔布雷克": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Iarno Glasstaff Albrek.webp"
+			}
+		],
+		"伊尔瓦什的折射体": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Refraction of Ilvaash.webp"
+			}
+		],
+		"思维黑阱": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Intellect Snare.webp"
+			}
+		],
+		"夺心魔预见师": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Mind Flayer Prophet.webp"
+			}
+		],
+		"缚灵·墨梅斯克": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Mormesk the Wraith.webp"
+			}
+		],
+		"涅兹纳尔·蜘蛛": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Nezznar the Spider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"灵吸怪诺斯怪": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Mind Flayer Nothic.webp"
+			}
+		],
+		"融目眼魔": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Oculorb.webp"
+			}
+		],
+		"翁塔瑞克斯": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Ontharyx.webp"
+			}
+		],
+		"奥顺多·阿尔胡恩": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Oshundo the Alhoon.webp"
+			}
+		],
+		"食腐兽异变体": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Otyugh Mutate.webp"
+			}
+		],
+		"灵能灰烬尸妖": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Psionic Ashenwight.webp"
+			}
+		],
+		"Qunbraxel": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Qunbraxel.webp"
+			}
+		],
+		"红标帮恶霸": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Redbrand Ruffian.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Redbrand Ruffian (Variant 1).webp"
+			}
+		],
+		"瑞维比德尔": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Rivibiddel.webp"
+			}
+		],
+		"鲁克西斯·天选者": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Ruxithid the Chosen.webp"
+			}
+		],
+		"奇希尼克斯的头部": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Chishinix' Head.webp"
+			}
+		],
+		"沙尔菲·卢温": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Shalfi Lewin.webp"
+			}
+		],
+		"Voalsh": [
+			{
+				"path": "img/bestiary/token-subjects/PaBTSO/Voalsh.webp"
+			}
+		]
+	},
+	"FTD": {
+		"青年紫晶龙": [
+			{
+				"path": "img/bestiary/token-subjects/FTD/Young Amethyst Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		]
+	},
+	"TCE": {
+		"人工生命仆从": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Homunculus Servant.webp",
+				"scaleCorrection": 1,
+				"scale": 0.8
+			}
+		],
+		"成年红龙巫妖": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Adult Red Dracolich.webp"
+			}
+		],
+		"幼体拟身怪": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Juvenile Mimic.webp"
+			}
+		],
+		"野兽灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Bestial Spirit.webp"
+			}
+		],
+		"琉克欧的非凡机仆": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Mighty Servant of Leuk-o.webp"
+			}
+		],
+		"大地野兽": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Beast of the Land.webp"
+			}
+		],
+		"钢铁守卫": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Steel Defender.webp"
+			}
+		],
+		"野火精魂": [
+			{
+				"path": "img/bestiary/token-subjects/TCE/Wildfire Spirit.webp"
+			}
+		]
+	},
+	"MPMM": {
+		"星之子蠕虫法师": [
+			{
+				"path": "img/bestiary/token-subjects/MPMM/Star Spawn Larva Mage.webp"
+			}
+		]
+	},
+	"XMM": {
+		"吉斯洋基武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Githyanki Warrior.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鸟羽人风舞术师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Aarakocra Aeromancer.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鸟羽人翔空士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Aarakocra Skirmisher.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"异怪邪教徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Aberrant Cultist.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"底栖魔鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Aboleth.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨恶雪怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Abominable Yeti.webp"
+			}
+		],
+		"成年黑龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Black Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年蓝龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Blue Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年黄铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Brass Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年青铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Bronze Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年赤铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Copper Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年金龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Gold Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年绿龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Green Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年红龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Red Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"成年银龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult Silver Dragon.webp"
+			}
+		],
+		"成年白龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Adult White Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"气元素": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Air Elemental.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"异特龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Allosaurus.webp"
+			}
+		],
+		"远古黑龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Black Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古蓝龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Blue Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古黄铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Brass Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古青铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Bronze Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古赤铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Copper Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古金龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Gold Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古绿龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Green Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古红龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Red Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"远古银龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient Silver Dragon.webp"
+			}
+		],
+		"远古白龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ancient White Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"兽主": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animal Lord.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animal Lord (Variant 1).webp"
+			}
+		],
+		"活化盔甲": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animated Armor.webp"
+			}
+		],
+		"活化扫帚": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animated Broom.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animated Broom (Variant 1).webp"
+			}
+		],
+		"活化凌空剑": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animated Flying Sword.webp"
+			}
+		],
+		"活化闷人毯": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Animated Rug of Smothering.webp"
+			}
+		],
+		"掘地虫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ankheg.webp"
+			}
+		],
+		"甲龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ankylosaurus.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"猿": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ape.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ape (Variant 1).webp"
+			}
+		],
+		"奥法罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Arcanaloth.webp"
+			}
+		],
+		"帝龟": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Archelon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"大鬼婆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Arch-hag.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Arch-hag (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"大法师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Archmage.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"大祭司": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Archpriest.webp"
+			}
+		],
+		"刺客": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Assassin.webp"
+			}
+		],
+		"启蒙灌木": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Awakened Shrub.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Awakened Shrub (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Awakened Shrub (Variant 2).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Awakened Shrub (Variant 3).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Awakened Shrub (Variant 4).webp"
+			}
+		],
+		"启蒙树木": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Awakened Tree.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"斧嘴鸟": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Axe Beak.webp"
+			}
+		],
+		"火矮人烈炎术师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Azer Pyromancer.webp"
+			}
+		],
+		"火矮人哨兵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Azer Sentinel.webp"
+			}
+		],
+		"狒狒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Baboon.webp"
+			}
+		],
+		"獾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Badger.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Badger (Variant 1).webp"
+			}
+		],
+		"巴洛炎魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Balor.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"匪徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bandit.webp"
+			}
+		],
+		"匪徒首领": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bandit Captain.webp"
+			}
+		],
+		"匪帮祸首": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bandit Crime Lord.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"匪帮欺诈师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bandit Deceiver.webp"
+			}
+		],
+		"报丧妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Banshee.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Banshee (Variant 1).webp"
+			}
+		],
+		"猬魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Barbed Devil.webp"
+			}
+		],
+		"恶猿魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Barlgura.webp"
+			}
+		],
+		"石化蜥蜴": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Basilisk.webp"
+			}
+		],
+		"蝙蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bat.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bat (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"须魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bearded Devil.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青足龙蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Behir.webp"
+			}
+		],
+		"眼魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Beholder.webp"
+			}
+		],
+		"眼魔丧尸": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Beholder Zombie.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"狂战士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Berserker.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Berserker (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Berserker (Variant 2).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Berserker (Variant 3).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"狂战将": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Berserker Commander.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"黑熊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Black Bear.webp"
+			}
+		],
+		"黑龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Black Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"黑布丁": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Black Pudding.webp"
+			}
+		],
+		"闪现犬": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Blink Dog.webp"
+			}
+		],
+		"吞世黏浆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Blob of Annihilation.webp"
+			}
+		],
+		"血鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Blood Hawk.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蓝龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Blue Dragon Wyrmling.webp"
+			}
+		],
+		"史拉蓝蟾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Blue Slaad.webp"
+			}
+		],
+		"野猪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Boar.webp"
+			}
+		],
+		"骨魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bone Devil.webp"
+			}
+		],
+		"骸骨纳迦": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bone Naga.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"黄铜龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Brass Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"焚化铜牛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Brazen Gorgon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青铜龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bronze Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"棕熊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Brown Bear.webp"
+			}
+		],
+		"熊地精追猎者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bugbear Stalker.webp"
+			}
+		],
+		"熊地精武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bugbear Warrior.webp"
+			}
+		],
+		"鲨蜥": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bulette.webp"
+			}
+		],
+		"鲨蜥仔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bulette Pup.webp"
+			}
+		],
+		"啵灵蛙沼地大贤": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bullywug Bog Sage.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"啵灵蛙武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Bullywug Warrior.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"坎比翁": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cambion.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cambion (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"骆驼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Camel.webp"
+			}
+		],
+		"食腐虫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Carrion Crawler.webp"
+			}
+		],
+		"猫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cat.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cat (Variant 1).webp"
+			}
+		],
+		"人马骠骑": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Centaur Trooper.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"人马守望者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Centaur Warden.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"链魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Chain Devil.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"喀嘶魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Chasme.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"奇美拉": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Chimera.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"甲伏怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Chuul.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"粘土魔像": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Clay Golem.webp"
+			}
+		],
+		"斗篷怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cloaker.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"云巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cloud Giant.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cloud Giant (Variant 1).webp"
+			}
+		],
+		"蛇鸡": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cockatrice.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蛇鸡王": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cockatrice Regent.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨神兵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Colossus.webp"
+			}
+		],
+		"平民": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Commoner.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Commoner (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Commoner (Variant 2).webp"
+			}
+		],
+		"蟒蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Constrictor Snake.webp"
+			}
+		],
+		"赤铜龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Copper Dragon Wyrmling.webp"
+			}
+		],
+		"羽蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Couatl.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蟹": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Crab.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蠕行之爪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Crawling Claw.webp"
+			}
+		],
+		"鳄鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Crocodile.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Crocodile (Variant 1).webp"
+			}
+		],
+		"邪教徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cultist.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"邪教狂信者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cultist Fanatic.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cultist Fanatic (Variant 1).webp"
+			}
+		],
+		"邪教教宗": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cultist Hierophant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"独眼巨人先知": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cyclops Oracle.webp"
+			}
+		],
+		"独眼巨人哨卫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Cyclops Sentry.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"土巨灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dao.webp"
+			}
+		],
+		"暗幕魔兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Darkmantle.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"死亡邪教徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Death Cultist.webp"
+			}
+		],
+		"亡命恶犬": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Death Dog.webp"
+			}
+		],
+		"死亡骑士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Death Knight.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"死亡骑士志从": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Death Knight Aspirant.webp"
+			}
+		],
+		"史拉亡蟾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Death Slaad.webp"
+			}
+		],
+		"亡眼暴君": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Death Tyrant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鹿": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Deer.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"半巫妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Demilich.webp"
+			}
+		],
+		"天神使徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Deva.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"恐狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dire Wolf.webp"
+			}
+		],
+		"恐座狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dire Worg.webp"
+			}
+		],
+		"移位兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Displacer Beast.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"气巨灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Djinni.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"变形怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Doppelganger.webp"
+			}
+		],
+		"龙巫妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dracolich.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"驮用马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Draft Horse.webp"
+			}
+		],
+		"龙龟": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dragon Turtle.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"怯魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dretch.webp"
+			}
+		],
+		"蛛化卓尔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Drider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"德鲁伊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Druid.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Druid (Variant 1).webp"
+			}
+		],
+		"树精": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dryad.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dryad (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"尘魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Dust Mephit.webp"
+			}
+		],
+		"鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Eagle.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"土元素": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Earth Elemental.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火巨灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Efreeti.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"元初天劫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Elemental Cataclysm.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"元素邪教徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Elemental Cultist.webp"
+			}
+		],
+		"赤鹿": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Elk.webp"
+			}
+		],
+		"至高天": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Empyrean.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"至高天微尘": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Empyrean Iota.webp"
+			}
+		],
+		"罪魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Erinyes.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"伊特怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ettercap.webp"
+			}
+		],
+		"双头巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ettin.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"妖精龙成体": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Faerie Dragon Adult.webp"
+			}
+		],
+		"妖精龙青年体": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Faerie Dragon Youth.webp"
+			}
+		],
+		"邪魔邪教徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fiend Cultist.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fiend Cultist (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火元素": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fire Elemental.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fire Giant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fire Giant (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"燃焰之颅": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flameskull.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flameskull (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flameskull (Variant 2).webp"
+			}
+		],
+		"燃火骷髅": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flaming Skeleton.webp"
+			}
+		],
+		"血肉魔像": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flesh Golem.webp"
+			}
+		],
+		"呋噜": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flumph.webp"
+			}
+		],
+		"飞蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Flying Snake.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"废陋巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fomorian.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Fomorian (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青蛙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Frog.webp"
+			}
+		],
+		"霜巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Frost Giant.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Frost Giant (Variant 1).webp"
+			}
+		],
+		"石人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Galeb Duhr.webp"
+			}
+		],
+		"石像鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gargoyle.webp"
+			}
+		],
+		"气孢菌": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gas Spore Fungus.webp"
+			}
+		],
+		"凝胶方块": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gelatinous Cube.webp"
+			}
+		],
+		"妖鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ghast.webp"
+			}
+		],
+		"妖鬼坟语者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ghast Gravecaller.webp"
+			}
+		],
+		"幽魂": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ghost.webp"
+			}
+		],
+		"食尸鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ghoul.webp"
+			}
+		],
+		"巨猿": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Ape.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨斧嘴鸟": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Axe Beak.webp"
+			}
+		],
+		"巨獾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Badger.webp"
+			}
+		],
+		"巨蝙蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Bat.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"巨野猪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Boar.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨蜈蚣": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Centipede.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨蟒蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Constrictor Snake.webp"
+			}
+		],
+		"巨蟹": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Crab.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨鳄": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Crocodile.webp"
+			}
+		],
+		"巨鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Eagle.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨赤鹿": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Elk.webp"
+			}
+		],
+		"巨火甲虫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Fire Beetle.webp"
+			}
+		],
+		"巨蛙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Frog.webp"
+			}
+		],
+		"巨山羊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Goat.webp"
+			}
+		],
+		"巨鬣狗": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Hyena.webp"
+			}
+		],
+		"巨蜥": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Lizard.webp"
+			}
+		],
+		"巨章鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Octopus.webp"
+			}
+		],
+		"巨猫头鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Owl.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Owl (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Owl (Variant 2).webp"
+			}
+		],
+		"巨鼠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Rat.webp"
+			}
+		],
+		"巨蝎": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Scorpion.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨海马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Seahorse.webp"
+			}
+		],
+		"巨鲨": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Shark.webp"
+			}
+		],
+		"巨蜘蛛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Spider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Spider (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨乌贼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Squid.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨蟾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Toad.webp"
+			}
+		],
+		"巨毒蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Venomous Snake.webp"
+			}
+		],
+		"巨秃鹫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Vulture.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨黄蜂": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Wasp.webp"
+			}
+		],
+		"巨鼬": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Weasel.webp"
+			}
+		],
+		"巨狼蛛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Giant Wolf Spider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"呓语之口": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gibbering Mouther.webp"
+			}
+		],
+		"吉斯洋基龙巫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Githyanki Dracomancer.webp"
+			}
+		],
+		"吉斯洋基骑士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Githyanki Knight.webp"
+			}
+		],
+		"吉斯泽莱武僧": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Githzerai Monk.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"吉斯泽莱灵能使": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Githzerai Psion.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"吉斯泽莱泽锡修士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Githzerai Zerth.webp"
+			}
+		],
+		"迷诱魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Glabrezu.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"角斗士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gladiator.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鬣狗人魔头": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gnoll Demoniac.webp"
+			}
+		],
+		"鬣狗人·耶诺古毒牙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gnoll Fang of Yeenoghu.webp"
+			}
+		],
+		"鬣狗人头领": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gnoll Pack Lord.webp"
+			}
+		],
+		"鬣狗人武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gnoll Warrior.webp"
+			}
+		],
+		"山羊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Goat.webp"
+			}
+		],
+		"地精头目": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Goblin Boss.webp"
+			}
+		],
+		"地精咒术师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Goblin Hexer.webp"
+			}
+		],
+		"地精喽啰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Goblin Minion.webp"
+			}
+		],
+		"地精武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Goblin Warrior.webp"
+			}
+		],
+		"金龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gold Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"石化铁牛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gorgon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨牛魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Goristro.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"还魂鬼山": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Graveyard Revenant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"灰泥怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gray Ooze.webp"
+			}
+		],
+		"史拉灰蟾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gray Slaad.webp"
+			}
+		],
+		"绿龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Green Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"绿鬼婆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Green Hag.webp"
+			}
+		],
+		"史拉绿蟾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Green Slaad.webp"
+			}
+		],
+		"触须怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Grell.webp"
+			}
+		],
+		"穴居攫怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Grick.webp"
+			}
+		],
+		"远古穴居攫怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Grick Ancient.webp"
+			}
+		],
+		"狮鹫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Griffon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"幽邃盲族": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Grimlock.webp"
+			}
+		],
+		"警卫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Guard.webp"
+			}
+		],
+		"警卫队长": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Guard Captain.webp"
+			}
+		],
+		"守秘纳迦": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Guardian Naga.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"甘提亚斯枯殖巨树": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Gulthias Blight.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"半龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Half-Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鸟妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Harpy.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"还魂巨构": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Haunting Revenant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"隼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hawk.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"地狱猎犬": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hell Hound.webp"
+			}
+		],
+		"恐怖铠甲": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Helmed Horror.webp"
+			}
+		],
+		"狂蟾魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hezrou.webp"
+			}
+		],
+		"山丘巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hill Giant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hill Giant (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"骏鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hippogriff.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"河马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hippopotamus.webp"
+			}
+		],
+		"大地精长官": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hobgoblin Captain.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"大地精军阀": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hobgoblin Warlord.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"大地精武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hobgoblin Warrior.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"人工生命体": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Homunculus.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Homunculus (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Homunculus (Variant 2).webp"
+			}
+		],
+		"恐爪怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hook Horror.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"角魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Horned Devil.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"寻猎鲨": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hunter Shark.webp"
+			}
+		],
+		"多头蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hydra.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鬣狗": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Hyena.webp"
+			}
+		],
+		"冰魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ice Devil.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"冰魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ice Mephit.webp"
+			}
+		],
+		"小魔鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Imp.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"梦魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Incubus.webp"
+			}
+		],
+		"噬脑怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Intellect Devourer.webp"
+			}
+		],
+		"隐形追猎者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Invisible Stalker.webp"
+			}
+		],
+		"铁魔像": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Iron Golem.webp"
+			}
+		],
+		"胡狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Jackal.webp"
+			}
+		],
+		"化形胡狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Jackalwere.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Jackalwere (Variant 1).webp"
+			}
+		],
+		"少年幽影龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Juvenile Shadow Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"天狗": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kenku.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"虎鲸": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Killer Whale.webp"
+			}
+		],
+		"骑士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Knight.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"狗头人武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kobold Warrior.webp"
+			}
+		],
+		"克拉肯": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kraken.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"寇涛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kuo-toa.webp"
+			}
+		],
+		"寇涛大祭司": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kuo-toa Archpriest.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"寇涛监察者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kuo-toa Monitor.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"寇涛驱策者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Kuo-toa Whip.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"食尸水鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lacedon Ghoul.webp"
+			}
+		],
+		"拉迷亚": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lamia.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"幼虫魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Larva.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Larva (Variant 1).webp"
+			}
+		],
+		"劣魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lemure.webp"
+			}
+		],
+		"巫妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lich.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蜥蜴": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lizard.webp"
+			}
+		],
+		"蜥蜴人地脉术师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lizardfolk Geomancer.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蜥蜴人大王": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lizardfolk Sovereign.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔法师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mage.webp"
+			}
+		],
+		"魔法学徒": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mage Apprentice.webp"
+			}
+		],
+		"熔岩魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Magma Mephit.webp"
+			}
+		],
+		"火童": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Magmin.webp"
+			}
+		],
+		"猛犸": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mammoth.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"原魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Manes.webp"
+			}
+		],
+		"原魔汽化体": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Manes Vaporspawn.webp"
+			}
+		],
+		"刺尾狮": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Manticore.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"水巨灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Marid.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"六臂蛇魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Marilith.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"獒犬": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mastiff.webp"
+			}
+		],
+		"美杜莎": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Medusa.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Medusa (Variant 1).webp"
+			}
+		],
+		"巡海人鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Merfolk Skirmisher.webp"
+			}
+		],
+		"御浪人鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Merfolk Wavebender.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"迈罗人鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Merrow.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"毒虫罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mezzoloth.webp"
+			}
+		],
+		"拟身怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mimic.webp"
+			}
+		],
+		"夺心魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mind Flayer.webp"
+			}
+		],
+		"夺心魔奥术师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mind Flayer Arcanist.webp"
+			}
+		],
+		"巴弗灭的牛头人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Minotaur of Baphomet.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"骷髅牛头人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Minotaur Skeleton.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔冢·二元冢": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Modron Duodrone.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔冢·单元冢": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Modron Monodrone.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔冢·五元冢": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Modron Pentadrone.webp"
+			}
+		],
+		"魔冢·四元冢": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Modron Quadrone.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔冢·三元冢": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Modron Tridrone.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"泥魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mud Mephit.webp"
+			}
+		],
+		"骡子": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mule.webp"
+			}
+		],
+		"木乃伊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mummy.webp"
+			}
+		],
+		"木乃伊领主": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Mummy Lord.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蕈人成体": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Adult.webp"
+			}
+		],
+		"蕈人王": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Sovereign.webp"
+			}
+		],
+		"蕈人孢子奴仆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Spore Servant.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Spore Servant (Variant 1).webp"
+			}
+		],
+		"蕈人幼体": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Sprout.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Sprout (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Sprout (Variant 2).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Myconid Sprout (Variant 3).webp"
+			}
+		],
+		"判魂魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Nalfeshnee.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"枯针怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Needle Blight.webp"
+			}
+		],
+		"夜鬼婆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Night Hag.webp"
+			}
+		],
+		"梦魇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Nightmare.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Nightmare (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Nightmare (Variant 2).webp"
+			}
+		],
+		"贵族": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Noble.webp"
+			}
+		],
+		"贵血天骄": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Noble Prodigy.webp"
+			}
+		],
+		"诺斯怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Nothic.webp"
+			}
+		],
+		"征伐罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Nycaloth.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"赭果冻": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ochre Jelly.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ochre Jelly (Variant 1).webp"
+			}
+		],
+		"章鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Octopus.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Octopus (Variant 1).webp"
+			}
+		],
+		"食人魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ogre.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"食人魔僵尸": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ogre Zombie.webp"
+			}
+		],
+		"半食人魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ogrillon Ogre.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"恶鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Oni.webp"
+			}
+		],
+		"食腐兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Otyugh.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"猫头鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Owl.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Owl (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Owl (Variant 2).webp"
+			}
+		],
+		"枭熊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Owlbear.webp"
+			}
+		],
+		"黑豹": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Panther.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"天马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pegasus.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"演艺者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer (Variant 2).webp"
+			}
+		],
+		"演艺传奇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer Legend.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer Legend (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer Legend (Variant 2).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"演艺尊师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Performer Maestro.webp"
+			}
+		],
+		"鹿鹰": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Peryton.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"相位蜘蛛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Phase Spider.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"石锥怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Piercer.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"食人鱼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Piranha.webp"
+			}
+		],
+		"海盗": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pirate.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"海盗将军": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pirate Admiral.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"海盗船长": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pirate Captain.webp"
+			}
+		],
+		"深狱炼魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pit Fiend.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"皮克精": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pixie.webp"
+			}
+		],
+		"皮克妙妙精": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pixie Wonderbringer.webp"
+			}
+		],
+		"异界神侍": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Planetar.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蛇颈龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Plesiosaurus.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"白熊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Polar Bear.webp"
+			}
+		],
+		"骚灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Poltergeist.webp"
+			}
+		],
+		"矮种马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pony.webp"
+			}
+		],
+		"祭司": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Priest.webp"
+			}
+		],
+		"侍祭僧侣": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Priest Acolyte.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Priest Acolyte (Variant 1).webp"
+			}
+		],
+		"原初枭熊": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Primeval Owlbear.webp"
+			}
+		],
+		"伪龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pseudodragon.webp"
+			}
+		],
+		"灵能灰泥怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Psychic Gray Ooze.webp"
+			}
+		],
+		"翼龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Pteranodon.webp"
+			}
+		],
+		"紫虫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Purple Worm.webp"
+			}
+		],
+		"幽邃熊怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Quaggoth.webp"
+			}
+		],
+		"幽邃熊怪·索诺祭司": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Quaggoth Thonot.webp"
+			}
+		],
+		"小恶魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Quasit.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Quasit (Variant 1).webp"
+			}
+		],
+		"天命骑士": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Questing Knight.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"罗刹": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Rakshasa.webp"
+			}
+		],
+		"老鼠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Rat.webp"
+			}
+		],
+		"渡鸦": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Raven.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Raven (Variant 1).webp"
+			}
+		],
+		"红龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Red Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"史拉红蟾": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Red Slaad.webp"
+			}
+		],
+		"礁鲨": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Reef Shark.webp"
+			}
+		],
+		"百足魔兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Remorhaz.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"还魂鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Revenant.webp"
+			}
+		],
+		"犀牛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Rhinoceros.webp"
+			}
+		],
+		"乘用马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Riding Horse.webp"
+			}
+		],
+		"鹏鸟": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Roc.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"石绳怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Roper.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"锈蚀怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Rust Monster.webp"
+			}
+		],
+		"剑齿虎": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Saber-Toothed Tiger.webp"
+			}
+		],
+		"鲨华男爵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sahuagin Baron.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鲨华祭司": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sahuagin Priest.webp"
+			}
+		],
+		"鲨华武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sahuagin Warrior.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火蜥蜴": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Salamander.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火蜥蜴火蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Salamander Fire Snake.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"火蜥蜴炎狱之主": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Salamander Inferno Master.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"半羊人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Satyr.webp"
+			}
+		],
+		"半羊人欢庆之主": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Satyr Revelmaster.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"稻草人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Scarecrow.webp"
+			}
+		],
+		"蝎子": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Scorpion.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"斥候": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Scout.webp"
+			}
+		],
+		"斥候队长": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Scout Captain.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"海鬼婆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sea Hag.webp"
+			}
+		],
+		"海马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Seahorse.webp"
+			}
+		],
+		"幽影": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Shadow.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"幽影恶魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Shadow Demon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"幽影龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Shadow Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蔓生怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Shambling Mound.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"构装盾卫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Shield Guardian.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"尖叫菌": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Shrieker Fungus.webp"
+			}
+		],
+		"银龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Silver Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"史拉蟾蝌蚪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Slaad Tadpole.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Slaad Tadpole (Variant 1).webp"
+			}
+		],
+		"烟魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Smoke Mephit.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"炽天神侍": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Solar.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"观察者眼魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spectator.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"恶灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Specter.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Specter (Variant 1).webp"
+			}
+		],
+		"晓谕斯芬克斯": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sphinx of Lore.webp"
+			}
+		],
+		"隐秘斯芬克斯": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sphinx of Secrets.webp"
+			}
+		],
+		"勇气斯芬克斯": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sphinx of Valor.webp"
+			}
+		],
+		"求索斯芬克斯": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sphinx of Wonder.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sphinx of Wonder (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蜘蛛": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spider.webp"
+			}
+		],
+		"棘魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spined Devil.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spined Devil (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spined Devil (Variant 2).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"阴魂纳迦": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spirit Naga.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"小仙灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sprite.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sprite (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sprite (Variant 2).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Sprite (Variant 3).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"间谍": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spy.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spy (Variant 1).webp"
+			}
+		],
+		"间谍大师": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spy Master.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Spy Master (Variant 1).webp"
+			}
+		],
+		"蒸汽魔蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Steam Mephit.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蚊蝠": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Stirge.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"石巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Stone Giant.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Stone Giant (Variant 1).webp"
+			}
+		],
+		"石魔像": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Stone Golem.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"风暴巨人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Storm Giant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魅魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Succubus.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Succubus (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蝙蝠群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Bats.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蠕行之爪集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Crawling Claws.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"怯魔集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Dretches.webp"
+			}
+		],
+		"昆虫集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Insects.webp"
+			}
+		],
+		"幼虫魔集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Larvae.webp"
+			}
+		],
+		"劣魔集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Lemures.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"食人鱼集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Piranhas.webp"
+			}
+		],
+		"鼠群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Rats.webp"
+			}
+		],
+		"渡鸦群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Ravens.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蚊蝠集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Stirges.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"毒蛇集群": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Swarm of Venomous Snakes.webp"
+			}
+		],
+		"泰拉斯奎": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tarrasque.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tarrasque (Variant 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"螳螂人劫掠者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Thri-kreen Marauder.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"螳螂人灵能使": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Thri-kreen Psion.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"老虎": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tiger.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tiger (Variant 1).webp"
+			}
+		],
+		"健壮": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tough.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"打手老大": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tough Boss.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"树人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Treant.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"枯树怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tree Blight.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"三角龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Triceratops.webp"
+			}
+		],
+		"穴蜥人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Troglodyte.webp"
+			}
+		],
+		"巨魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Troll.webp"
+			}
+		],
+		"巨魔断肢": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Troll Limb.webp"
+			}
+		],
+		"枯枝怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Twig Blight.webp"
+			}
+		],
+		"霸王龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Tyrannosaurus Rex.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"超等罗斯魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Ultroloth.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"掘土巨怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Umber Hulk.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"独角兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Unicorn.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"吸血鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire (Variant 1).webp"
+			}
+		],
+		"血仆": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire Familiar.webp"
+			}
+		],
+		"吸血夜魇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire Nightbringer.webp"
+			}
+		],
+		"初生吸血鬼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire Spawn.webp"
+			}
+		],
+		"吸血鬼暗影尊主": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire Umbral Lord.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire Umbral Lord (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vampire Umbral Lord (Variant 2).webp"
+			}
+		],
+		"毒蛇": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Venomous Snake.webp"
+			}
+		],
+		"枯藤怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vine Blight.webp"
+			}
+		],
+		"紫腐菌": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Violet Fungus.webp"
+			}
+		],
+		"紫腐菌尸聚怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Violet Fungus Necrohulk.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鹫魔": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vrock.webp"
+			}
+		],
+		"秃鹫": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Vulture.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"战马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Warhorse.webp"
+			}
+		],
+		"骷髅战马": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Warhorse Skeleton.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"武将": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Warrior Commander.webp"
+			}
+		],
+		"新晋武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Warrior Infantry.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"历战武者": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Warrior Veteran.webp"
+			}
+		],
+		"水元素": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Water Elemental.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"水诡": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Water Weird.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鼬": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Weasel.webp"
+			}
+		],
+		"熊人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Werebear.webp"
+			}
+		],
+		"野猪人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wereboar.webp"
+			}
+		],
+		"鼠人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wererat.webp"
+			}
+		],
+		"虎人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Weretiger.webp"
+			}
+		],
+		"狼人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Werewolf.webp"
+			}
+		],
+		"白龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/White Dragon Wyrmling.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"尸妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wight.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"鬼火": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Will-o'-Wisp.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Will-o'-Wisp (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Will-o'-Wisp (Variant 2).webp"
+			}
+		],
+		"带翼狗头人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Winged Kobold.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"冬狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Winter Wolf.webp"
+			}
+		],
+		"狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wolf.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wolf (Variant 1).webp"
+			}
+		],
+		"座狼": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Worg.webp"
+			}
+		],
+		"邪灵": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wraith.webp"
+			}
+		],
+		"飞龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Wyvern.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"石鼎兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Xorn.webp"
+			}
+		],
+		"雪怪": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yeti.webp"
+			}
+		],
+		"蜡融妖": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yochlol.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年黑龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Black Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年蓝龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Blue Dragon.webp"
+			}
+		],
+		"青年黄铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Brass Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年青铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Bronze Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年赤铜龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Copper Dragon.webp"
+			}
+		],
+		"青年金龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Gold Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年绿龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Green Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年红龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Red Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年百足魔兽": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Remorhaz.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年银龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young Silver Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"青年白龙": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Young White Dragon.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"憎恶蛇人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yuan-ti Abomination.webp"
+			}
+		],
+		"渗蚀蛇人": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yuan-ti Infiltrator.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yuan-ti Infiltrator (Variant 1).webp"
+			}
+		],
+		"恶咒蛇人（1 型）": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yuan-ti Malison (Type 1).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"恶咒蛇人（2 型）": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yuan-ti Malison (Type 2).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"恶咒蛇人（3 型）": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Yuan-ti Malison (Type 3).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"丧尸": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Zombie.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Zombie (Variant 1).webp"
+			}
+		],
+		"大象": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Elephant.webp"
+			}
+		],
+		"狮子": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Lion.webp"
+			}
+		],
+		"骷髅": [
+			{
+				"path": "img/bestiary/token-subjects/XMM/Skeleton.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XMM/Skeleton (Variant 1).webp"
+			}
+		]
+	},
+	"XPHB": {
+		"大地野兽": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Beast of the Land.webp"
+			}
+		],
+		"海洋野兽": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Beast of the Sea.webp"
+			}
+		],
+		"天空野兽": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Beast of the Sky.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"异怪灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Aberrant Spirit.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Aberrant Spirit (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Aberrant Spirit (Variant 2).webp"
+			}
+		],
+		"野兽灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Bestial Spirit.webp",
+				"scaleCorrection": 2,
+				"scale": 1.3
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Bestial Spirit (Variant 1).webp",
+				"scale": 0.7
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Bestial Spirit (Variant 2).webp",
+				"scale": 0.7
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Bestial Spirit (Variant 3).webp",
+				"scale": 0.7
+			}
+		],
+		"天界灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Celestial Spirit.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Celestial Spirit (Variant 1).webp"
+			}
+		],
+		"构装灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Construct Spirit.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Construct Spirit (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Construct Spirit (Variant 2).webp"
+			}
+		],
+		"元素灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Elemental Spirit.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Elemental Spirit (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Elemental Spirit (Variant 2).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Elemental Spirit (Variant 3).webp"
+			}
+		],
+		"妖精灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Fey Spirit.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Fey Spirit (Variant 1).webp"
+			}
+		],
+		"邪魔灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Fiendish Spirit.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Fiendish Spirit (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Fiendish Spirit (Variant 2).webp"
+			}
+		],
+		"巨虫术": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Giant Insect.webp"
+			}
+		],
+		"活化物件": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Animated Object.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"龙类灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Draconic Spirit.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"异界坐骑": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Otherworldly Steed.webp"
+			}
+		],
+		"亡灵灵魄": [
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Undead Spirit.webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Undead Spirit (Variant 1).webp"
+			},
+			{
+				"path": "img/bestiary/token-subjects/XPHB/Undead Spirit (Variant 2).webp"
+			}
+		]
+	},
+	"XDMG": {
+		"死亡化身": [
+			{
+				"path": "img/bestiary/token-subjects/XDMG/Avatar of Death.webp"
+			}
+		],
+		"巨苍蝇": [
+			{
+				"path": "img/bestiary/token-subjects/XDMG/Giant Fly.webp"
+			}
+		]
+	},
+	"HotB": {
+		"助理牧师": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Curate.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"伊夫利斯": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Ivlis.webp"
+			}
+		],
+		"杰克奥": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Jacko.webp"
+			}
+		],
+		"寇涛劫掠者": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Kuo-toa Marauder.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"蜥蜴人卫士": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Lizardfolk Warden.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"纳瑟斯": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Narthus.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"普拉尔": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Pral.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"文克斯": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Vinx.webp"
+			}
+		],
+		"灰泥球怪": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Gray Ooze Glob.webp"
+			}
+		],
+		"精魄游击兵": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Sprite Skirmisher.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"尸妖饮命者": [
+			{
+				"path": "img/bestiary/token-subjects/HotB/Wight Lifedrinker.webp"
+			}
+		]
+	},
+	"FRAiF": {
+		"成年精魄龙": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Adult Spirit Dragon.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"远古精魄龙": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Ancient Spirit Dragon.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"萨玛斯特（龙巫妖形态）": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Sammaster (Dracolich Form).webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"罗丝的卓尔精英武者": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Drow Elite Warrior of Lolth.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"极地蛇": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Polar Serpent.webp"
+			}
+		],
+		"福法伦女王": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Queen Forfallen.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"锈蚀狂战士": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Rusted Berserker.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"精魄龙雏龙": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Spirit Dragon Wyrmling.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"青年精魄龙": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Young Spirit Dragon.webp",
+				"scaleCorrection": 3,
+				"scale": 3
+			}
+		],
+		"兹兰": [
+			{
+				"path": "img/bestiary/token-subjects/FRAiF/Zlan.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		]
+	},
+	"ToA": {
+		"龙饵": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Dragonbait.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"艾珂内-阿法": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Ekene-Afa.webp"
+			}
+		],
+		"莉尔阿·波提尔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Liara Portyr.webp"
+			}
+		],
+		"四臂巨石像鬼": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Giant Four-Armed Gargoyle.webp"
+			}
+		],
+		"乔巴": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Jobal.webp"
+			}
+		],
+		"库帕鲁艾": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Kupalue.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"巨鳄龟": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Giant Snapping Turtle.webp"
+			}
+		],
+		"斑猫猎人": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Tabaxi Hunter.webp"
+			}
+		],
+		"捕人草": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Mantrap.webp"
+			}
+		],
+		"飞猴": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Flying Monkey.webp"
+			}
+		],
+		"婕萨敏": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Jessamine.webp"
+			}
+		],
+		"依库": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Eku.webp"
+			}
+		],
+		"白矮人精魂武者": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Albino Dwarf Spirit Warrior.webp"
+			}
+		],
+		"苏怪": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Su-monster.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"藏妲拉": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Xandala.webp"
+			}
+		],
+		"怯蕴阿灵": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Chwinga.webp"
+			}
+		],
+		"鲨狗": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Shago.webp"
+			}
+		],
+		"翼手兽": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Pterafolk.webp"
+			}
+		],
+		"卡瓦沙": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Qawasha.webp"
+			}
+		],
+		"绛则": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Zhanthi.webp"
+			}
+		],
+		"萎缩者": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Atropal.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"魔王鹤": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Eblis.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"岩石战车": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Stone Juggernaut.webp"
+			}
+		],
+		"阿图斯·辛贝尔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Artus Cimber.webp"
+			}
+		],
+		"三花株": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Tri-flower Frond.webp"
+			}
+		],
+		"针线先生": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Mister Threadneedle.webp"
+			}
+		],
+		"姆瓦克丝娜瑞": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Mwaxanare.webp"
+			}
+		],
+		"独角兔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Almiraj.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"白矮人武者": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Albino Dwarf Warrior.webp"
+			}
+		],
+		"穆沙瑞卜": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Musharib.webp"
+			}
+		],
+		"阿拉尼（龙虾人）": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Aldani (Lobsterfolk).webp"
+			}
+		],
+		"幻色蛇": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Jaculi.webp"
+			}
+		],
+		"萨莉达": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Salida.webp"
+			}
+		],
+		"斑猫诗人": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Tabaxi Minstrel.webp"
+			}
+		],
+		"瓦康嘎·欧塔姆": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Wakanga O'tamu.webp"
+			}
+		],
+		"阿瑟瑞克": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Acererak.webp"
+			}
+		],
+		"阿莎尔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Asharra.webp"
+			}
+		],
+		"钉包": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Bag of Nails.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"盲眼画家": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Blind Artist.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"博斯科·匕手": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Bosco Daggerhand.webp"
+			}
+		],
+		"粘土角斗士": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Clay Gladiator.webp"
+			}
+		],
+		"德鲁菲": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Drufi.webp"
+			}
+		],
+		"伊洛克·加哈望": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Elok Jaharwon.webp"
+			}
+		],
+		"法鲁尔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Faroul.webp"
+			}
+		],
+		"芬萨札": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Fenthaza.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"酒瓶": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Flask of Wine.webp"
+			}
+		],
+		"四臂猿怪丧尸": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Girallon Zombie.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"冈多洛": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Gondolo.webp"
+			}
+		],
+		"泽腾贝爷爷": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Grandfather Zitembe.webp"
+			}
+		],
+		"休·哈金斯顿": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Hew Hackinstone.webp"
+			}
+		],
+		"翎羽之王": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/King of Feathers.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"拉斯基拉尔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Laskilar.webp"
+			}
+		],
+		"妮博特": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Nepartak.webp"
+			}
+		],
+		"奈尔斯·断骨": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Niles Breakbone.webp"
+			}
+		],
+		"鸥尔忒梅·斯威夫特·达克": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Ortimay Swift and Dark.webp"
+			}
+		],
+		"奥尔威克斯·欧夸玛斯": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Orvex Ocrammas.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"河雾": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/River Mist.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"瑟克洛克": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Sekelok.webp"
+			}
+		],
+		"钥匙骷髅": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Skeleton Key.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"辛德拉·席尔瓦因": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Syndra Silvane.webp"
+			}
+		],
+		"兵马俑": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Terracotta Warrior.webp"
+			}
+		],
+		"陵墓矮人": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Tomb Dwarf.webp"
+			}
+		],
+		"陵墓守卫": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Tomb Guardian.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"瓦琳朵拉·暗影斗篷": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Valindra Shadowmantle.webp"
+			}
+		],
+		"野狗": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Wild Dog.webp"
+			}
+		],
+		"酒诡": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Wine Weird.webp"
+			}
+		],
+		"威瑟斯": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Withers.webp"
+			}
+		],
+		"黄迷香爬藤": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Yellow Musk Creeper.webp"
+			}
+		],
+		"黄迷香丧尸": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Yellow Musk Zombie.webp"
+			}
+		],
+		"蛇人祭司": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Yuan-ti Priest.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"扎尔柯蕊": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Zalkore.webp"
+			}
+		],
+		"扎如姆·艾萨亚克": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Zaroum Al-Saryak.webp"
+			}
+		],
+		"金达尔": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Zindar.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		],
+		"佐博怪": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Zorbo.webp"
+			}
+		],
+		"婀扎卡·风暴之牙": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Azaka Stormfang.webp"
+			}
+		],
+		"六岐蛇豹": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Kamadan.webp"
+			}
+		],
+		"克薇欧泽": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Kwayothe.webp"
+			}
+		],
+		"拉兹·纳斯": [
+			{
+				"path": "img/bestiary/token-subjects/ToA/Ras Nsi.webp",
+				"scaleCorrection": 2,
+				"scale": 2
+			}
+		]
+	}
+}

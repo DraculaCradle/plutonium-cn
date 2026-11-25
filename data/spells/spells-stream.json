@@ -1,0 +1,212 @@
+{
+	"spell": [
+		{
+			"ENG_name": "Enter Mindscape",
+			"name": "进入心灵景观",
+			"source": "Stream",
+			"level": 0,
+			"school": "P",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"entries": [
+				"通过关闭你的正常感官，你将思维延伸到周围的灵能景观中。在持续时间内，你可以使用一个额外动作来感知60英尺锥形区域内生物的存在。你将了解到锥形区域内生物的数量和它们的生物类型。这个法术无法探测亡灵或构造体。",
+				"这个法术能被1英尺厚的石头、1英寸厚的普通金属、薄铅板或3英尺厚的木头或泥土阻挡。",
+				"这个法术的持续时间不会因为受到伤害而结束。"
+			],
+			"areaTags": [
+				"N"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Psion",
+						"name": "灵能使",
+						"source": "Stream"
+					}
+				]
+			}
+		},
+		{
+			"ENG_name": "Mind Fist",
+			"name": "心灵拳击",
+			"source": "Stream",
+			"level": 0,
+			"school": "P",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"你指向射程内你能看到的一个生物，并对其投射一道集中的念力能量束。目标必须成功通过一次力量豁免检定，否则将受到{@damage 1d6}点钝击伤害，并被推向远离你最多15英尺的距离。",
+				"当你达到5级（{@damage 2d6}）、11级（{@damage 3d6}）和17级（{@damage 4d6}）时，这个法术的伤害将增加一个骰子。"
+			],
+			"scalingLevelDice": {
+				"label": "钝击伤害",
+				"scaling": {
+					"1": "1d6",
+					"5": "2d6",
+					"11": "3d6",
+					"17": "4d6"
+				}
+			},
+			"damageInflict": [
+				"bludgeoning"
+			],
+			"savingThrow": [
+				"strength"
+			],
+			"miscTags": [
+				"SCL",
+				"SGT"
+			],
+			"areaTags": [
+				"ST"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Psion",
+						"name": "灵能使",
+						"source": "Stream"
+					}
+				]
+			}
+		},
+		{
+			"ENG_name": "Mind Strike",
+			"name": "心灵打击",
+			"source": "Stream",
+			"level": 0,
+			"school": "P",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [
+				"你指向射程内你能看到的一个生物，一道心灵之箭穿透了它的思维。目标必须成功通过一次智力豁免检定，否则将受到{@damage 1d10}点心灵伤害。",
+				"当你达到5级（{@damage 2d10}）、11级（{@damage 3d10}）和17级（{@damage 4d10}）时，这个法术的伤害将增加一个骰子。"
+			],
+			"scalingLevelDice": {
+				"label": "心灵伤害",
+				"scaling": {
+					"1": "1d10",
+					"5": "2d10",
+					"11": "3d10",
+					"17": "4d10"
+				}
+			},
+			"damageInflict": [
+				"psychic"
+			],
+			"savingThrow": [
+				"intelligence"
+			],
+			"miscTags": [
+				"SCL",
+				"SGT"
+			],
+			"areaTags": [
+				"ST"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Psion",
+						"name": "灵能使",
+						"source": "Stream"
+					}
+				]
+			}
+		},
+		{
+			"ENG_name": "Psychic Step",
+			"name": "灵能跨步",
+			"source": "Stream",
+			"level": 0,
+			"school": "P",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "round",
+						"amount": 1
+					}
+				}
+			],
+			"entries": [
+				"你以微妙的方式改变你身体的组成，使你能够迈出看似不可能的步伐。",
+				"直到你的回合结束，你的速度增加10英尺，你可以在垂直表面上行走而不会坠落。如果你的回合结束时处于这样的表面，你会立即坠落。"
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"ENG_name": "Psion",
+						"name": "灵能使",
+						"source": "Stream"
+					}
+				]
+			}
+		}
+	]
+}
