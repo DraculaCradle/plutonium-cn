@@ -1,0 +1,4 @@
+.ve-popwindow .dnd5e2.sheet.actor.character nav.tabs{z-index:200}
+.ve-popwindow .dnd5e2.sheet.actor.character .sheet-body .main-content{padding-right:2.5rem}
+.ve-popwindow .dnd5e2.sheet.actor.character nav.tabs>.item{border-radius:8px 0 0 8px;margin-left:0;margin-right:0;left:-65%;padding-right:0;padding-left:.75rem;justify-content:start}
+.ve-popwindow .dnd5e2.sheet.actor.character nav.tabs>.item.active,.ve-popwindow .dnd5e2.sheet.actor.character nav.tabs>.item:hover{left:-85%}

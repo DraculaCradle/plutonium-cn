@@ -1,0 +1,1 @@
+@layer modules{@layer plut-optional{:is(#scenes,#scenes-popout) .scene .entry-name{text-align:left;place-content:unset;padding-inline:8px}}}

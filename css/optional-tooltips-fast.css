@@ -1,0 +1,1 @@
+@layer modules{@layer plut-optional{#tooltip{transition:visibility 0s 51ms,opacity 51ms}#tooltip.active{transition:opacity 51ms}}}
