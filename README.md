@@ -16,6 +16,14 @@
 
 最新版：[Releases](https://github.com/DraculaCradle/plutonium-cn/releases)。兼容范围见下方发行说明；“未验证”标记保留此前的实测范围。
 
+## 后续维护与自动发布
+
+修改源码、更新 `module.json` 中的版本号，并同步更新发行说明后，提交到 `main`。GitHub Actions 会检查 JavaScript 语法、打包模块并验证 ZIP，再创建对应版本的 Release，上传 `module.json`、安装包和 SHA-256 校验文件。现有版本的发行附件不会被覆盖。
+
+完整发布清单保存在 `tools/module-files.json`；增加或移除模块文件时一并更新该清单。打包脚本只收录这些模块文件，不包含工作流和维护工具。发布使用 GitHub 自动提供的仓库令牌，无需另外设置个人令牌或服务器密钥。
+
+通过已连接的 GitHub API 即可提交代码；日常更新无需控制维护者电脑，也无需手动向 Foundry 服务器上传文件。
+
 ### Installation
 
 - Install module dependencies:
