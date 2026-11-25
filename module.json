@@ -1,0 +1,134 @@
+{
+  "id": "plutonium-cn",
+  "type": "module",
+  "title": "Plutonium CN — V14 / DND5E 6",
+  "description": "Plutonium 中文兼容版，适配 Foundry VTT 14.370 与 DND5E 6.1.1，同时支持 FVTT 14.369 和 DND5E 6.0.6。包含中文内容、设置汉化、冒险与书籍导入修复、玩家地图命名及中文文档引用编解码修复。",
+  "version": "2.19.7-cn.9",
+  "authors": [
+    {
+      "name": "Giddy",
+      "url": "https://www.patreon.com/Giddy5e",
+      "discord": "giddy_",
+      "flags": {
+        "patreon": "Giddy5e",
+        "github": "TheGiddyLimit"
+      }
+    },
+    {
+      "name": "Kiwee",
+      "flags": {
+        "github": "tjliqy"
+      }
+    }
+  ],
+  "readme": "RELEASE-NOTES.md",
+  "license": "UNLICENSED",
+  "bugs": "https://github.com/DraculaCradle/plutonium-cn/issues",
+  "changelog": "https://github.com/DraculaCradle/plutonium-cn/releases/tag/v2.19.7-cn.9",
+  "url": "https://github.com/DraculaCradle/plutonium-cn",
+  "compatibility": {
+    "minimum": "14.369",
+    "verified": "14.369",
+    "maximum": "14.370"
+  },
+  "socket": true,
+  "persistentStorage": true,
+  "esmodules": [
+    "./js/Bundle.js"
+  ],
+  "styles": [
+    "./css/main.css"
+  ],
+  "packs": [
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "module": "plutonium",
+      "system": "dnd5e",
+      "type": "Macro"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "cn",
+      "name": "简体中文",
+      "path": "lang/cn.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.6",
+          "verified": "6.0.6",
+          "maximum": "6.1.1"
+        }
+      },
+      {
+        "id": "dnd4e",
+        "type": "system"
+      },
+      {
+        "id": "lancer",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.13.0.0"
+        },
+        "reason": "libWrapper is used to patch Foundry methods and functions, extending or altering their functionality."
+      }
+    ],
+    "conflicts": [
+      {
+        "id": "better-rolltables",
+        "type": "module",
+        "reason": "Better Rolltables is incompatible with the \"Render >3 Levels of Folder Nesting\" option, which will be disabled."
+      },
+      {
+        "id": "plutonium",
+        "type": "module",
+        "reason": "此中文版本已包含上游引擎，请勿与英文原版同时启用。"
+      }
+    ]
+  },
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/plutonium-cn/media/img/thumbnail-setup.webp"
+    }
+  ],
+  "documentTypes": {
+    "JournalEntryPage": {
+      "url": {}
+    }
+  },
+  "flags": {
+    "attributions": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/ATTRIBUTIONS.md",
+    "localAdaptation": {
+      "upstreamVersion": "2.19.7.v14",
+      "originalCnVersion": "2.15.6",
+      "targetFoundry": "14.370",
+      "targetDnd5e": "6.1.1",
+      "inWorldVerified": false,
+      "verificationMethod": "local-regression-tests",
+      "verificationScope": "cn.9 修复专长工具熟练先决条件导致的导入器打开失败；复现原错误并检查内置及网站资料快照共 582 条专长的列表与正文先决条件，保留旧熟练类型显示行为。通过 DND5E 6.1.1 模拟接口、中文引用、冒险/书籍及地图命名回归。尚未进行世界内实测；核心与系统 verified 标记保持不变。",
+      "releaseStatus": "candidate",
+      "releaseDate": "2026-11-25"
+    }
+  },
+  "manifest": "https://github.com/DraculaCradle/plutonium-cn/releases/latest/download/module.json",
+  "download": "https://github.com/DraculaCradle/plutonium-cn/releases/download/v2.19.7-cn.9/plutonium-cn.zip"
+}
