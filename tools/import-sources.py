@@ -12,7 +12,6 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--archive', type=Path)
 args = parser.parse_args()
 root = Path(__file__).resolve().parent.parent
-assert not (root / 'js/Bundle.js').exists(), 'Source import already completed'
 expected = '5d2657afe4728618b808341a4d0be43e8afb58dc38f1360d7924d867a47a8418'
 with (tempfile.TemporaryDirectory() if args.archive is None else nullcontext(None)) as temp:
     archive = args.archive
@@ -35,7 +34,9 @@ with (tempfile.TemporaryDirectory() if args.archive is None else nullcontext(Non
             if relative.as_posix() in ('README.md', 'module.json', 'RELEASE-NOTES.md', 'LOCAL-ADAPTATION.md'):
                 assert target.is_file(), relative
                 continue
-            assert not target.exists(), f'Unexpected existing file: {relative}'
+            if target.exists():
+                assert target.read_bytes() == data.read(info), f'Refusing to overwrite modified source: {relative}'
+                continue
             target.parent.mkdir(parents=True, exist_ok=True)
             target.write_bytes(data.read(info))
     assert len(names) == 1452

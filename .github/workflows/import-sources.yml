@@ -23,10 +23,7 @@ jobs:
       - name: Import verified release sources
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          if [ ! -f js/Bundle.js ]; then
-            python tools/import-sources.py
-          fi
+        run: python tools/import-sources.py
       - name: Validate source and package
         run: |
           node --check js/Bundle.js
@@ -36,6 +33,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python -c 'import json, subprocess; names=json.load(open("tools/module-files.json")); subprocess.run(["git", "add", "-f", "--pathspec-from-file=-", "--pathspec-file-nul"], input=("\0".join(names)+"\0").encode(), check=True)'
           git add .
           if ! git diff --cached --quiet; then
             git commit -m 'Import verified cn.9 module sources and validate release build'
